@@ -1,4008 +1,4008 @@
 
 LIBOR SZTEMON'S CZECH-PERSIAN WORD LIST
 
-20. únor - 20. bøezen	Espand
-21. bøezen - 20. duben	Farvardin
-21. duben - 21. kvìten	Ordibehešt
-21. leden - 19. únor	Bahman
-22. kvìten - 21. èerven	Xordâd
-22. listopad - 21. prosinec	Âzar
+20. Ãºnor - 20. bÅ™ezen	Espand
+21. bÅ™ezen - 20. duben	Farvardin
+21. duben - 21. kvÄ›ten	OrdibeheÅ¡t
+21. leden - 19. Ãºnor	Bahman
+22. kvÄ›ten - 21. Äerven	XordÃ¢d
+22. listopad - 21. prosinec	Ã‚zar
 22. prosinec - 20. leden	Dey
-23. èervenec - 22. srpen	Amordâd
-23. øíjen - 21. listopad	Âbân
-23. srpen - 22. záøí	Šahrivar
+23. Äervenec - 22. srpen	AmordÃ¢d
+23. Å™Ã­jen - 21. listopad	Ã‚bÃ¢n
+23. srpen - 22. zÃ¡Å™Ã­	Å ahrivar
 a	va, o
-abeceda	alefbâ
-adresa	âdres, nešâni
-adresáø	daftar e nešâni
-Afghánistán	Afqânestân
-ahoj	salâm, dorud
-ach!	âh!
-akreditiv	e'tebârnâme
+abeceda	alefbÃ¢
+adresa	Ã¢dres, neÅ¡Ã¢ni
+adresÃ¡Å™	daftar e neÅ¡Ã¢ni
+AfghÃ¡nistÃ¡n	AfqÃ¢nestÃ¢n
+ahoj	salÃ¢m, dorud
+ach!	Ã¢h!
+akreditiv	e'tebÃ¢rnÃ¢me
 aksamit	maxmali
-Albánie	Âlbâni
-album	âlbum
+AlbÃ¡nie	Ã‚lbÃ¢ni
+album	Ã¢lbum
 ale	joz, vali
 alej	kuceh
-alergie	âleri
-alibi	bahâne
-almanach	sâlnâme
-alpskı	Âlpi
-Alpy	kuhhâ ye Âlp
-Amerika	Emrikâ
-ametyst	yâqut e români
-ananas	ânânâs
-anèovièka	mâhi ye kuli
-andìl	faravahr, ferešte
-anekdota	šuxi
-angína	barâmadegi ye lowze
-anglickı	engelisi
-angrešt	angur e farangi
+alergie	Ã¢lerÅ¾i
+alibi	bahÃ¢ne
+almanach	sÃ¢lnÃ¢me
+alpskÃ½	Ã‚lpi
+Alpy	kuhhÃ¢ ye Ã‚lp
+Amerika	EmrikÃ¢
+ametyst	yÃ¢qut e romÃ¢ni
+ananas	Ã¢nÃ¢nÃ¢s
+anÄoviÄka	mÃ¢hi ye kuli
+andÄ›l	faravahr, fereÅ¡te
+anekdota	Å¡uxi
+angÃ­na	barÃ¢madegi ye lowze
+anglickÃ½	engelisi
+angreÅ¡t	angur e farangi
 ani	hati, hic
-ano	âri, bale, âre
-antibiotickı	ântibiyotik
-antibiotikum	ântibiyotik
-antickı	atiqe
-antikoncepce	dâru ye zedd e âbestani
-antiseptickı	zedd e ofuni
-apartmá	šabestân
-apendix	âpândis
-aperitiv	pišpâre
-aplaudovat	sotudan, âfarin goftan, kaf zadan
+ano	Ã¢ri, bale, Ã¢re
+antibiotickÃ½	Ã¢ntibiyotik
+antibiotikum	Ã¢ntibiyotik
+antickÃ½	atiqe
+antikoncepce	dÃ¢ru ye zedd e Ã¢bestani
+antiseptickÃ½	zedd e ofuni
+apartmÃ¡	Å¡abestÃ¢n
+apendix	Ã¢pÃ¢ndis
+aperitiv	piÅ¡pÃ¢re
+aplaudovat	sotudan, Ã¢farin goftan, kaf zadan
 Arab	Arab
-Arabové	Arâb
-arabskı	arabi
-aranovat	cidan
-Argentina	Arântin
+ArabovÃ©	ArÃ¢b
+arabskÃ½	arabi
+aranÅ¾ovat	cidan
+Argentina	ArÅ¾Ã¢ntin
 arch	varaq
-archeolog	bâstânšenâs
-archeologie	bâstânšenâsi
-architekt	âršitekt
-archiv	âršiv
-árijskı	âryâyi
-armáda	lašgar, arteš, sepâh
-aroma	bu ye xoš
-artérie	šâhrag
-artista	honarpiše
-artritida	bâd e mafâsel
-artróza	ârtroz
-artyèok	ârtišo
-asi	gerdâgerd, šâyad
-aspirin	âsprin
-astronom	setârešenâs
-astronomie	setârešenâsi
-a byl	bude bâš
-a byl dìlán	karde šode bâšad
-a byli	bude bâšand
-a byli dìláni	karde šode bâšand
-a dává	bedehad
-a dávají	bedehand
-a dával	dâde bâš
-a dávali	dâde bâšand
-a dávám	bedeham
-a dáváme	bedehim
-a dáváš	bedehi
-a dáváte	bedehid
-a dìlá	bekonad
-a dìlají	bekonand
-a dìlal	karde bâš
-a dìlali	karde bâšand
-a dìlám	bekonam
-a dìláme	bekonim
-a dìláš	bekoni
-a dìláte	bekonid
-a hraje	bâzi bekonad
-a hrajeme	bâzi bekonim
-a hraješ	bâzi bekoni
-a hrajete	bâzi bekonid
-a hraji	bâzi bekonam
-a hrají	bâzi bekonand
-a hrál	bâzi karde bâš
-a hráli	bâzi karde bâšand
-a chce	bexâhad
-a chceme	bexâhim
-a chceš	bexâhi
-a chcete	bexâhid
-a chci	bexâham
-a chtìjí	bexâhand
-a chtìl	xâste bâš
-a chtìli	xâste bâšand
-a jde	beravad
-a jdeme	beravim
-a jdeš	beravi
-a jdete	beravid
-a jdou	beravand
-a jdu	beravam
-a je	bâšad
-a je dìlán	karde bešavad
-a jedí	bexârand
-a jedl	xorde bâš
-a jedli	xorde bâšand
-a jí	bexârad
-a jím	bexâram
-a jíme	bexârim
-a jíš	bexâri
-a jíte	bexârid
-a jsem	bâšam
-a jsem byl	bude bâšam
-a jsem byl dìlán	karde šode bâšam
-a jsem dával	dâde bâšam
-a jsem dìlal	karde bâšam
-a jsem dìlán	karde bešavam
-a jsem hrál	bâzi karde bâšam
-a jsem chtìl	xâste bâšam
-a jsem jedl	xorde bâšam
-a jsem lámal	šekaste bâšam
-a jsem mìl	dâšte bâšam
-a jsem nebyl	nabude bâšam
-a jsem nebyl dìlán	karde šode nabâšam
-a jsem nedával	nadâde bâšam
-a jsem nedìlal	nakarde bâšam
-a jsem nehrál	bâzi nakarde bâšam
-a jsem nechtìl	naxâste bâšam
-a jsem nejedl	naxorde bâšam
-a jsem nepil	nayâšâmide bâšam
-a jsem nepoèítal	našomorde bâšam
-a jsem nepøinesl	nayâvarde bâšam
-a jsem nepøišel	nayâmade bâšam
-a jsem nespal	naxâbide bâšam
-a jsem nevìdìl	nadâneste bâšam
-a jsem nezavíral	nabaste bâšam
-a jsem pil	âšâmide bâšam
-a jsem poèítal	šomorde bâšam
-a jsem pøinesl	âvarde bâšam
-a jsem pøišel	âmade bâšam
-a jsem øezal	borde bâšam
-a jsem spal	xâbide bâšam
-a jsem vìdìl	dâneste bâšam
-a jsem zavíral	baste bâšam
-a jsi	bâši
-a jsi byl	bude bâši
-a jsi byl dìlán	karde šode bâši
-a jsi dával	dâde bâši
-a jsi dìlal	karde bâši
-a jsi dìlán	karde bešavi
-a jsi hrál	bâzi karde bâši
-a jsi chtìl	xâste bâši
-a jsi jedl	xorde bâši
-a jsi lámal	šekaste bâši
-a jsi mìl	dâšte bâši
-a jsi nebyl	nabude bâši
-a jsi nebyl dìlán	karde šode nabâši
-a jsi nedával	nadâde bâši
-a jsi nedìlal	nakarde bâši
-a jsi nehrál	bâzi nakarde bâši
-a jsi nechtìl	naxâste bâši
-a jsi nejedl	naxorde bâši
-a jsi nepil	nayâšâmide bâši
-a jsi nepoèítal	našomorde bâši
-a jsi nepøinesl	nayâvarde bâši
-a jsi nepøišel	nayâmade bâši
-a jsi nespal	naxâbide bâši
-a jsi nevìdìl	nadâneste bâši
-a jsi nezavíral	nabaste bâši
-a jsi pil	âšâmide bâši
-a jsi poèítal	šomorde bâši
-a jsi pøinesl	âvarde bâši
-a jsi pøišel	âmade bâši
-a jsi øezal	borde bâši
-a jsi spal	xâbide bâši
-a jsi vìdìl	dâneste bâši
-a jsi zavíral	baste bâši
-a jsme	bâšim
-a jsme byli	bude bâšim
-a jsme byli dìláni	karde šode bâšim
-a jsme dávali	dâde bâšim
-a jsme dìlali	karde bâšim
-a jsme dìláni	karde bešavim
-a jsme hráli	bâzi karde bâšim
-a jsme chtìli	xâste bâšim
-a jsme jedli	xorde bâšim
-a jsme lámali	šekaste bâšim
-a jsme mìli	dâšte bâšim
-a jsme nebyli	nabude bâšim
-a jsme nebyli dìláni	karde šode nabâšim
-a jsme nedávali	nadâde bâšim
-a jsme nedìlali	nakarde bâšim
-a jsme nehráli	bâzi nakarde bâšim
-a jsme nechtìli	naxâste bâšim
-a jsme nejedli	naxorde bâšim
-a jsme nepili	nayâšâmide bâšim
-a jsme nepoèítali	našomorde bâšim
-a jsme nepøinesli	nayâvarde bâšim
-a jsme nepøišli	nayâmade bâšim
-a jsme nespali	naxâbide bâšim
-a jsme nevìdìli	nadâneste bâšim
-a jsme nezavírali	nabaste bâšim
-a jsme pili	âšâmide bâšim
-a jsme poèítali	šomorde bâšim
-a jsme pøinesli	âvarde bâšim
-a jsme pøišli	âmade bâšim
-a jsme øezali	borde bâšim
-a jsme spali	xâbide bâšim
-a jsme vìdìli	dâneste bâšim
-a jsme zavírali	baste bâšim
-a jsou	bâšand
-a jsou dìláni	karde bešavand
-a jste	bâšid
-a jste byli	bude bâšid
-a jste byli dìláni	karde šode bâšid
-a jste dávali	dâde bâšid
-a jste dìlali	karde bâšid
-a jste dìláni	karde bešavid
-a jste hráli	bâzi karde bâšid
-a jste chtìli	xâste bâšid
-a jste jedli	xorde bâšid
-a jste lámali	šekaste bâšid
-a jste mìli	dâšte bâšim, dâšte bâšid
-a jste nebyli	nabude bâšid
-a jste nebyli dìláni	karde šode nabâšid
-a jste nedávali	nadâde bâšid
-a jste nedìlali	nakarde bâšid
-a jste nehráli	bâzi nakarde bâšid
-a jste nechtìli	naxâste bâšid
-a jste nejedli	naxorde bâšid
-a jste nepili	nayâšâmide bâšid
-a jste nepoèítali	našomorde bâšid
-a jste nepøinesli	nayâvarde bâšid
-a jste nepøišli	nayâmade bâšid
-a jste nespali	naxâbide bâšid
-a jste nevìdìli	nadâneste bâšid
-a jste nezavírali	nabaste bâšid
-a jste pili	âšâmide bâšid
-a jste poèítali	šomorde bâšid
-a jste pøinesli	âvarde bâšid
-a jste pøišli	âmade bâšid
-a jste øezali	borde bâšid
-a jste spali	xâbide bâšid
-a jste vìdìli	dâneste bâšid
-a jste zavírali	baste bâšid
-a lámal	šekaste bâš
-a lámali	šekaste bâšand
-a láme	bešekandad
-a lámeme	bešekandim
-a lámeš	bešekandi
-a lámete	bešekandid
-a lámou	bešekandand
-a lámu	bešekandam
-a mìl	dâšte bâš
-a mìli	dâšte bâšand
-a nebyl	nabude bâš
-a nebyl dìlán	karde šode nabâšad
-a nebyli	nabude bâšand
-a nebyli dìláni	karde šode nabâšand
-a nedává	nadehad
-a nedávají	nadehand
-a nedával	nadâde bâš
-a nedávali	nadâde bâšand
-a nedávám	nadeham
-a nedáváme	nadehim
-a nedáváš	nadehi
-a nedáváte	nadehid
-a nedìlá	nakonad
-a nedìlají	nakonand
-a nedìlal	nakarde bâš
-a nedìlali	nakarde bâšand
-a nedìlám	nakonam
-a nedìláme	nakonim
-a nedìláš	nakoni
-a nedìláte	nakonid
-a nehraje	bâzi nakonad
-a nehrajeme	bâzi nakonim
-a nehraješ	bâzi nakoni
-a nehrajete	bâzi nakonid
-a nehraji	bâzi nakonam
-a nehrají	bâzi nakonand
-a nehrál	bâzi nakarde bâš
-a nehráli	bâzi nakarde bâšand
-a nechce	naxâhad
-a nechceme	naxâhim
-a nechceš	naxâhi
-a nechcete	naxâhid
-a nechci	naxâham
-a nechtìjí	naxâhand
-a nechtìl	naxâste bâš
-a nechtìli	naxâste bâšand
-a nejedí	naxârand
-a nejedl	naxorde bâš
-a nejedli	naxorde bâšand
-a nejí	naxârad
-a nejím	naxâram
-a nejíme	naxârim
-a nejíš	naxâri
-a nejíte	naxârid
-a nejsem	nabâšam
-a nejsem dìlán	karde našavam
-a nejsi	nabâši
-a nejsi dìlán	karde našavi
-a nejsme	nabâšim
-a nejsme dìláni	karde našavim
-a nejsou	nabâšand
-a nejsou dìláni	karde našavand
-a nejste	nabâšid
-a nejste dìláni	karde našavid
-a není	nabâšad
-a není dìlán	karde našavad
-a nepije	nayâšâmad
-a nepijeme	nayâšâmim
-a nepiješ	nayâšâmi
-a nepijete	nayâšâmid
-a nepiji	nayâšâmam
-a nepijí	nayâšâmand
-a nepil	nayâšâmide bâš
-a nepili	nayâšâmide bâšand
-a nepoèítá	našomorad
-a nepoèítají	našomorand
-a nepoèítal	našomorde bâš
-a nepoèítali	našomorde bâšand
-a nepoèítám	našomoram
-a nepoèítáme	našomorim
-a nepoèítáš	našomori
-a nepoèítáte	našomorid
-a nepøicházejí	nayâyand
-a nepøichází	nayâyam, nayâyad
-a nepøicházíme	nayâ'im
-a nepøicházíš	nayâ'i
-a nepøicházíte	nayâ'id
-a nepøinášejí	nayârand
-a nepøináší	nayârad
-a nepøináším	nayâram
-a nepøinášíme	nayârim
-a nepøinášíš	nayâri
-a nepøinášíte	nayârid
-a nepøinesl	nayâvarde bâš
-a nepøinesli	nayâvarde bâšand
-a nepøišel	nayâmade bâš
-a nepøišli	nayâmade bâšand
-a nespal	naxâbide bâš
-a nespali	naxâbide bâšand
-a nespí	naxâbad
-a nespí (pl.)	naxâband
-a nespím	naxâbam
-a nespíme	naxâbim
-a nespíš	naxâbi
-a nespíte	naxâbid
-a nevìdìl	nadâneste bâš
-a nevìdìli	nadâneste bâšand
-a nevìdí	nadânand
-a neví	nadânad
-a nevím	nadânam
-a nevíme	nadânim
-a nevíš	nadâni
-a nevíte	nadânid
-a nezavírá	nabandad
-a nezavírají	nabandand
-a nezavíral	nabaste bâš
-a nezavírali	nabaste bâšand
-a nezavírám	nabandam
-a nezavíráme	nabandim
-a nezavíráš	nabandi
-a nezavíráte	nabandid
-a pije	xâhad âšâmid
-a pijeme	xâhim âšâmid
-a piješ	xâhi âšâmid
-a pijete	xâhid âšâmid
-a piji	xâham âšâmid
-a pijí	xâhand âšâmid
-a pil	âšâmide bâš
-a pili	âšâmide bâšand
-a poèítá	bešomorad
-a poèítají	bešomorand
-a poèítal	šomorde bâš
-a poèítali	šomorde bâšand
-a poèítám	bešomoram
-a poèítáme	bešomorim
-a poèítáš	bešomori
-a poèítáte	bešomorid
-a pøicházejí	beâyand
-a pøichází	beâyad
-a pøicházím	beâyam
-a pøicházíme	beâ'im
-a pøicházíš	beâ'i
-a pøicházíte	beâ'id
-a pøinášejí	beârand
-a pøináší	beârad
-a pøináším	beâram
-a pøinášíme	beârim
-a pøinášíš	beâri
-a pøinášíte	beârid
-a pøinesl	âvarde bâš
-a pøinesli	âvarde bâšand
-a pøišel	âmade bâš
-a pøišli	âmade bâšand
-a øezá	bebarad
-a øezají	bebarand
-a øezal	borde bâš
-a øezali	borde bâšand
-a øezám	bebaram
-a øezáme	bebarim
-a øezáš	bebari
-a øezáte	bebarid
-a se stává	bešavad
-a se stávají	bešavand
-a se stávám	bešavam
-a se stáváme	bešavim
-a se stáváš	bešavi
-a se stáváte	bešavid
-a spal	xâbide bâš
-a spali	xâbide bâšand
-a spí	bexâbad
-a spí (pl.)	bexâband
-a spím	bexâbam
-a spíme	bexâbim
-a spíš	bexâbi
-a spíte	bexâbid
-a vìdìl	dâneste bâš
-a vìdìli	dâneste bâšand
-a vìdí	bedânand
-a ví	bedânad
-a vidí	bebinad
-a vidí (pl.)	bebinand
-a vidím	bebinam
-a vidíme	bebinim
-a vidíš	bebini
-a vidíte	bebinid
-a vím	bedânam
-a víme	bedânim
-a víš	bedâni
-a víte	bedânid
-a zavírá	bebandad
-a zavírají	bebandand
-a zavíral	baste bâš
-a zavírali	baste bâšand
-a zavírám	bebandam
-a zavíráme	bebandim
-a zavíráš	bebandi
-a zavíráte	bebandid
-atmosféra	atmosfer
-atmosférickı	atmosferi
+archeolog	bÃ¢stÃ¢nÅ¡enÃ¢s
+archeologie	bÃ¢stÃ¢nÅ¡enÃ¢si
+architekt	Ã¢rÅ¡itekt
+archiv	Ã¢rÅ¡iv
+Ã¡rijskÃ½	Ã¢ryÃ¢yi
+armÃ¡da	laÅ¡gar, arteÅ¡, sepÃ¢h
+aroma	bu ye xoÅ¡
+artÃ©rie	Å¡Ã¢hrag
+artista	honarpiÅ¡e
+artritida	bÃ¢d e mafÃ¢sel
+artrÃ³za	Ã¢rtroz
+artyÄok	Ã¢rtiÅ¡o
+asi	gerdÃ¢gerd, Å¡Ã¢yad
+aspirin	Ã¢sprin
+astronom	setÃ¢reÅ¡enÃ¢s
+astronomie	setÃ¢reÅ¡enÃ¢si
+aÅ¥ byl	bude bÃ¢Å¡
+aÅ¥ byl dÄ›lÃ¡n	karde Å¡ode bÃ¢Å¡ad
+aÅ¥ byli	bude bÃ¢Å¡and
+aÅ¥ byli dÄ›lÃ¡ni	karde Å¡ode bÃ¢Å¡and
+aÅ¥ dÃ¡vÃ¡	bedehad
+aÅ¥ dÃ¡vajÃ­	bedehand
+aÅ¥ dÃ¡val	dÃ¢de bÃ¢Å¡
+aÅ¥ dÃ¡vali	dÃ¢de bÃ¢Å¡and
+aÅ¥ dÃ¡vÃ¡m	bedeham
+aÅ¥ dÃ¡vÃ¡me	bedehim
+aÅ¥ dÃ¡vÃ¡Å¡	bedehi
+aÅ¥ dÃ¡vÃ¡te	bedehid
+aÅ¥ dÄ›lÃ¡	bekonad
+aÅ¥ dÄ›lajÃ­	bekonand
+aÅ¥ dÄ›lal	karde bÃ¢Å¡
+aÅ¥ dÄ›lali	karde bÃ¢Å¡and
+aÅ¥ dÄ›lÃ¡m	bekonam
+aÅ¥ dÄ›lÃ¡me	bekonim
+aÅ¥ dÄ›lÃ¡Å¡	bekoni
+aÅ¥ dÄ›lÃ¡te	bekonid
+aÅ¥ hraje	bÃ¢zi bekonad
+aÅ¥ hrajeme	bÃ¢zi bekonim
+aÅ¥ hrajeÅ¡	bÃ¢zi bekoni
+aÅ¥ hrajete	bÃ¢zi bekonid
+aÅ¥ hraji	bÃ¢zi bekonam
+aÅ¥ hrajÃ­	bÃ¢zi bekonand
+aÅ¥ hrÃ¡l	bÃ¢zi karde bÃ¢Å¡
+aÅ¥ hrÃ¡li	bÃ¢zi karde bÃ¢Å¡and
+aÅ¥ chce	bexÃ¢had
+aÅ¥ chceme	bexÃ¢him
+aÅ¥ chceÅ¡	bexÃ¢hi
+aÅ¥ chcete	bexÃ¢hid
+aÅ¥ chci	bexÃ¢ham
+aÅ¥ chtÄ›jÃ­	bexÃ¢hand
+aÅ¥ chtÄ›l	xÃ¢ste bÃ¢Å¡
+aÅ¥ chtÄ›li	xÃ¢ste bÃ¢Å¡and
+aÅ¥ jde	beravad
+aÅ¥ jdeme	beravim
+aÅ¥ jdeÅ¡	beravi
+aÅ¥ jdete	beravid
+aÅ¥ jdou	beravand
+aÅ¥ jdu	beravam
+aÅ¥ je	bÃ¢Å¡ad
+aÅ¥ je dÄ›lÃ¡n	karde beÅ¡avad
+aÅ¥ jedÃ­	bexÃ¢rand
+aÅ¥ jedl	xorde bÃ¢Å¡
+aÅ¥ jedli	xorde bÃ¢Å¡and
+aÅ¥ jÃ­	bexÃ¢rad
+aÅ¥ jÃ­m	bexÃ¢ram
+aÅ¥ jÃ­me	bexÃ¢rim
+aÅ¥ jÃ­Å¡	bexÃ¢ri
+aÅ¥ jÃ­te	bexÃ¢rid
+aÅ¥ jsem	bÃ¢Å¡am
+aÅ¥ jsem byl	bude bÃ¢Å¡am
+aÅ¥ jsem byl dÄ›lÃ¡n	karde Å¡ode bÃ¢Å¡am
+aÅ¥ jsem dÃ¡val	dÃ¢de bÃ¢Å¡am
+aÅ¥ jsem dÄ›lal	karde bÃ¢Å¡am
+aÅ¥ jsem dÄ›lÃ¡n	karde beÅ¡avam
+aÅ¥ jsem hrÃ¡l	bÃ¢zi karde bÃ¢Å¡am
+aÅ¥ jsem chtÄ›l	xÃ¢ste bÃ¢Å¡am
+aÅ¥ jsem jedl	xorde bÃ¢Å¡am
+aÅ¥ jsem lÃ¡mal	Å¡ekaste bÃ¢Å¡am
+aÅ¥ jsem mÄ›l	dÃ¢Å¡te bÃ¢Å¡am
+aÅ¥ jsem nebyl	nabude bÃ¢Å¡am
+aÅ¥ jsem nebyl dÄ›lÃ¡n	karde Å¡ode nabÃ¢Å¡am
+aÅ¥ jsem nedÃ¡val	nadÃ¢de bÃ¢Å¡am
+aÅ¥ jsem nedÄ›lal	nakarde bÃ¢Å¡am
+aÅ¥ jsem nehrÃ¡l	bÃ¢zi nakarde bÃ¢Å¡am
+aÅ¥ jsem nechtÄ›l	naxÃ¢ste bÃ¢Å¡am
+aÅ¥ jsem nejedl	naxorde bÃ¢Å¡am
+aÅ¥ jsem nepil	nayÃ¢Å¡Ã¢mide bÃ¢Å¡am
+aÅ¥ jsem nepoÄÃ­tal	naÅ¡omorde bÃ¢Å¡am
+aÅ¥ jsem nepÅ™inesl	nayÃ¢varde bÃ¢Å¡am
+aÅ¥ jsem nepÅ™iÅ¡el	nayÃ¢made bÃ¢Å¡am
+aÅ¥ jsem nespal	naxÃ¢bide bÃ¢Å¡am
+aÅ¥ jsem nevÄ›dÄ›l	nadÃ¢neste bÃ¢Å¡am
+aÅ¥ jsem nezavÃ­ral	nabaste bÃ¢Å¡am
+aÅ¥ jsem pil	Ã¢Å¡Ã¢mide bÃ¢Å¡am
+aÅ¥ jsem poÄÃ­tal	Å¡omorde bÃ¢Å¡am
+aÅ¥ jsem pÅ™inesl	Ã¢varde bÃ¢Å¡am
+aÅ¥ jsem pÅ™iÅ¡el	Ã¢made bÃ¢Å¡am
+aÅ¥ jsem Å™ezal	borde bÃ¢Å¡am
+aÅ¥ jsem spal	xÃ¢bide bÃ¢Å¡am
+aÅ¥ jsem vÄ›dÄ›l	dÃ¢neste bÃ¢Å¡am
+aÅ¥ jsem zavÃ­ral	baste bÃ¢Å¡am
+aÅ¥ jsi	bÃ¢Å¡i
+aÅ¥ jsi byl	bude bÃ¢Å¡i
+aÅ¥ jsi byl dÄ›lÃ¡n	karde Å¡ode bÃ¢Å¡i
+aÅ¥ jsi dÃ¡val	dÃ¢de bÃ¢Å¡i
+aÅ¥ jsi dÄ›lal	karde bÃ¢Å¡i
+aÅ¥ jsi dÄ›lÃ¡n	karde beÅ¡avi
+aÅ¥ jsi hrÃ¡l	bÃ¢zi karde bÃ¢Å¡i
+aÅ¥ jsi chtÄ›l	xÃ¢ste bÃ¢Å¡i
+aÅ¥ jsi jedl	xorde bÃ¢Å¡i
+aÅ¥ jsi lÃ¡mal	Å¡ekaste bÃ¢Å¡i
+aÅ¥ jsi mÄ›l	dÃ¢Å¡te bÃ¢Å¡i
+aÅ¥ jsi nebyl	nabude bÃ¢Å¡i
+aÅ¥ jsi nebyl dÄ›lÃ¡n	karde Å¡ode nabÃ¢Å¡i
+aÅ¥ jsi nedÃ¡val	nadÃ¢de bÃ¢Å¡i
+aÅ¥ jsi nedÄ›lal	nakarde bÃ¢Å¡i
+aÅ¥ jsi nehrÃ¡l	bÃ¢zi nakarde bÃ¢Å¡i
+aÅ¥ jsi nechtÄ›l	naxÃ¢ste bÃ¢Å¡i
+aÅ¥ jsi nejedl	naxorde bÃ¢Å¡i
+aÅ¥ jsi nepil	nayÃ¢Å¡Ã¢mide bÃ¢Å¡i
+aÅ¥ jsi nepoÄÃ­tal	naÅ¡omorde bÃ¢Å¡i
+aÅ¥ jsi nepÅ™inesl	nayÃ¢varde bÃ¢Å¡i
+aÅ¥ jsi nepÅ™iÅ¡el	nayÃ¢made bÃ¢Å¡i
+aÅ¥ jsi nespal	naxÃ¢bide bÃ¢Å¡i
+aÅ¥ jsi nevÄ›dÄ›l	nadÃ¢neste bÃ¢Å¡i
+aÅ¥ jsi nezavÃ­ral	nabaste bÃ¢Å¡i
+aÅ¥ jsi pil	Ã¢Å¡Ã¢mide bÃ¢Å¡i
+aÅ¥ jsi poÄÃ­tal	Å¡omorde bÃ¢Å¡i
+aÅ¥ jsi pÅ™inesl	Ã¢varde bÃ¢Å¡i
+aÅ¥ jsi pÅ™iÅ¡el	Ã¢made bÃ¢Å¡i
+aÅ¥ jsi Å™ezal	borde bÃ¢Å¡i
+aÅ¥ jsi spal	xÃ¢bide bÃ¢Å¡i
+aÅ¥ jsi vÄ›dÄ›l	dÃ¢neste bÃ¢Å¡i
+aÅ¥ jsi zavÃ­ral	baste bÃ¢Å¡i
+aÅ¥ jsme	bÃ¢Å¡im
+aÅ¥ jsme byli	bude bÃ¢Å¡im
+aÅ¥ jsme byli dÄ›lÃ¡ni	karde Å¡ode bÃ¢Å¡im
+aÅ¥ jsme dÃ¡vali	dÃ¢de bÃ¢Å¡im
+aÅ¥ jsme dÄ›lali	karde bÃ¢Å¡im
+aÅ¥ jsme dÄ›lÃ¡ni	karde beÅ¡avim
+aÅ¥ jsme hrÃ¡li	bÃ¢zi karde bÃ¢Å¡im
+aÅ¥ jsme chtÄ›li	xÃ¢ste bÃ¢Å¡im
+aÅ¥ jsme jedli	xorde bÃ¢Å¡im
+aÅ¥ jsme lÃ¡mali	Å¡ekaste bÃ¢Å¡im
+aÅ¥ jsme mÄ›li	dÃ¢Å¡te bÃ¢Å¡im
+aÅ¥ jsme nebyli	nabude bÃ¢Å¡im
+aÅ¥ jsme nebyli dÄ›lÃ¡ni	karde Å¡ode nabÃ¢Å¡im
+aÅ¥ jsme nedÃ¡vali	nadÃ¢de bÃ¢Å¡im
+aÅ¥ jsme nedÄ›lali	nakarde bÃ¢Å¡im
+aÅ¥ jsme nehrÃ¡li	bÃ¢zi nakarde bÃ¢Å¡im
+aÅ¥ jsme nechtÄ›li	naxÃ¢ste bÃ¢Å¡im
+aÅ¥ jsme nejedli	naxorde bÃ¢Å¡im
+aÅ¥ jsme nepili	nayÃ¢Å¡Ã¢mide bÃ¢Å¡im
+aÅ¥ jsme nepoÄÃ­tali	naÅ¡omorde bÃ¢Å¡im
+aÅ¥ jsme nepÅ™inesli	nayÃ¢varde bÃ¢Å¡im
+aÅ¥ jsme nepÅ™iÅ¡li	nayÃ¢made bÃ¢Å¡im
+aÅ¥ jsme nespali	naxÃ¢bide bÃ¢Å¡im
+aÅ¥ jsme nevÄ›dÄ›li	nadÃ¢neste bÃ¢Å¡im
+aÅ¥ jsme nezavÃ­rali	nabaste bÃ¢Å¡im
+aÅ¥ jsme pili	Ã¢Å¡Ã¢mide bÃ¢Å¡im
+aÅ¥ jsme poÄÃ­tali	Å¡omorde bÃ¢Å¡im
+aÅ¥ jsme pÅ™inesli	Ã¢varde bÃ¢Å¡im
+aÅ¥ jsme pÅ™iÅ¡li	Ã¢made bÃ¢Å¡im
+aÅ¥ jsme Å™ezali	borde bÃ¢Å¡im
+aÅ¥ jsme spali	xÃ¢bide bÃ¢Å¡im
+aÅ¥ jsme vÄ›dÄ›li	dÃ¢neste bÃ¢Å¡im
+aÅ¥ jsme zavÃ­rali	baste bÃ¢Å¡im
+aÅ¥ jsou	bÃ¢Å¡and
+aÅ¥ jsou dÄ›lÃ¡ni	karde beÅ¡avand
+aÅ¥ jste	bÃ¢Å¡id
+aÅ¥ jste byli	bude bÃ¢Å¡id
+aÅ¥ jste byli dÄ›lÃ¡ni	karde Å¡ode bÃ¢Å¡id
+aÅ¥ jste dÃ¡vali	dÃ¢de bÃ¢Å¡id
+aÅ¥ jste dÄ›lali	karde bÃ¢Å¡id
+aÅ¥ jste dÄ›lÃ¡ni	karde beÅ¡avid
+aÅ¥ jste hrÃ¡li	bÃ¢zi karde bÃ¢Å¡id
+aÅ¥ jste chtÄ›li	xÃ¢ste bÃ¢Å¡id
+aÅ¥ jste jedli	xorde bÃ¢Å¡id
+aÅ¥ jste lÃ¡mali	Å¡ekaste bÃ¢Å¡id
+aÅ¥ jste mÄ›li	dÃ¢Å¡te bÃ¢Å¡im, dÃ¢Å¡te bÃ¢Å¡id
+aÅ¥ jste nebyli	nabude bÃ¢Å¡id
+aÅ¥ jste nebyli dÄ›lÃ¡ni	karde Å¡ode nabÃ¢Å¡id
+aÅ¥ jste nedÃ¡vali	nadÃ¢de bÃ¢Å¡id
+aÅ¥ jste nedÄ›lali	nakarde bÃ¢Å¡id
+aÅ¥ jste nehrÃ¡li	bÃ¢zi nakarde bÃ¢Å¡id
+aÅ¥ jste nechtÄ›li	naxÃ¢ste bÃ¢Å¡id
+aÅ¥ jste nejedli	naxorde bÃ¢Å¡id
+aÅ¥ jste nepili	nayÃ¢Å¡Ã¢mide bÃ¢Å¡id
+aÅ¥ jste nepoÄÃ­tali	naÅ¡omorde bÃ¢Å¡id
+aÅ¥ jste nepÅ™inesli	nayÃ¢varde bÃ¢Å¡id
+aÅ¥ jste nepÅ™iÅ¡li	nayÃ¢made bÃ¢Å¡id
+aÅ¥ jste nespali	naxÃ¢bide bÃ¢Å¡id
+aÅ¥ jste nevÄ›dÄ›li	nadÃ¢neste bÃ¢Å¡id
+aÅ¥ jste nezavÃ­rali	nabaste bÃ¢Å¡id
+aÅ¥ jste pili	Ã¢Å¡Ã¢mide bÃ¢Å¡id
+aÅ¥ jste poÄÃ­tali	Å¡omorde bÃ¢Å¡id
+aÅ¥ jste pÅ™inesli	Ã¢varde bÃ¢Å¡id
+aÅ¥ jste pÅ™iÅ¡li	Ã¢made bÃ¢Å¡id
+aÅ¥ jste Å™ezali	borde bÃ¢Å¡id
+aÅ¥ jste spali	xÃ¢bide bÃ¢Å¡id
+aÅ¥ jste vÄ›dÄ›li	dÃ¢neste bÃ¢Å¡id
+aÅ¥ jste zavÃ­rali	baste bÃ¢Å¡id
+aÅ¥ lÃ¡mal	Å¡ekaste bÃ¢Å¡
+aÅ¥ lÃ¡mali	Å¡ekaste bÃ¢Å¡and
+aÅ¥ lÃ¡me	beÅ¡ekandad
+aÅ¥ lÃ¡meme	beÅ¡ekandim
+aÅ¥ lÃ¡meÅ¡	beÅ¡ekandi
+aÅ¥ lÃ¡mete	beÅ¡ekandid
+aÅ¥ lÃ¡mou	beÅ¡ekandand
+aÅ¥ lÃ¡mu	beÅ¡ekandam
+aÅ¥ mÄ›l	dÃ¢Å¡te bÃ¢Å¡
+aÅ¥ mÄ›li	dÃ¢Å¡te bÃ¢Å¡and
+aÅ¥ nebyl	nabude bÃ¢Å¡
+aÅ¥ nebyl dÄ›lÃ¡n	karde Å¡ode nabÃ¢Å¡ad
+aÅ¥ nebyli	nabude bÃ¢Å¡and
+aÅ¥ nebyli dÄ›lÃ¡ni	karde Å¡ode nabÃ¢Å¡and
+aÅ¥ nedÃ¡vÃ¡	nadehad
+aÅ¥ nedÃ¡vajÃ­	nadehand
+aÅ¥ nedÃ¡val	nadÃ¢de bÃ¢Å¡
+aÅ¥ nedÃ¡vali	nadÃ¢de bÃ¢Å¡and
+aÅ¥ nedÃ¡vÃ¡m	nadeham
+aÅ¥ nedÃ¡vÃ¡me	nadehim
+aÅ¥ nedÃ¡vÃ¡Å¡	nadehi
+aÅ¥ nedÃ¡vÃ¡te	nadehid
+aÅ¥ nedÄ›lÃ¡	nakonad
+aÅ¥ nedÄ›lajÃ­	nakonand
+aÅ¥ nedÄ›lal	nakarde bÃ¢Å¡
+aÅ¥ nedÄ›lali	nakarde bÃ¢Å¡and
+aÅ¥ nedÄ›lÃ¡m	nakonam
+aÅ¥ nedÄ›lÃ¡me	nakonim
+aÅ¥ nedÄ›lÃ¡Å¡	nakoni
+aÅ¥ nedÄ›lÃ¡te	nakonid
+aÅ¥ nehraje	bÃ¢zi nakonad
+aÅ¥ nehrajeme	bÃ¢zi nakonim
+aÅ¥ nehrajeÅ¡	bÃ¢zi nakoni
+aÅ¥ nehrajete	bÃ¢zi nakonid
+aÅ¥ nehraji	bÃ¢zi nakonam
+aÅ¥ nehrajÃ­	bÃ¢zi nakonand
+aÅ¥ nehrÃ¡l	bÃ¢zi nakarde bÃ¢Å¡
+aÅ¥ nehrÃ¡li	bÃ¢zi nakarde bÃ¢Å¡and
+aÅ¥ nechce	naxÃ¢had
+aÅ¥ nechceme	naxÃ¢him
+aÅ¥ nechceÅ¡	naxÃ¢hi
+aÅ¥ nechcete	naxÃ¢hid
+aÅ¥ nechci	naxÃ¢ham
+aÅ¥ nechtÄ›jÃ­	naxÃ¢hand
+aÅ¥ nechtÄ›l	naxÃ¢ste bÃ¢Å¡
+aÅ¥ nechtÄ›li	naxÃ¢ste bÃ¢Å¡and
+aÅ¥ nejedÃ­	naxÃ¢rand
+aÅ¥ nejedl	naxorde bÃ¢Å¡
+aÅ¥ nejedli	naxorde bÃ¢Å¡and
+aÅ¥ nejÃ­	naxÃ¢rad
+aÅ¥ nejÃ­m	naxÃ¢ram
+aÅ¥ nejÃ­me	naxÃ¢rim
+aÅ¥ nejÃ­Å¡	naxÃ¢ri
+aÅ¥ nejÃ­te	naxÃ¢rid
+aÅ¥ nejsem	nabÃ¢Å¡am
+aÅ¥ nejsem dÄ›lÃ¡n	karde naÅ¡avam
+aÅ¥ nejsi	nabÃ¢Å¡i
+aÅ¥ nejsi dÄ›lÃ¡n	karde naÅ¡avi
+aÅ¥ nejsme	nabÃ¢Å¡im
+aÅ¥ nejsme dÄ›lÃ¡ni	karde naÅ¡avim
+aÅ¥ nejsou	nabÃ¢Å¡and
+aÅ¥ nejsou dÄ›lÃ¡ni	karde naÅ¡avand
+aÅ¥ nejste	nabÃ¢Å¡id
+aÅ¥ nejste dÄ›lÃ¡ni	karde naÅ¡avid
+aÅ¥ nenÃ­	nabÃ¢Å¡ad
+aÅ¥ nenÃ­ dÄ›lÃ¡n	karde naÅ¡avad
+aÅ¥ nepije	nayÃ¢Å¡Ã¢mad
+aÅ¥ nepijeme	nayÃ¢Å¡Ã¢mim
+aÅ¥ nepijeÅ¡	nayÃ¢Å¡Ã¢mi
+aÅ¥ nepijete	nayÃ¢Å¡Ã¢mid
+aÅ¥ nepiji	nayÃ¢Å¡Ã¢mam
+aÅ¥ nepijÃ­	nayÃ¢Å¡Ã¢mand
+aÅ¥ nepil	nayÃ¢Å¡Ã¢mide bÃ¢Å¡
+aÅ¥ nepili	nayÃ¢Å¡Ã¢mide bÃ¢Å¡and
+aÅ¥ nepoÄÃ­tÃ¡	naÅ¡omorad
+aÅ¥ nepoÄÃ­tajÃ­	naÅ¡omorand
+aÅ¥ nepoÄÃ­tal	naÅ¡omorde bÃ¢Å¡
+aÅ¥ nepoÄÃ­tali	naÅ¡omorde bÃ¢Å¡and
+aÅ¥ nepoÄÃ­tÃ¡m	naÅ¡omoram
+aÅ¥ nepoÄÃ­tÃ¡me	naÅ¡omorim
+aÅ¥ nepoÄÃ­tÃ¡Å¡	naÅ¡omori
+aÅ¥ nepoÄÃ­tÃ¡te	naÅ¡omorid
+aÅ¥ nepÅ™ichÃ¡zejÃ­	nayÃ¢yand
+aÅ¥ nepÅ™ichÃ¡zÃ­	nayÃ¢yam, nayÃ¢yad
+aÅ¥ nepÅ™ichÃ¡zÃ­me	nayÃ¢'im
+aÅ¥ nepÅ™ichÃ¡zÃ­Å¡	nayÃ¢'i
+aÅ¥ nepÅ™ichÃ¡zÃ­te	nayÃ¢'id
+aÅ¥ nepÅ™inÃ¡Å¡ejÃ­	nayÃ¢rand
+aÅ¥ nepÅ™inÃ¡Å¡Ã­	nayÃ¢rad
+aÅ¥ nepÅ™inÃ¡Å¡Ã­m	nayÃ¢ram
+aÅ¥ nepÅ™inÃ¡Å¡Ã­me	nayÃ¢rim
+aÅ¥ nepÅ™inÃ¡Å¡Ã­Å¡	nayÃ¢ri
+aÅ¥ nepÅ™inÃ¡Å¡Ã­te	nayÃ¢rid
+aÅ¥ nepÅ™inesl	nayÃ¢varde bÃ¢Å¡
+aÅ¥ nepÅ™inesli	nayÃ¢varde bÃ¢Å¡and
+aÅ¥ nepÅ™iÅ¡el	nayÃ¢made bÃ¢Å¡
+aÅ¥ nepÅ™iÅ¡li	nayÃ¢made bÃ¢Å¡and
+aÅ¥ nespal	naxÃ¢bide bÃ¢Å¡
+aÅ¥ nespali	naxÃ¢bide bÃ¢Å¡and
+aÅ¥ nespÃ­	naxÃ¢bad
+aÅ¥ nespÃ­ (pl.)	naxÃ¢band
+aÅ¥ nespÃ­m	naxÃ¢bam
+aÅ¥ nespÃ­me	naxÃ¢bim
+aÅ¥ nespÃ­Å¡	naxÃ¢bi
+aÅ¥ nespÃ­te	naxÃ¢bid
+aÅ¥ nevÄ›dÄ›l	nadÃ¢neste bÃ¢Å¡
+aÅ¥ nevÄ›dÄ›li	nadÃ¢neste bÃ¢Å¡and
+aÅ¥ nevÄ›dÃ­	nadÃ¢nand
+aÅ¥ nevÃ­	nadÃ¢nad
+aÅ¥ nevÃ­m	nadÃ¢nam
+aÅ¥ nevÃ­me	nadÃ¢nim
+aÅ¥ nevÃ­Å¡	nadÃ¢ni
+aÅ¥ nevÃ­te	nadÃ¢nid
+aÅ¥ nezavÃ­rÃ¡	nabandad
+aÅ¥ nezavÃ­rajÃ­	nabandand
+aÅ¥ nezavÃ­ral	nabaste bÃ¢Å¡
+aÅ¥ nezavÃ­rali	nabaste bÃ¢Å¡and
+aÅ¥ nezavÃ­rÃ¡m	nabandam
+aÅ¥ nezavÃ­rÃ¡me	nabandim
+aÅ¥ nezavÃ­rÃ¡Å¡	nabandi
+aÅ¥ nezavÃ­rÃ¡te	nabandid
+aÅ¥ pije	xÃ¢had Ã¢Å¡Ã¢mid
+aÅ¥ pijeme	xÃ¢him Ã¢Å¡Ã¢mid
+aÅ¥ pijeÅ¡	xÃ¢hi Ã¢Å¡Ã¢mid
+aÅ¥ pijete	xÃ¢hid Ã¢Å¡Ã¢mid
+aÅ¥ piji	xÃ¢ham Ã¢Å¡Ã¢mid
+aÅ¥ pijÃ­	xÃ¢hand Ã¢Å¡Ã¢mid
+aÅ¥ pil	Ã¢Å¡Ã¢mide bÃ¢Å¡
+aÅ¥ pili	Ã¢Å¡Ã¢mide bÃ¢Å¡and
+aÅ¥ poÄÃ­tÃ¡	beÅ¡omorad
+aÅ¥ poÄÃ­tajÃ­	beÅ¡omorand
+aÅ¥ poÄÃ­tal	Å¡omorde bÃ¢Å¡
+aÅ¥ poÄÃ­tali	Å¡omorde bÃ¢Å¡and
+aÅ¥ poÄÃ­tÃ¡m	beÅ¡omoram
+aÅ¥ poÄÃ­tÃ¡me	beÅ¡omorim
+aÅ¥ poÄÃ­tÃ¡Å¡	beÅ¡omori
+aÅ¥ poÄÃ­tÃ¡te	beÅ¡omorid
+aÅ¥ pÅ™ichÃ¡zejÃ­	beÃ¢yand
+aÅ¥ pÅ™ichÃ¡zÃ­	beÃ¢yad
+aÅ¥ pÅ™ichÃ¡zÃ­m	beÃ¢yam
+aÅ¥ pÅ™ichÃ¡zÃ­me	beÃ¢'im
+aÅ¥ pÅ™ichÃ¡zÃ­Å¡	beÃ¢'i
+aÅ¥ pÅ™ichÃ¡zÃ­te	beÃ¢'id
+aÅ¥ pÅ™inÃ¡Å¡ejÃ­	beÃ¢rand
+aÅ¥ pÅ™inÃ¡Å¡Ã­	beÃ¢rad
+aÅ¥ pÅ™inÃ¡Å¡Ã­m	beÃ¢ram
+aÅ¥ pÅ™inÃ¡Å¡Ã­me	beÃ¢rim
+aÅ¥ pÅ™inÃ¡Å¡Ã­Å¡	beÃ¢ri
+aÅ¥ pÅ™inÃ¡Å¡Ã­te	beÃ¢rid
+aÅ¥ pÅ™inesl	Ã¢varde bÃ¢Å¡
+aÅ¥ pÅ™inesli	Ã¢varde bÃ¢Å¡and
+aÅ¥ pÅ™iÅ¡el	Ã¢made bÃ¢Å¡
+aÅ¥ pÅ™iÅ¡li	Ã¢made bÃ¢Å¡and
+aÅ¥ Å™ezÃ¡	bebarad
+aÅ¥ Å™ezajÃ­	bebarand
+aÅ¥ Å™ezal	borde bÃ¢Å¡
+aÅ¥ Å™ezali	borde bÃ¢Å¡and
+aÅ¥ Å™ezÃ¡m	bebaram
+aÅ¥ Å™ezÃ¡me	bebarim
+aÅ¥ Å™ezÃ¡Å¡	bebari
+aÅ¥ Å™ezÃ¡te	bebarid
+aÅ¥ se stÃ¡vÃ¡	beÅ¡avad
+aÅ¥ se stÃ¡vajÃ­	beÅ¡avand
+aÅ¥ se stÃ¡vÃ¡m	beÅ¡avam
+aÅ¥ se stÃ¡vÃ¡me	beÅ¡avim
+aÅ¥ se stÃ¡vÃ¡Å¡	beÅ¡avi
+aÅ¥ se stÃ¡vÃ¡te	beÅ¡avid
+aÅ¥ spal	xÃ¢bide bÃ¢Å¡
+aÅ¥ spali	xÃ¢bide bÃ¢Å¡and
+aÅ¥ spÃ­	bexÃ¢bad
+aÅ¥ spÃ­ (pl.)	bexÃ¢band
+aÅ¥ spÃ­m	bexÃ¢bam
+aÅ¥ spÃ­me	bexÃ¢bim
+aÅ¥ spÃ­Å¡	bexÃ¢bi
+aÅ¥ spÃ­te	bexÃ¢bid
+aÅ¥ vÄ›dÄ›l	dÃ¢neste bÃ¢Å¡
+aÅ¥ vÄ›dÄ›li	dÃ¢neste bÃ¢Å¡and
+aÅ¥ vÄ›dÃ­	bedÃ¢nand
+aÅ¥ vÃ­	bedÃ¢nad
+aÅ¥ vidÃ­	bebinad
+aÅ¥ vidÃ­ (pl.)	bebinand
+aÅ¥ vidÃ­m	bebinam
+aÅ¥ vidÃ­me	bebinim
+aÅ¥ vidÃ­Å¡	bebini
+aÅ¥ vidÃ­te	bebinid
+aÅ¥ vÃ­m	bedÃ¢nam
+aÅ¥ vÃ­me	bedÃ¢nim
+aÅ¥ vÃ­Å¡	bedÃ¢ni
+aÅ¥ vÃ­te	bedÃ¢nid
+aÅ¥ zavÃ­rÃ¡	bebandad
+aÅ¥ zavÃ­rajÃ­	bebandand
+aÅ¥ zavÃ­ral	baste bÃ¢Å¡
+aÅ¥ zavÃ­rali	baste bÃ¢Å¡and
+aÅ¥ zavÃ­rÃ¡m	bebandam
+aÅ¥ zavÃ­rÃ¡me	bebandim
+aÅ¥ zavÃ­rÃ¡Å¡	bebandi
+aÅ¥ zavÃ­rÃ¡te	bebandid
+atmosfÃ©ra	atmosfer
+atmosfÃ©rickÃ½	atmosferi
 atom	atom
-atomovı	atomi
-auto	xodrow, mâšin
+atomovÃ½	atomi
+auto	xodrow, mÃ¢Å¡in
 autobus	otobus
-autokar	otokâr
-automapa	naqše ye râhhâ
+autokar	otokÃ¢r
+automapa	naqÅ¡e ye rÃ¢hhÃ¢
 automobil	otomobil
-avšak	joz, ammâ
-a (do)	tâ
-a do	tâ inke, tâ ânke
-babièka	mâdarbozorg
-bacil	bâsil
-baèkora	dampâyi
-baèkory	joft dampâyi
-bájeènı	bâšokuhi
-bajka	afsâne
-baklaán	bâdenjân
-baktérie	bâkteri
-balet	bâle
-balicí papír	kâqaz e kâdo
-Balkán	Bâlkân
-balkánskı	Bâlkâni
-balkon	bâlkon
-balon	bâlon
-banán	mowz
-banda	bând
-banka	bânk
-bankéø	bânkdâr
-bankovní	bânki
-bar	bâr
-barevná tuka	qalam e naqqâši, qalam
-barevnı	rangi, rangin
-barevnı pøeliv	rangbar
-barokní	bâroki
-baroko	bârok
+avÅ¡ak	joz, ammÃ¢
+aÅ¾ (do)	tÃ¢
+aÅ¾ do	tÃ¢ inke, tÃ¢ Ã¢nke
+babiÄka	mÃ¢darbozorg
+bacil	bÃ¢sil
+baÄkora	dampÃ¢yi
+baÄkory	joft dampÃ¢yi
+bÃ¡jeÄnÃ½	bÃ¢Å¡okuhi
+bajka	afsÃ¢ne
+baklaÅ¾Ã¡n	bÃ¢denjÃ¢n
+baktÃ©rie	bÃ¢kteri
+balet	bÃ¢le
+balicÃ­ papÃ­r	kÃ¢qaz e kÃ¢do
+BalkÃ¡n	BÃ¢lkÃ¢n
+balkÃ¡nskÃ½	BÃ¢lkÃ¢ni
+balkon	bÃ¢lkon
+balon	bÃ¢lon
+banÃ¡n	mowz
+banda	bÃ¢nd
+banka	bÃ¢nk
+bankÃ©Å™	bÃ¢nkdÃ¢r
+bankovnÃ­	bÃ¢nki
+bar	bÃ¢r
+barevnÃ¡ tuÅ¾ka	qalam e naqqÃ¢Å¡i, qalam
+barevnÃ½	rangi, rangin
+barevnÃ½ pÅ™eliv	rangbar
+baroknÃ­	bÃ¢roki
+baroko	bÃ¢rok
 barva	rang
-básníci	šo'arâ
-bát se	tarsidan
-baterie	bâtri
-bavlna	panbe, katân
-bazar	bâzâr
-bazén	estaxr
-bázlivı	tarsu
-baant	qarqâvol
-baina	siyâhâb, mordâb
+bÃ¡snÃ­ci	Å¡o'arÃ¢
+bÃ¡t se	tarsidan
+baterie	bÃ¢tri
+bavlna	panbe, katÃ¢n
+bazar	bÃ¢zÃ¢r
+bazÃ©n	estaxr
+bÃ¡zlivÃ½	tarsu
+baÅ¾ant	qarqÃ¢vol
+baÅ¾ina	siyÃ¢hÃ¢b, mordÃ¢b
 bedna	sandoq
-begonie	begoniyâ
-bìhat	davidan
-bìhem	darbeyn
-belgickı	Beliki
-Belgie	Belik
+begonie	begoniyÃ¢
+bÄ›hat	davidan
+bÄ›hem	darbeyn
+belgickÃ½	BelÅ¾iki
+Belgie	BelÅ¾ik
 benzin	benzin
-benzinová èerpací stanice	pomp e benzin
-benzinová pumpa	pomp e benzin
+benzinovÃ¡ ÄerpacÃ­ stanice	pomp e benzin
+benzinovÃ¡ pumpa	pomp e benzin
 ber	bebar
-beránek	barre
+berÃ¡nek	barre
 beton	beton
 bez	bi, bedun
 bez-	bi-
-bezbarvı	birang
-bezbolestnı	bidard
-bezcennı	bibahâ, biqeymat, biarzeš, nâciz
-bezdìtnı	bibacce
-bezdrátovı	bisim
-bezejmennı	binâm, binešân
-bezmotorovı	bimotor
-bezpeènı	motmaen
-bezpracnı	bizahmat
-bezpráví	biqânun
-bezprostøední	mostaqim
-bezvıznamnı	biarzeš, bibahâ
-bìec	davande
-bìet	davidan
+bezbarvÃ½	birang
+bezbolestnÃ½	bidard
+bezcennÃ½	bibahÃ¢, biqeymat, biarzeÅ¡, nÃ¢ciz
+bezdÄ›tnÃ½	bibacce
+bezdrÃ¡tovÃ½	bisim
+bezejmennÃ½	binÃ¢m, bineÅ¡Ã¢n
+bezmotorovÃ½	bimotor
+bezpeÄnÃ½	motmaen
+bezpracnÃ½	bizahmat
+bezprÃ¡vÃ­	biqÃ¢nun
+bezprostÅ™ednÃ­	mostaqim
+bezvÃ½znamnÃ½	biarzeÅ¡, bibahÃ¢
+bÄ›Å¾ec	davande
+bÄ›Å¾et	davidan
 bicykl	docarxe
-biè	tâziyâne
+biÄ	tÃ¢ziyÃ¢ne
 biftek	biftek
-bilance	tarâz
-bílé fazole	bâqelâ
+bilance	tarÃ¢z
+bÃ­lÃ© fazole	bÃ¢qelÃ¢
 bilion	biliyon
-bílı	sefid
-bláhovı	nâdân
-blána	parde
-blázen	divâne
+bÃ­lÃ½	sefid
+blÃ¡hovÃ½	nÃ¢dÃ¢n
+blÃ¡na	parde
+blÃ¡zen	divÃ¢ne
 blecha	kak
-blikaè	cerâq e râhnamâ
-blízko	nazdik
-blízkı	bârik
-bliší	nazdiktar
+blikaÄ	cerÃ¢q e rÃ¢hnamÃ¢
+blÃ­zko	nazdik
+blÃ­zkÃ½	bÃ¢rik
+bliÅ¾Å¡Ã­	nazdiktar
 blud	zandegi
 bobr	bidastar
-bobtnat	âmâs kardan
-bobule	dâne
-boèní	pahluyi
-bodlák	xâr
-bohatır	pahlavân
-bohosloví	xodâšenâsi
-bohuel	moteassefâne
-bojácnı	tarsu
+bobtnat	Ã¢mÃ¢s kardan
+bobule	dÃ¢ne
+boÄnÃ­	pahluyi
+bodlÃ¡k	xÃ¢r
+bohatÃ½r	pahlavÃ¢n
+bohoslovÃ­	xodÃ¢Å¡enÃ¢si
+bohuÅ¾el	moteassefÃ¢ne
+bojÃ¡cnÃ½	tarsu
 bojkot	tahrim
 bojkotovat	tahrim kardan
 bojovat	jang kardan
-bojovnı	jangi
+bojovnÃ½	jangi
 bok	pahlu
-bolení bøicha	šekamdard
+bolenÃ­ bÅ™icha	Å¡ekamdard
 bolest	dard, ranj
-bolestivı	ranjâvar, dardâvar
-bolševickı	bolševiki
-bolševik	bolševik
+bolestivÃ½	ranjÃ¢var, dardÃ¢var
+bolÅ¡evickÃ½	bolÅ¡eviki
+bolÅ¡evik	bolÅ¡evik
 bomba	bomb
-borovice	kâj
-bota	kafš
-botanika	giyahâšenâsi
-boty	joft kafš
-bouda	kâšâne
-brada	câne
+borovice	kÃ¢j
+bota	kafÅ¡
+botanika	giyahÃ¢Å¡enÃ¢si
+boty	joft kafÅ¡
+bouda	kÃ¢Å¡Ã¢ne
+brada	cÃ¢ne
 bradavice	zegil
 brambor	sib zamini
-brambùrky	cips
-brát	bordan
-bratr	barâdar
-bratranec	amuzâde, pesar-e-xâle, pesar-e-amme
-brázda	šiyâr
-brid (hra)	brij
-broskev	šaftâlu, holu
+brambÅ¯rky	cips
+brÃ¡t	bordan
+bratr	barÃ¢dar
+bratranec	amuzÃ¢de, pesar-e-xÃ¢le, pesar-e-amme
+brÃ¡zda	Å¡iyÃ¢r
+bridÅ¾ (hra)	brij
+broskev	Å¡aftÃ¢lu, holu
 brouk	susk
-brıle	eynak
-bryndáèek	pišband e bace, pišband e bacce
+brÃ½le	eynak
+bryndÃ¡Äek	piÅ¡band e bace, piÅ¡band e bacce
 brzda	tormoz
 brzy	zud
-bøeh	sâhel
-bøeh (moøe)	kenâr e daryâ
-bøezen	mârs
-bøicho	šekam, me'de
-bøitva	tix, tiq
-bude	xâhad bud
-bude dìlán	karde xâhad šod
-bude dìlat	xâhad kard
-bude hrát	bâzi xâhad kard
-bude chtít	xâhad xâst
-bude jíst	xâhad xord
-bude lámat	xâhad šekast
-bude mít	xâhad dâšt
-bude odpovídat	javâb xâhad dâd
-bude pít	xâhad âšâmid
-bude poèítat	xâhad šomord
-bude øezat	xâhad bord
-bude øíkat	xâhad goft
-bude se ptát	xâhad porsid
-bude se stávat	xâhad šod
-bude slyšet	xâhad šenid
-bude spát	xâhad xâbid
-bude vìdìt	xâhad dânest
-bude zavírat	xâhad bast
-budeme	xâhim bud
-budeme dìláni	karde xâhim šod
-budeme dìlat	xâhim kard
-budeme hrát	bâzi xâhim kard
-budeme chtít	xâhim xâst
-budeme jíst	xâhim xord
-budeme lámat	xâhim šekast
-budeme mít	xâhim dâšt
-budeme odpovídat	javâb xâhim dâd
-budeme pít	xâhim âšâmid
-budeme poèítat	xâhim šomord
-budeme øezat	xâhim bord
-budeme øíkat	xâhim goft
-budeme se ptát	xâhim porsid
-budeme se stávat	xâhim šod
-budeme slyšet	xâhim šenid
-budeme spát	xâhim xâbid
-budeme vìdìt	xâhim dânest
-budeme zavírat	xâhim bast
-budeš	xâhi bud
-budeš dìlán	karde xâhi šod
-budeš dìlat	xâhi kard
-budeš hrát	bâzi xâhi kard
-budeš chtít	xâhi xâst
-budeš jíst	xâhi xord
-budeš lámat	xâhi šekast
-budeš mít	xâhi dâšt
-budeš odpovídat	javâb xâhi dâd
-budeš pít	xâhi âšâmid
-budeš poèítat	xâhi šomord
-budeš øezat	xâhi bord
-budeš øíkat	xâhi goft
-budeš se ptát	xâhi porsid
-budeš se stávat	xâhi šod
-budeš slyšet	xâhi šenid
-budeš spát	xâhi xâbid
-budeš vìdìt	xâhi dânest
-budeš zavírat	xâhi bast
-budete	xâhid bud
-budete dìláni	karde xâhid šod
-budete dìlat	xâhid kard
-budete hrát	bâzi xâhid kard
-budete chtít	xâhid xâst
-budete jíst	xâhid xord
-budete lámat	xâhid šekast
-budete mít	xâhid dâšt
-budete odpovídat	javâb xâhid dâd
-budete pít	xâhid âšâmid
-budete poèítat	xâhid šomord
-budete øezat	xâhid bord
-budete øíkat	xâhid goft
-budete se ptát	xâhid porsid
-budete se stávat	xâhid šod
-budete slyšet	xâhid šenid
-budete spát	xâhid xâbid
-budete vìdìt	xâhid dânest
-budete zavírat	xâhid bast
-budík	sâat zangdar
-budka	bâje
-budou	xâhand bud
-budou dìláni	karde xâhand šod
-budou dìlat	xâhand kard
-budou hrát	bâzi xâhand kard
-budou chtít	xâhand xâst
-budou jíst	xâhand xord
-budou lámat	xâhand šekast
-budou mít	xâhand dâšt
-budou odpovídat	javâb xâhand dâd
-budou pít	xâhand âšâmid
-budou poèítat	xâhand šomord
-budou øezat	xâhand bord
-budou øíkat	xâhand goft
-budou se ptát	xâhand porsid
-budou se stávat	xâhand šod
-budou slyšet	xâhand šenid
-budou spát	xâhand xâbid
-budou vìdìt	xâhand dânest
-budou zavírat	xâhand bast
-budovat	sâxtan
-budu	xâham bud
-budu dìlán	karde xâham šod
-budu dìlat	xâham kard
-budu hrát	bâzi xâham kard
-budu chtít	xâham xâst
-budu jíst	xâham xord
-budu lámat	xâham šekast
-budu mít	xâham dâšt
-budu odpovídat	javâb xâham dâd
-budu pít	xâham âšâmid
-budu poèítat	xâham šomord, xâham šomord
-budu øezat	xâham bord
-budu øíkat	xâham goft
-budu se ptát	xâham porsid
-budu se stávat	xâham šod
-budu slyšet	xâham šenid
-budu spát	xâham xâbid
-budu vìdìt	xâham dânest
-budu zavírat	xâham bast
+bÅ™eh	sÃ¢hel
+bÅ™eh (moÅ™e)	kenÃ¢r e daryÃ¢
+bÅ™ezen	mÃ¢rs
+bÅ™icho	Å¡ekam, me'de
+bÅ™itva	tix, tiq
+bude	xÃ¢had bud
+bude dÄ›lÃ¡n	karde xÃ¢had Å¡od
+bude dÄ›lat	xÃ¢had kard
+bude hrÃ¡t	bÃ¢zi xÃ¢had kard
+bude chtÃ­t	xÃ¢had xÃ¢st
+bude jÃ­st	xÃ¢had xord
+bude lÃ¡mat	xÃ¢had Å¡ekast
+bude mÃ­t	xÃ¢had dÃ¢Å¡t
+bude odpovÃ­dat	javÃ¢b xÃ¢had dÃ¢d
+bude pÃ­t	xÃ¢had Ã¢Å¡Ã¢mid
+bude poÄÃ­tat	xÃ¢had Å¡omord
+bude Å™ezat	xÃ¢had bord
+bude Å™Ã­kat	xÃ¢had goft
+bude se ptÃ¡t	xÃ¢had porsid
+bude se stÃ¡vat	xÃ¢had Å¡od
+bude slyÅ¡et	xÃ¢had Å¡enid
+bude spÃ¡t	xÃ¢had xÃ¢bid
+bude vÄ›dÄ›t	xÃ¢had dÃ¢nest
+bude zavÃ­rat	xÃ¢had bast
+budeme	xÃ¢him bud
+budeme dÄ›lÃ¡ni	karde xÃ¢him Å¡od
+budeme dÄ›lat	xÃ¢him kard
+budeme hrÃ¡t	bÃ¢zi xÃ¢him kard
+budeme chtÃ­t	xÃ¢him xÃ¢st
+budeme jÃ­st	xÃ¢him xord
+budeme lÃ¡mat	xÃ¢him Å¡ekast
+budeme mÃ­t	xÃ¢him dÃ¢Å¡t
+budeme odpovÃ­dat	javÃ¢b xÃ¢him dÃ¢d
+budeme pÃ­t	xÃ¢him Ã¢Å¡Ã¢mid
+budeme poÄÃ­tat	xÃ¢him Å¡omord
+budeme Å™ezat	xÃ¢him bord
+budeme Å™Ã­kat	xÃ¢him goft
+budeme se ptÃ¡t	xÃ¢him porsid
+budeme se stÃ¡vat	xÃ¢him Å¡od
+budeme slyÅ¡et	xÃ¢him Å¡enid
+budeme spÃ¡t	xÃ¢him xÃ¢bid
+budeme vÄ›dÄ›t	xÃ¢him dÃ¢nest
+budeme zavÃ­rat	xÃ¢him bast
+budeÅ¡	xÃ¢hi bud
+budeÅ¡ dÄ›lÃ¡n	karde xÃ¢hi Å¡od
+budeÅ¡ dÄ›lat	xÃ¢hi kard
+budeÅ¡ hrÃ¡t	bÃ¢zi xÃ¢hi kard
+budeÅ¡ chtÃ­t	xÃ¢hi xÃ¢st
+budeÅ¡ jÃ­st	xÃ¢hi xord
+budeÅ¡ lÃ¡mat	xÃ¢hi Å¡ekast
+budeÅ¡ mÃ­t	xÃ¢hi dÃ¢Å¡t
+budeÅ¡ odpovÃ­dat	javÃ¢b xÃ¢hi dÃ¢d
+budeÅ¡ pÃ­t	xÃ¢hi Ã¢Å¡Ã¢mid
+budeÅ¡ poÄÃ­tat	xÃ¢hi Å¡omord
+budeÅ¡ Å™ezat	xÃ¢hi bord
+budeÅ¡ Å™Ã­kat	xÃ¢hi goft
+budeÅ¡ se ptÃ¡t	xÃ¢hi porsid
+budeÅ¡ se stÃ¡vat	xÃ¢hi Å¡od
+budeÅ¡ slyÅ¡et	xÃ¢hi Å¡enid
+budeÅ¡ spÃ¡t	xÃ¢hi xÃ¢bid
+budeÅ¡ vÄ›dÄ›t	xÃ¢hi dÃ¢nest
+budeÅ¡ zavÃ­rat	xÃ¢hi bast
+budete	xÃ¢hid bud
+budete dÄ›lÃ¡ni	karde xÃ¢hid Å¡od
+budete dÄ›lat	xÃ¢hid kard
+budete hrÃ¡t	bÃ¢zi xÃ¢hid kard
+budete chtÃ­t	xÃ¢hid xÃ¢st
+budete jÃ­st	xÃ¢hid xord
+budete lÃ¡mat	xÃ¢hid Å¡ekast
+budete mÃ­t	xÃ¢hid dÃ¢Å¡t
+budete odpovÃ­dat	javÃ¢b xÃ¢hid dÃ¢d
+budete pÃ­t	xÃ¢hid Ã¢Å¡Ã¢mid
+budete poÄÃ­tat	xÃ¢hid Å¡omord
+budete Å™ezat	xÃ¢hid bord
+budete Å™Ã­kat	xÃ¢hid goft
+budete se ptÃ¡t	xÃ¢hid porsid
+budete se stÃ¡vat	xÃ¢hid Å¡od
+budete slyÅ¡et	xÃ¢hid Å¡enid
+budete spÃ¡t	xÃ¢hid xÃ¢bid
+budete vÄ›dÄ›t	xÃ¢hid dÃ¢nest
+budete zavÃ­rat	xÃ¢hid bast
+budÃ­k	sÃ¢at zangdar
+budka	bÃ¢je
+budou	xÃ¢hand bud
+budou dÄ›lÃ¡ni	karde xÃ¢hand Å¡od
+budou dÄ›lat	xÃ¢hand kard
+budou hrÃ¡t	bÃ¢zi xÃ¢hand kard
+budou chtÃ­t	xÃ¢hand xÃ¢st
+budou jÃ­st	xÃ¢hand xord
+budou lÃ¡mat	xÃ¢hand Å¡ekast
+budou mÃ­t	xÃ¢hand dÃ¢Å¡t
+budou odpovÃ­dat	javÃ¢b xÃ¢hand dÃ¢d
+budou pÃ­t	xÃ¢hand Ã¢Å¡Ã¢mid
+budou poÄÃ­tat	xÃ¢hand Å¡omord
+budou Å™ezat	xÃ¢hand bord
+budou Å™Ã­kat	xÃ¢hand goft
+budou se ptÃ¡t	xÃ¢hand porsid
+budou se stÃ¡vat	xÃ¢hand Å¡od
+budou slyÅ¡et	xÃ¢hand Å¡enid
+budou spÃ¡t	xÃ¢hand xÃ¢bid
+budou vÄ›dÄ›t	xÃ¢hand dÃ¢nest
+budou zavÃ­rat	xÃ¢hand bast
+budovat	sÃ¢xtan
+budu	xÃ¢ham bud
+budu dÄ›lÃ¡n	karde xÃ¢ham Å¡od
+budu dÄ›lat	xÃ¢ham kard
+budu hrÃ¡t	bÃ¢zi xÃ¢ham kard
+budu chtÃ­t	xÃ¢ham xÃ¢st
+budu jÃ­st	xÃ¢ham xord
+budu lÃ¡mat	xÃ¢ham Å¡ekast
+budu mÃ­t	xÃ¢ham dÃ¢Å¡t
+budu odpovÃ­dat	javÃ¢b xÃ¢ham dÃ¢d
+budu pÃ­t	xÃ¢ham Ã¢Å¡Ã¢mid
+budu poÄÃ­tat	xÃ¢ham Å¡omord, xÃ¢ham Å¡omord
+budu Å™ezat	xÃ¢ham bord
+budu Å™Ã­kat	xÃ¢ham goft
+budu se ptÃ¡t	xÃ¢ham porsid
+budu se stÃ¡vat	xÃ¢ham Å¡od
+budu slyÅ¡et	xÃ¢ham Å¡enid
+budu spÃ¡t	xÃ¢ham xÃ¢bid
+budu vÄ›dÄ›t	xÃ¢ham dÃ¢nest
+budu zavÃ­rat	xÃ¢ham bast
 bufet	bufe
-Bùh	Xodâ
-bùh	parvardegâr, yazdân, izad
-Bùh tì provázej	Xodâ negahdâr
-buk	âleš, zân
+BÅ¯h	XodÃ¢
+bÅ¯h	parvardegÃ¢r, yazdÃ¢n, izad
+BÅ¯h tÄ› provÃ¡zej	XodÃ¢ negahdÃ¢r
+buk	Ã¢leÅ¡, zÃ¢n
 byl	bud
-byl bıval	bude bud
-byl dìlán	karde šod
+byl bÃ½val	bude bud
+byl dÄ›lÃ¡n	karde Å¡od
 byl jsem	budam
-byl jsem bıval	bude budam
-byl jsem dìlán	karde šodam
-byl jsem snìdl	xorde budam
-byl jsem udìlal	karde budam
-byl jsem udìlán	karde šode budam
+byl jsem bÃ½val	bude budam
+byl jsem dÄ›lÃ¡n	karde Å¡odam
+byl jsem snÄ›dl	xorde budam
+byl jsem udÄ›lal	karde budam
+byl jsem udÄ›lÃ¡n	karde Å¡ode budam
 byl jsi	budi
-byl jsi bıval	bude budi
-byl jsi dìlán	karde šodi
-byl jsi snìdl	xorde budi
-byl jsi udìlal	karde budi
-byl jsi udìlán	karde šode budi
-byl snìdl	xorde bud
-byl udìlal	karde bud
-byl udìlán	karde šode bud
+byl jsi bÃ½val	bude budi
+byl jsi dÄ›lÃ¡n	karde Å¡odi
+byl jsi snÄ›dl	xorde budi
+byl jsi udÄ›lal	karde budi
+byl jsi udÄ›lÃ¡n	karde Å¡ode budi
+byl snÄ›dl	xorde bud
+byl udÄ›lal	karde bud
+byl udÄ›lÃ¡n	karde Å¡ode bud
 byli	budand
-byli bıvali	bude budand
-byli dìláni	karde šodand
+byli bÃ½vali	bude budand
+byli dÄ›lÃ¡ni	karde Å¡odand
 byli jsme	budim
-byli jsme bıvali	bude budim
-byli jsme dìláni	karde šodim
-byli jsme snìdli	xorde budim
-byli jsme udìlali	karde budim
-byli jsme udìláni	karde šode budim
+byli jsme bÃ½vali	bude budim
+byli jsme dÄ›lÃ¡ni	karde Å¡odim
+byli jsme snÄ›dli	xorde budim
+byli jsme udÄ›lali	karde budim
+byli jsme udÄ›lÃ¡ni	karde Å¡ode budim
 byli jste	budid
-byli jste bıvali	bude budid
-byli jste dìláni	karde šodid
-byli jste snìdli	xorde budid
-byli jste udìlali	karde budid
-byli jste udìláni	karde šode budid
-byli snìdli	xorde budand
-byli udìlali	karde budand
-byli udìláni	karde šode budand
-byt	šabestân
-bıt	budan
-bıt schopen	tavânestan
-bıt vdìènı	majbur budan
-bıvá	mibâšad
-bıvají	mibâšand
-bıval	mibud
-bıval jsem	mibudam
-bıval jsi	mibudi
-bıvali	mibudand
-bıvali jsme	mibudim
-bıvali jste	mibudid
-bıvám	mibâšam
-bıváme	mibâšim
-bıváš	mibâši
-bıváte	mibâšid
-cedit	sâf kardan
-cedník	sâfi
+byli jste bÃ½vali	bude budid
+byli jste dÄ›lÃ¡ni	karde Å¡odid
+byli jste snÄ›dli	xorde budid
+byli jste udÄ›lali	karde budid
+byli jste udÄ›lÃ¡ni	karde Å¡ode budid
+byli snÄ›dli	xorde budand
+byli udÄ›lali	karde budand
+byli udÄ›lÃ¡ni	karde Å¡ode budand
+byt	Å¡abestÃ¢n
+bÃ½t	budan
+bÃ½t schopen	tavÃ¢nestan
+bÃ½t vdÄ›ÄnÃ½	majbur budan
+bÃ½vÃ¡	mibÃ¢Å¡ad
+bÃ½vajÃ­	mibÃ¢Å¡and
+bÃ½val	mibud
+bÃ½val jsem	mibudam
+bÃ½val jsi	mibudi
+bÃ½vali	mibudand
+bÃ½vali jsme	mibudim
+bÃ½vali jste	mibudid
+bÃ½vÃ¡m	mibÃ¢Å¡am
+bÃ½vÃ¡me	mibÃ¢Å¡im
+bÃ½vÃ¡Å¡	mibÃ¢Å¡i
+bÃ½vÃ¡te	mibÃ¢Å¡id
+cedit	sÃ¢f kardan
+cednÃ­k	sÃ¢fi
 cedr	sedr
 cedulka	barcasb
 celer	karafs
-celní	gomroki
+celnÃ­	gomroki
 celnice	gomrok
-celulóza	seluloz
-celı	tamâm
-cement	simân
-cena	bahâ, qeymat
-centrum	miyâne
-cesta	râh
-cestování	mosâferati
-cestovat	mosâferat kardan
-cestovatel	mosâfer
-cestovní kanceláø	ââns e mosâferati, bongâh e mosâferati
-cestovní pas	gozarnâme
-cestující	mosâfer
-cibule	piyâz
-cigareta	sigâr
-cihla	âjor
-cikán	kuli
-cikánskı	kuli
-cílevìdomı	bâ'erâde
-cín	sorb, qal'
-cíp	guše
-církev	mezhab, ruhâniyat
-církevní	mezhabi
-císaø	šâh, pâdšâh
+celulÃ³za	seluloz
+celÃ½	tamÃ¢m
+cement	simÃ¢n
+cena	bahÃ¢, qeymat
+centrum	miyÃ¢ne
+cesta	rÃ¢h
+cestovÃ¡nÃ­	mosÃ¢ferati
+cestovat	mosÃ¢ferat kardan
+cestovatel	mosÃ¢fer
+cestovnÃ­ kancelÃ¡Å™	Ã¢Å¾Ã¢ns e mosÃ¢ferati, bongÃ¢h e mosÃ¢ferati
+cestovnÃ­ pas	gozarnÃ¢me
+cestujÃ­cÃ­	mosÃ¢fer
+cibule	piyÃ¢z
+cigareta	sigÃ¢r
+cihla	Ã¢jor
+cikÃ¡n	kuli
+cikÃ¡nskÃ½	kuli
+cÃ­levÄ›domÃ½	bÃ¢'erÃ¢de
+cÃ­n	sorb, qal'
+cÃ­p	guÅ¡e
+cÃ­rkev	mezhab, ruhÃ¢niyat
+cÃ­rkevnÃ­	mezhabi
+cÃ­saÅ™	Å¡Ã¢h, pÃ¢dÅ¡Ã¢h
 cit	hes
 citron	limu
-citronovı	limuyi
-cizoloství	bivafâyi, zenâ, bituzeši
+citronovÃ½	limuyi
+cizoloÅ¾stvÃ­	bivafÃ¢yi, zenÃ¢, bituzeÅ¡i
 co	ci, ce
-cokoliv	har ciz, har kâr
-conânke	jak, jako
+cokoliv	har ciz, har kÃ¢r
+conÃ¢nke	jak, jako
 cuketa	kadu
-cukr	šekkar
-cukrárna	širiniforuši
-cukynì	kadu
-cupanina	katân
-cypøiš	sarv
-è (hláska)	c (horuf)
-èaj	cây
-èajovna	qahvexâne
-èalamáda	torši
-èára	xatt
-èas	vaqt, asr, zamân
-èasopis	majalle
-èasovı	zamâni
-èasto	bârhâ
-èastı	bârhâ
-èasy	owqât
-èekárna	otâq e entezâr, sâlon e entezâr
-èekat (na)	sabr kardan
-èelist	fak
-èelní	az sar, sarbesar
-èelo	pišâni
-èenich	puze
-èenichat	pu kardan
-èepec	kolâh
-èepelka (holicí)	xodtarâš
-èepice	kolâh
-èerò	meški
-èernı	siyâh, meški
-èernı kašel	siyâhsorfe
-èerpadlo	pomp
-èerstvı	tâze
-èert	ahriman
-èerven	uan, uan
-èervená	qermez
-èervené zelí	kalam e qermez
-èervenec	uye, uye
-èesaná pøíze	nax e pašm, pašmi
-Èeská republika	Jomhuri ye Ceki
-èeskı	ceki
-èesnek	sir
-èéška	kaškak
-èetaø	goruhbân
-èí	az ân e ke
-èinit	kardan
-èíslo	šomâre, adad
-èíslo domu	šomâre ye xâne
-èíst	xândan
-èistírna	xoškšuyi
-èistotnı	pâkize
-èlen	andâm
-èlovìk	âdâm, fard, ensân
-èlun	qâyeq
-èoèka	adas
-èokoláda	šoklât, šokolât
-èokoládovı	šoklâti
-ètrnáct	cahârdah
-ètverec	cahârguš
-ètvrt	robh
-ètvrtek	panjšanbe
-ètvrtina	cahârom, cârak
-ètvrtı	cahârom
-ètyøi	cahâr
-ètyøi sta	cahârsad
-ètyøicet	cehel
-dá	xâhad dâd
-ïábel	ahriman, div
-dají	xâhand dâd
-dal	dâd
-dal jsem	dâdam
-dal jsi	dâdi
-daleko	dur, kenâr
-dalekı	dur
-dali	dâdand
-dali jsme	dâdim
-dali jste	dâdid
-dám	xâham dâd
-dáma	bânu
-dáme	xâhim dâd
-dámská vloka	dastmâl e behdâšti
-dámy	bânuvân
-Dánsko	Dânmârk
-dáš	xâhi dâd
-dát	dâdan, baxšidan
-dáte	xâhid dâd
-datle	xormâ
-dává	midehad
-dávají	midehand
-dával	midâd
-dával jsem	midâdam
-dával jsi	midâdi
-dávali	midâdand
-dávali jsme	midâdim
-dávali jste	midâdid
-dávám	mideham
-dáváme	midehim
-dáváš	midehi
-dávat	dâdan
-dáváte	midehid
+cukr	Å¡ekkar
+cukrÃ¡rna	Å¡iriniforuÅ¡i
+cukynÄ›	kadu
+cupanina	katÃ¢n
+cypÅ™iÅ¡	sarv
+Ä (hlÃ¡ska)	c (horuf)
+Äaj	cÃ¢y
+Äajovna	qahvexÃ¢ne
+ÄalamÃ¡da	torÅ¡i
+ÄÃ¡ra	xatt
+Äas	vaqt, asr, zamÃ¢n
+Äasopis	majalle
+ÄasovÃ½	zamÃ¢ni
+Äasto	bÃ¢rhÃ¢
+ÄastÃ½	bÃ¢rhÃ¢
+Äasy	owqÃ¢t
+ÄekÃ¡rna	otÃ¢q e entezÃ¢r, sÃ¢lon e entezÃ¢r
+Äekat (na)	sabr kardan
+Äelist	fak
+ÄelnÃ­	az sar, sarbesar
+Äelo	piÅ¡Ã¢ni
+Äenich	puze
+Äenichat	pu kardan
+Äepec	kolÃ¢h
+Äepelka (holicÃ­)	xodtarÃ¢Å¡
+Äepice	kolÃ¢h
+ÄerÅˆ	meÅ¡ki
+ÄernÃ½	siyÃ¢h, meÅ¡ki
+ÄernÃ½ kaÅ¡el	siyÃ¢hsorfe
+Äerpadlo	pomp
+ÄerstvÃ½	tÃ¢ze
+Äert	ahriman
+Äerven	Å½uan, Å¾uan
+ÄervenÃ¡	qermez
+ÄervenÃ© zelÃ­	kalam e qermez
+Äervenec	Å½uye, Å¾uye
+ÄesanÃ¡ pÅ™Ã­ze	nax e paÅ¡m, paÅ¡mi
+ÄŒeskÃ¡ republika	Jomhuri ye Ceki
+ÄeskÃ½	ceki
+Äesnek	sir
+ÄÃ©Å¡ka	kaÅ¡kak
+ÄetaÅ™	goruhbÃ¢n
+ÄÃ­	az Ã¢n e ke
+Äinit	kardan
+ÄÃ­slo	Å¡omÃ¢re, adad
+ÄÃ­slo domu	Å¡omÃ¢re ye xÃ¢ne
+ÄÃ­st	xÃ¢ndan
+ÄistÃ­rna	xoÅ¡kÅ¡uyi
+ÄistotnÃ½	pÃ¢kize
+Älen	andÃ¢m
+ÄlovÄ›k	Ã¢dÃ¢m, fard, ensÃ¢n
+Älun	qÃ¢yeq
+ÄoÄka	adas
+ÄokolÃ¡da	Å¡oklÃ¢t, Å¡okolÃ¢t
+ÄokolÃ¡dovÃ½	Å¡oklÃ¢ti
+ÄtrnÃ¡ct	cahÃ¢rdah
+Ätverec	cahÃ¢rguÅ¡
+Ätvrt	robh
+Ätvrtek	panjÅ¡anbe
+Ätvrtina	cahÃ¢rom, cÃ¢rak
+ÄtvrtÃ½	cahÃ¢rom
+ÄtyÅ™i	cahÃ¢r
+ÄtyÅ™i sta	cahÃ¢rsad
+ÄtyÅ™icet	cehel
+dÃ¡	xÃ¢had dÃ¢d
+ÄÃ¡bel	ahriman, div
+dajÃ­	xÃ¢hand dÃ¢d
+dal	dÃ¢d
+dal jsem	dÃ¢dam
+dal jsi	dÃ¢di
+daleko	dur, kenÃ¢r
+dalekÃ½	dur
+dali	dÃ¢dand
+dali jsme	dÃ¢dim
+dali jste	dÃ¢did
+dÃ¡m	xÃ¢ham dÃ¢d
+dÃ¡ma	bÃ¢nu
+dÃ¡me	xÃ¢him dÃ¢d
+dÃ¡mskÃ¡ vloÅ¾ka	dastmÃ¢l e behdÃ¢Å¡ti
+dÃ¡my	bÃ¢nuvÃ¢n
+DÃ¡nsko	DÃ¢nmÃ¢rk
+dÃ¡Å¡	xÃ¢hi dÃ¢d
+dÃ¡t	dÃ¢dan, baxÅ¡idan
+dÃ¡te	xÃ¢hid dÃ¢d
+datle	xormÃ¢
+dÃ¡vÃ¡	midehad
+dÃ¡vajÃ­	midehand
+dÃ¡val	midÃ¢d
+dÃ¡val jsem	midÃ¢dam
+dÃ¡val jsi	midÃ¢di
+dÃ¡vali	midÃ¢dand
+dÃ¡vali jsme	midÃ¢dim
+dÃ¡vali jste	midÃ¢did
+dÃ¡vÃ¡m	mideham
+dÃ¡vÃ¡me	midehim
+dÃ¡vÃ¡Å¡	midehi
+dÃ¡vat	dÃ¢dan
+dÃ¡vÃ¡te	midehid
 dcera	doxtar
-dcera strıce z matèiny strany	doxtar-e-dâyi
-dcera strıce z otcovy strany	doxtar-e-ammu
-dcera tety z matèiny strany	doxtar-e-xâle
+dcera strÃ½ce z matÄiny strany	doxtar-e-dÃ¢yi
+dcera strÃ½ce z otcovy strany	doxtar-e-ammu
+dcera tety z matÄiny strany	doxtar-e-xÃ¢le
 dcera tety z otcovy strany	doxtar-e-amme
 debata	bahs
 debatovat	bahs kardan
-dìdeèek	pedarbozorg
-dìdictví	abarmând
-dìjepis	târix
-dìjiny	târix
-dìkovat	tašakor kardan, sepas gozârdan, tešaker kardan
-dìkuji	motašakkeram, motešakeram, sepâs gozâram
-dìlá	mikonad
-dìlají	mikonand
-dìlal	kard
-dìlal jsem	kardam
-dìlal jsi	kardi
-dìlali	kardand
-dìlali jsme	kardim
-dìlali jste	kardid
-dìlám	mikonam
-dìláme	mikonim
-dìlanı	karde
-dìláš	mikoni
-dìlat	kardan
-dìláte	mikonid
-dìlával	mikard
-dìlával jsem	mikardam
-dìlával jsi	mikardi
-dìlávali	mikardand
-dìlávali jsme	mikardim
-dìlávali jste	mikardid
-dìlej	kon
-délka	derâzi
-démon	jen, div
-demonstrace	nemâyeš
+dÄ›deÄek	pedarbozorg
+dÄ›dictvÃ­	abarmÃ¢nd
+dÄ›jepis	tÃ¢rix
+dÄ›jiny	tÃ¢rix
+dÄ›kovat	taÅ¡akor kardan, sepas gozÃ¢rdan, teÅ¡aker kardan
+dÄ›kuji	motaÅ¡akkeram, moteÅ¡akeram, sepÃ¢s gozÃ¢ram
+dÄ›lÃ¡	mikonad
+dÄ›lajÃ­	mikonand
+dÄ›lal	kard
+dÄ›lal jsem	kardam
+dÄ›lal jsi	kardi
+dÄ›lali	kardand
+dÄ›lali jsme	kardim
+dÄ›lali jste	kardid
+dÄ›lÃ¡m	mikonam
+dÄ›lÃ¡me	mikonim
+dÄ›lanÃ½	karde
+dÄ›lÃ¡Å¡	mikoni
+dÄ›lat	kardan
+dÄ›lÃ¡te	mikonid
+dÄ›lÃ¡val	mikard
+dÄ›lÃ¡val jsem	mikardam
+dÄ›lÃ¡val jsi	mikardi
+dÄ›lÃ¡vali	mikardand
+dÄ›lÃ¡vali jsme	mikardim
+dÄ›lÃ¡vali jste	mikardid
+dÄ›lej	kon
+dÃ©lka	derÃ¢zi
+dÃ©mon	jen, div
+demonstrace	nemÃ¢yeÅ¡
 den	ruz
-den pracovního klidu	ruz e tatil
-denní	ruzâne
+den pracovnÃ­ho klidu	ruz e tatil
+dennÃ­	ruzÃ¢ne
 denominace	mezhab
-denominaèní	mezhabi
-dentista	dandânpezešk
+denominaÄnÃ­	mezhabi
+dentista	dandÃ¢npezeÅ¡k
 deodorant	zedd e bu
 deprese	afsordegi
 deset	dah
-desetiletí	dahsâle
+desetiletÃ­	dahsÃ¢le
 desetina	dahom
-déš	bârân
-dìtskı	baccegâne
-devadesát	navad
-devatenáct	nuzdah
-dìvèe	doxtarce
-devìt	noh
-devìt set	nohsad
-devítina	nohom
+dÃ©Å¡Å¥	bÃ¢rÃ¢n
+dÄ›tskÃ½	baccegÃ¢ne
+devadesÃ¡t	navad
+devatenÃ¡ct	nuzdah
+dÄ›vÄe	doxtarce
+devÄ›t	noh
+devÄ›t set	nohsad
+devÃ­tina	nohom
 dezert	deser
 dezodorant	zedd e bu
 dialog	goftogu
 dieta	parhiz
-dík	sepâs
+dÃ­k	sepÃ¢s
 diskutovat	bahs kardan
 diskuze	bahs, goftogu
-dítì	bacce, kudak
-dítko	bacce
-divadlo	teâtr
-dívka	dušize, doxtar
-divokı vepø	gorâz
+dÃ­tÄ›	bacce, kudak
+dÃ­tko	bacce
+divadlo	teÃ¢tr
+dÃ­vka	duÅ¡ize, doxtar
+divokÃ½ vepÅ™	gorÃ¢z
 dlouho	moddat
-dlouhı	derâz
+dlouhÃ½	derÃ¢z
 dluh	qarz
 dnes	emruz
-dnes veèer	emšab
+dnes veÄer	emÅ¡ab
 dno	te, kaf
 do	be, suye, besuye
-doba	zamân
+doba	zamÃ¢n
 dobro	xubi, xub
-dobroøeèit	yaštan
+dobroÅ™eÄit	yaÅ¡tan
 dobrota	xubi
-dobrou noc	šab be xeyr
-dobrı	beh, xub
-dodrovat	negâh dâštan
-dohromady	bâham
-dojit	dušidan
-dolar	dolâr
-dole	pâyine, pâyin, zire
-dolù	pâyine, zire, pâeyn
-domov	âvareš
-dopis	nâme
-dopisní papír	kâqaz e yâddâšt
-doporuèit	pišnahâd kardan
-dopøedu	bejelow
-dost	bas, kâfi
+dobrou noc	Å¡ab be xeyr
+dobrÃ½	beh, xub
+dodrÅ¾ovat	negÃ¢h dÃ¢Å¡tan
+dohromady	bÃ¢ham
+dojit	duÅ¡idan
+dolar	dolÃ¢r
+dole	pÃ¢yine, pÃ¢yin, zire
+dolÅ¯	pÃ¢yine, zire, pÃ¢eyn
+domov	Ã¢vareÅ¡
+dopis	nÃ¢me
+dopisnÃ­ papÃ­r	kÃ¢qaz e yÃ¢ddÃ¢Å¡t
+doporuÄit	piÅ¡nahÃ¢d kardan
+dopÅ™edu	bejelow
+dost	bas, kÃ¢fi
 dostat	gereftan
-dostateènı	kâfi, farâvân
-dostatek	farâvâni, farâvân, besyâr
-dostává	migirad
-dostávají	migirand
-dostávám	migiram
-dostáváme	migirim
-dostáváš	migiri
-dostávat	gereftan
-dostáváte	migirid
-dozrávat	rasidan
+dostateÄnÃ½	kÃ¢fi, farÃ¢vÃ¢n
+dostatek	farÃ¢vÃ¢ni, farÃ¢vÃ¢n, besyÃ¢r
+dostÃ¡vÃ¡	migirad
+dostÃ¡vajÃ­	migirand
+dostÃ¡vÃ¡m	migiram
+dostÃ¡vÃ¡me	migirim
+dostÃ¡vÃ¡Å¡	migiri
+dostÃ¡vat	gereftan
+dostÃ¡vÃ¡te	migirid
+dozrÃ¡vat	rasidan
 drahokam	zivar
-drahı	aziz, gerân
-drak	bâdbâdâk
-drama	drâm
-drát	sim
-drátìnı	turi
-draší	gerântar
+drahÃ½	aziz, gerÃ¢n
+drak	bÃ¢dbÃ¢dÃ¢k
+drama	drÃ¢m
+drÃ¡t	sim
+drÃ¡tÄ›nÃ½	turi
+draÅ¾Å¡Ã­	gerÃ¢ntar
 drn	caman
-dršky	sirâbi
-drùbky	del o jegar e qâz
-druhá tøída (ve vlaku)	daraje ye do
-druhı	dovom
-druice	mâhvâre
-dret	negâh dâštan
-døina	zahmat
-døíve	zudtar
-duben	âvril, Âvril
-duch	jân, ravân, ruh, faravahr
-dùl	kân
-dùm	xâne, sarây, kad
-duše	jân, ravân
-dušené maso se zeleninou	xoreš
-dùvìra	bâvar
+drÅ¡Å¥ky	sirÃ¢bi
+drÅ¯bky	del o jegar e qÃ¢z
+druhÃ¡ tÅ™Ã­da (ve vlaku)	daraje ye do
+druhÃ½	dovom
+druÅ¾ice	mÃ¢hvÃ¢re
+drÅ¾et	negÃ¢h dÃ¢Å¡tan
+dÅ™ina	zahmat
+dÅ™Ã­ve	zudtar
+duben	Ã¢vril, Ã‚vril
+duch	jÃ¢n, ravÃ¢n, ruh, faravahr
+dÅ¯l	kÃ¢n
+dÅ¯m	xÃ¢ne, sarÃ¢y, kad
+duÅ¡e	jÃ¢n, ravÃ¢n
+duÅ¡enÃ© maso se zeleninou	xoreÅ¡
+dÅ¯vÄ›ra	bÃ¢var
 dva	do
-dva tisíce	do hezâr
+dva tisÃ­ce	do hezÃ¢r
 dvacet	bist
-dvakrát	do bâr
-dvanáct	davâzdah
-dvì stì	devist
-dveøe	dar, dâr
-dvoulùkové kupé	kupe ye dotaxti
-dım	dud
-dynamo	dinâm
-dınì	kadu ye mosammâyi
-d (hláska)	j (horuf)
-dbán	kuze
-dez	jâz
-din	jen
-díny	šalvâr e jin
-elegantní	zibâ
-elektrické hodiny	sâat e elektriki
-elektrickı holicí strojek	xodtarâš e barqi
-eso	takxâl, âs
-eštehâ	chu
+dvakrÃ¡t	do bÃ¢r
+dvanÃ¡ct	davÃ¢zdah
+dvÄ› stÄ›	devist
+dveÅ™e	dar, dÃ¢r
+dvoulÅ¯Å¾kovÃ© kupÃ©	kupe ye dotaxti
+dÃ½m	dud
+dynamo	dinÃ¢m
+dÃ½nÄ›	kadu ye mosammÃ¢yi
+dÅ¾ (hlÃ¡ska)	j (horuf)
+dÅ¾bÃ¡n	kuze
+dÅ¾ez	jÃ¢z
+dÅ¾in	jen
+dÅ¾Ã­ny	Å¡alvÃ¢r e jin
+elegantnÃ­	zibÃ¢
+elektrickÃ© hodiny	sÃ¢at e elektriki
+elektrickÃ½ holicÃ­ strojek	xodtarÃ¢Å¡ e barqi
+eso	takxÃ¢l, Ã¢s
+eÅ¡tehÃ¢	chuÅ¥
 etiketa	barcasb
-Evropa	Orupâ
-evropskı	orupâyi
+Evropa	OrupÃ¢
+evropskÃ½	orupÃ¢yi
 existence	zist
-existuje	mibâšad
-existujeme	mibâšim
-existuješ	mibâši
-existujete	mibâšid
-existuji	mibâšam
-existují	mibâšand
-expanze	afzâyeš
-extáze	azxodbixodšodegi
-familiární	âšnâ
-fašismus	fâšism
-fašista	fâšist
-fašistickı	fâšisti
-federace	federâsiyon
-federativní	federâl
-fén	muxoškkon
-fialovı	banafš
-fík	anjir
+existuje	mibÃ¢Å¡ad
+existujeme	mibÃ¢Å¡im
+existujeÅ¡	mibÃ¢Å¡i
+existujete	mibÃ¢Å¡id
+existuji	mibÃ¢Å¡am
+existujÃ­	mibÃ¢Å¡and
+expanze	afzÃ¢yeÅ¡
+extÃ¡ze	azxodbixodÅ¡odegi
+familiÃ¡rnÃ­	Ã¢Å¡nÃ¢
+faÅ¡ismus	fÃ¢Å¡ism
+faÅ¡ista	fÃ¢Å¡ist
+faÅ¡istickÃ½	fÃ¢Å¡isti
+federace	federÃ¢siyon
+federativnÃ­	federÃ¢l
+fÃ©n	muxoÅ¡kkon
+fialovÃ½	banafÅ¡
+fÃ­k	anjir
 film	film
 filtr	filter
-filtr (cigar.)	filterdâr
-flanel	pârce ye pašmi (sad dar sad)
+filtr (cigar.)	filterdÃ¢r
+flanel	pÃ¢rce ye paÅ¡mi (sad dar sad)
 folk	musiqi ye mardomi
-folková hudba	musiqi ye mardomi
-fondán	sarehambandi
-fotbal	futbâl
-fotoaparát	durbin e akkâsi
-francouzskı	farânsavi
-frank	frânk
-galaxie	kahkašân
-galerie	sarsarâ, negârestân
-gará	gârâ
-garnát	meygu
-gáza	gâz e pânsomân
-geografie	joqrâfiyâ
-gesto	ešâre
+folkovÃ¡ hudba	musiqi ye mardomi
+fondÃ¡n	sarehambandi
+fotbal	futbÃ¢l
+fotoaparÃ¡t	durbin e akkÃ¢si
+francouzskÃ½	farÃ¢nsavi
+frank	frÃ¢nk
+galaxie	kahkaÅ¡Ã¢n
+galerie	sarsarÃ¢, negÃ¢restÃ¢n
+garÃ¡Å¾	gÃ¢rÃ¢Å¾
+garnÃ¡t	meygu
+gÃ¡za	gÃ¢z e pÃ¢nsomÃ¢n
+geografie	joqrÃ¢fiyÃ¢
+gesto	eÅ¡Ã¢re
 golf	golf
-grafém	harf
+grafÃ©m	harf
 gram	gram
-gramatika	dastur e zabân
-gramofon	grâm
-granátové jablko	anâr
-grapefruit	pâmplimus
-grep	pâmplimus
-guma	medâd pâkkon, medâdpâkkon, lâstik
-gumovı	lastiki
-had	mâr
-hádanka	cistân
-hadi	haji
-halasnı	boland
+gramatika	dastur e zabÃ¢n
+gramofon	grÃ¢m
+granÃ¡tovÃ© jablko	anÃ¢r
+grapefruit	pÃ¢mplimus
+grep	pÃ¢mplimus
+guma	medÃ¢d pÃ¢kkon, medÃ¢dpÃ¢kkon, lÃ¢stik
+gumovÃ½	lastiki
+had	mÃ¢r
+hÃ¡danka	cistÃ¢n
+hadÅ¾i	haji
+halasnÃ½	boland
 hamburger [hamburgr]	hamberger
-hedvábí	abrišom, âbrišom
+hedvÃ¡bÃ­	abriÅ¡om, Ã¢briÅ¡om
 hegemonie	bartari
-hektickı	biâram
-helikoptéra	helikopter
-hemoroidy	bavâsir
+hektickÃ½	biÃ¢ram
+helikoptÃ©ra	helikopter
+hemoroidy	bavÃ¢sir
 hereze	zandegi
-hezkı	qašang, zibâ
-historie	târix
-hladovı	gorosne
-hlásat	pand dâdan
-hlasitı	boland
-hláska	horuf
+hezkÃ½	qaÅ¡ang, zibÃ¢
+historie	tÃ¢rix
+hladovÃ½	gorosne
+hlÃ¡sat	pand dÃ¢dan
+hlasitÃ½	boland
+hlÃ¡ska	horuf
 hlava	sar
-hlávkovı salát	kâhu
+hlÃ¡vkovÃ½ salÃ¡t	kÃ¢hu
 hledat	jostoju kardan
-hloubka	arfâ
-hlubokı	arf, gud
-hluchı	kar
+hloubka	Å¾arfÃ¢
+hlubokÃ½	Å¾arf, gud
+hluchÃ½	kar
 hned	fori
-hnìdı	qahve i
-ho	urâ
-hodina	vaqt, sâat
-hodináøství	sâatsâzi
-hodinky	sâat
-hodiny	sâat e divâri
-hodnì	xeyli, ziyâd
-hodnota	arzeš, bahâ
+hnÄ›dÃ½	qahve i
+ho	urÃ¢
+hodina	vaqt, sÃ¢at
+hodinÃ¡Å™stvÃ­	sÃ¢atsÃ¢zi
+hodinky	sÃ¢at
+hodiny	sÃ¢at e divÃ¢ri
+hodnÄ›	xeyli, ziyÃ¢d
+hodnota	arzeÅ¡, bahÃ¢
 hoch	pesar
-holicí strojek (elektr.)	rištarâš
-holièství	ârâyešgâh
-holit	tarâšidan
-holit se	riš tarâšidan
+holicÃ­ strojek (elektr.)	riÅ¡tarÃ¢Å¡
+holiÄstvÃ­	Ã¢rÃ¢yeÅ¡gÃ¢h
+holit	tarÃ¢Å¡idan
+holit se	riÅ¡ tarÃ¢Å¡idan
 holub	kabutar
 hora	kuh
-horeèka	tab
-horká èokoláda	šir kâkâo
-horkı	âtašin, garm
-horlivı	bâqeyrat
-horší	badtar
-hoøèice	xardal
-hoøkı	talx
-Hospodin	Xodâvand
-host	mehmân
-hostinec	mehmânxâne, mosâferxâne
-hot dog	hâtdâg
+horeÄka	tab
+horkÃ¡ ÄokolÃ¡da	Å¡ir kÃ¢kÃ¢o
+horkÃ½	Ã¢taÅ¡in, garm
+horlivÃ½	bÃ¢qeyrat
+horÅ¡Ã­	badtar
+hoÅ™Äice	xardal
+hoÅ™kÃ½	talx
+Hospodin	XodÃ¢vand
+host	mehmÃ¢n
+hostinec	mehmÃ¢nxÃ¢ne, mosÃ¢ferxÃ¢ne
+hot dog	hÃ¢tdÃ¢g
 hotel	hotel
-hotelovı zøízenec	pâdow, šâgerd
-houba	espanj, qârc
+hotelovÃ½ zÅ™Ã­zenec	pÃ¢dow, Å¡Ã¢gerd
+houba	espanj, qÃ¢rc
 houf	dam
-hovìzí (maso)	gušt e gâv
-hovoøit	harf zadan
-hra	namâyešnâme, bâzi
-hra (drama)	namâyeš
-hrací karta	varaq e bâzi
-hraèkáøství	asbâb e bâziforuši
-hrách	naxod
-hrách (zelenı)	noxod e sabz
-hraje	bâzi mikonad
-hrajeme	bâzi mikonim
-hraješ	bâzi mikoni
-hrajete	bâzi mikonid
-hraji	bâzi mikonam
-hrají	bâzi mikonand
-hrál	bâzi kard
-hrál jsem	bâzi kardam
-hrál jsi	bâzi kardi
-hráli	bâzi kardand
-hráli jsme	bâzi kardim
-hráli jste	bâzi kardid
+hovÄ›zÃ­ (maso)	guÅ¡t e gÃ¢v
+hovoÅ™it	harf zadan
+hra	namÃ¢yeÅ¡nÃ¢me, bÃ¢zi
+hra (drama)	namÃ¢yeÅ¡
+hracÃ­ karta	varaq e bÃ¢zi
+hraÄkÃ¡Å™stvÃ­	asbÃ¢b e bÃ¢ziforuÅ¡i
+hrÃ¡ch	naxod
+hrÃ¡ch (zelenÃ½)	noxod e sabz
+hraje	bÃ¢zi mikonad
+hrajeme	bÃ¢zi mikonim
+hrajeÅ¡	bÃ¢zi mikoni
+hrajete	bÃ¢zi mikonid
+hraji	bÃ¢zi mikonam
+hrajÃ­	bÃ¢zi mikonand
+hrÃ¡l	bÃ¢zi kard
+hrÃ¡l jsem	bÃ¢zi kardam
+hrÃ¡l jsi	bÃ¢zi kardi
+hrÃ¡li	bÃ¢zi kardand
+hrÃ¡li jsme	bÃ¢zi kardim
+hrÃ¡li jste	bÃ¢zi kardid
 hranice	marz
-hrát	bâzi kardan
-hrával	bâzi mikard
-hrával jsem	bâzi mikardam
-hrával jsi	bâzi mikardi
-hrávali	bâzi mikardand
-hrávali jsme	bâzi mikardim
-hrávali jste	bâzi mikardid
-hrdina	delâvar
+hrÃ¡t	bÃ¢zi kardan
+hrÃ¡val	bÃ¢zi mikard
+hrÃ¡val jsem	bÃ¢zi mikardam
+hrÃ¡val jsi	bÃ¢zi mikardi
+hrÃ¡vali	bÃ¢zi mikardand
+hrÃ¡vali jsme	bÃ¢zi mikardim
+hrÃ¡vali jste	bÃ¢zi mikardid
+hrdina	delÃ¢var
 hrdlo	galu
-hrnek	fenjân
+hrnek	fenjÃ¢n
 hrob	gur
 hrobka	gur
 hrozen	angur
 hrtan	galu
-hruï	sine, pestân
-hrudník	sine
-hruška	golâbi, amrud
-høbet	sotun e faqarât
-høbitov	ârâmgâh, gurestân
-høeben	šâne, šane
-høib	gârc, qârc
-høích	gonâh, bezeh, âstâr
-høíšník	gonâhkâr, bezehkâr
-høíva	yâl
-hudba	musiqi, xoniyâ
-husa	qâz
+hruÄ	sine, pestÃ¢n
+hrudnÃ­k	sine
+hruÅ¡ka	golÃ¢bi, amrud
+hÅ™bet	sotun e faqarÃ¢t
+hÅ™bitov	Ã¢rÃ¢mgÃ¢h, gurestÃ¢n
+hÅ™eben	Å¡Ã¢ne, Å¡ane
+hÅ™ib	gÃ¢rc, qÃ¢rc
+hÅ™Ã­ch	gonÃ¢h, bezeh, Ã¢stÃ¢r
+hÅ™Ã­Å¡nÃ­k	gonÃ¢hkÃ¢r, bezehkÃ¢r
+hÅ™Ã­va	yÃ¢l
+hudba	musiqi, xoniyÃ¢
+husa	qÃ¢z
 hustilka	tolombe
-hvìzda	setâre
-hvìzdáø	setârešenâs
+hvÄ›zda	setÃ¢re
+hvÄ›zdÃ¡Å™	setÃ¢reÅ¡enÃ¢s
 hymna	sorud
-ch (hláska)	x (horuf)
-charakter	nahâd
+ch (hlÃ¡ska)	x (horuf)
+charakter	nahÃ¢d
 chata	kolbe, kalbe
-chce	mixâhad
-chceme	mixâhim
-chceš	mixâhi
-chcete	mixâhid
-chci	mixâham
-chladicí systém	havâkaš
-chladiè	râdiyâtor, radiâtor
-chladnı	sard
+chce	mixÃ¢had
+chceme	mixÃ¢him
+chceÅ¡	mixÃ¢hi
+chcete	mixÃ¢hid
+chci	mixÃ¢ham
+chladicÃ­ systÃ©m	havÃ¢kaÅ¡
+chladiÄ	rÃ¢diyÃ¢tor, radiÃ¢tor
+chladnÃ½	sard
 chlapec	pesar
-chlazení	havâkaš
-chléb	nân
-chlebíèek	gerd e nân e kucek
-chlév	kâvdâni
-chlór	klor
-chlup	pašm
-chmel	râzak
-choï	râh boro
-chodit	râh raftan
-chodník	piyâde row, piyâderow
-chování	raftâr
+chlazenÃ­	havÃ¢kaÅ¡
+chlÃ©b	nÃ¢n
+chlebÃ­Äek	gerd e nÃ¢n e kucek
+chlÃ©v	kÃ¢vdÃ¢ni
+chlÃ³r	klor
+chlup	paÅ¡m
+chmel	rÃ¢zak
+choÄ	rÃ¢h boro
+chodit	rÃ¢h raftan
+chodnÃ­k	piyÃ¢de row, piyÃ¢derow
+chovÃ¡nÃ­	raftÃ¢r
 chrabrost	arvandi
 chrom	krom
-chronickı	mozmen
-chronologie	šarh e târixi, târixšomâri
-chøest	mârcube
-chøipka	ânfluânzâ
-chtìjí	mixâhand
-chtìl	xâst
-chtìl jsem	xâstam
-chtìl jsi	xâsti
-chtìli	xâstand
-chtìli jsme	xâstim
-chtìli jste	xâstid
-chtít	xâstan
-chu	eštehâ
-chutnı	laziz
-chvála	setâyeš
-chválit	setâyeš kardan
-chyba	eštebâh, ârang
-chybovat	eštebâh namudan
-chystat	âmâde šodan
+chronickÃ½	mozmen
+chronologie	Å¡arh e tÃ¢rixi, tÃ¢rixÅ¡omÃ¢ri
+chÅ™est	mÃ¢rcube
+chÅ™ipka	Ã¢nfluÃ¢nzÃ¢
+chtÄ›jÃ­	mixÃ¢hand
+chtÄ›l	xÃ¢st
+chtÄ›l jsem	xÃ¢stam
+chtÄ›l jsi	xÃ¢sti
+chtÄ›li	xÃ¢stand
+chtÄ›li jsme	xÃ¢stim
+chtÄ›li jste	xÃ¢stid
+chtÃ­t	xÃ¢stan
+chuÅ¥	eÅ¡tehÃ¢
+chutnÃ½	laziz
+chvÃ¡la	setÃ¢yeÅ¡
+chvÃ¡lit	setÃ¢yeÅ¡ kardan
+chyba	eÅ¡tebÃ¢h, Ã¢rang
+chybovat	eÅ¡tebÃ¢h namudan
+chystat	Ã¢mÃ¢de Å¡odan
 chytat	gereftan
 chytit	gereftan
 i	niz, ham, va, o
-ideální	ârmân, ideâl
-Indie	Hend, Hendustân
+ideÃ¡lnÃ­	Ã¢rmÃ¢n, ideÃ¢l
+Indie	Hend, HendustÃ¢n
 infekce	cerkkardegi
-informace	âgâhi
+informace	Ã¢gÃ¢hi
 inkoust	jowhar
-inenır	mohandes
+inÅ¾enÃ½r	mohandes
 ion	yon
-Irák	Arâq
-Írán	Irân
-Íránská islámská republika	Jomhuri ye Eslami ye Irân
-íránskı	irâni
-islám	islâm, eslâm
-islámskı	islâmi, eslâmi
+IrÃ¡k	ArÃ¢q
+ÃrÃ¡n	IrÃ¢n
+ÃrÃ¡nskÃ¡ islÃ¡mskÃ¡ republika	Jomhuri ye Eslami ye IrÃ¢n
+Ã­rÃ¡nskÃ½	irÃ¢ni
+islÃ¡m	islÃ¢m, eslÃ¢m
+islÃ¡mskÃ½	islÃ¢mi, eslÃ¢mi
 Island	Island
-islandskı	Islandi
-Itálie	Itâliyâ
-izolace	âyeq-sâzi
-Izrael	Esrâil
-j (hláska)	y (horuf)
-já	man
+islandskÃ½	Islandi
+ItÃ¡lie	ItÃ¢liyÃ¢
+izolace	Ã¢yeq-sÃ¢zi
+Izrael	EsrÃ¢il
+j (hlÃ¡ska)	y (horuf)
+jÃ¡	man
 jablko	sib
-jadernı	hasteyi, atomi
-jádro	haste
+jadernÃ½	hasteyi, atomi
+jÃ¡dro	haste
 jahoda	tut e farangi
 jak	cetor, cegune, cetowr
 jak mnoho	cand
-jako	conânke, mesl, mânande, con
-jakı	ce, cetowr, ci, cand, kodâm
-jáma	cah
-jantar	kahrobâ
-jaro	bahâr
-játra	jegar
-jazyk	barge, zabân
-jazz [dez]	jâz
+jako	conÃ¢nke, mesl, mÃ¢nande, con
+jakÃ½	ce, cetowr, ci, cand, kodÃ¢m
+jÃ¡ma	cah
+jantar	kahrobÃ¢
+jaro	bahÃ¢r
+jÃ¡tra	jegar
+jazyk	barge, zabÃ¢n
+jazz [dÅ¾ez]	jÃ¢z
 jde	miravad
 jdeme	miravim
-jdeš	miravi
+jdeÅ¡	miravi
 jdete	miravid
 jdi	boro
 jdou	miravand
 jdu	miravam
-je (akuzativ zájmena)	ânhârâ
-je dìlán	karde mišavad
-je dìláván	karde mišod
-je udìlán	karde šode'ast
+je (akuzativ zÃ¡jmena)	Ã¢nhÃ¢rÃ¢
+je dÄ›lÃ¡n	karde miÅ¡avad
+je dÄ›lÃ¡vÃ¡n	karde miÅ¡od
+je udÄ›lÃ¡n	karde Å¡ode'ast
 je(st)	hast
 jed	sam, zahr
 jeden	yek
-jedenáct	yâzdah
-jedenkrát	yek bâr
-jedí	mixârand
+jedenÃ¡ct	yÃ¢zdah
+jedenkrÃ¡t	yek bÃ¢r
+jedÃ­	mixÃ¢rand
 jedl	xord
 jedl jsem	xordam
 jedl jsi	xordi
 jedli	xordand
 jedli jsme	xordim
 jedli jste	xordid
-jednoduchı	sâde
+jednoduchÃ½	sÃ¢de
 jednoho dne	yekruz
-jednolùkové kupé	kupe ye yektaxti
-jednostrannı	yekpahlu
-jednotlivı	nafar
-jednou	yekruz, yek bâr
-Jedu do Teheránu.	Man be Tehrân miravam.
+jednolÅ¯Å¾kovÃ© kupÃ©	kupe ye yektaxti
+jednostrannÃ½	yekpahlu
+jednotlivÃ½	nafar
+jednou	yekruz, yek bÃ¢r
+Jedu do TeherÃ¡nu.	Man be TehrÃ¢n miravam.
 jehla	suzan
-jehlice do kravaty	suzan e kerâvât
-jehnì	barre
-jeho	e u, -aš
-jej	urâ
-jejich	e išân, -ešan
+jehlice do kravaty	suzan e kerÃ¢vÃ¢t
+jehnÄ›	barre
+jeho	e u, -aÅ¡
+jej	urÃ¢
+jejich	e iÅ¡Ã¢n, -eÅ¡an
 jelen	gavazn
-jemnı	zarif
+jemnÃ½	zarif
 jemu	beu
-jen	tanhâ, yegâne
-jenom	yegâne, tanhâ
+jen	tanhÃ¢, yegÃ¢ne
+jenom	yegÃ¢ne, tanhÃ¢
 jest	ast
 jestli	agar
-ještì	hanuz
-jet	rândan
+jeÅ¡tÄ›	hanuz
+jet	rÃ¢ndan
 jevit se	nemudan, namudan
-jez (jíst)	boxor
-jezero	daryâce
-jezírko	berke
-Jeíš	Eysa, Eysâ, Isâ
-Jeíš Kristus	Isâ Masih
+jez (jÃ­st)	boxor
+jezero	daryÃ¢ce
+jezÃ­rko	berke
+JeÅ¾Ã­Å¡	Eysa, EysÃ¢, IsÃ¢
+JeÅ¾Ã­Å¡ Kristus	IsÃ¢ Masih
 jho	yuq
-jí	mixârad
-jídelní vùz	vâgon e qazâxori
-jídlo	qazâ
+jÃ­	mixÃ¢rad
+jÃ­delnÃ­ vÅ¯z	vÃ¢gon e qazÃ¢xori
+jÃ­dlo	qazÃ¢
 jih	jonub
-jikry	toxm e mâhi
-jim	be ânhâ
-jím	mixâram
-jim (pro osoby)	be išân
-jíme	mixârim
-jinı (další)	digar
-jíst	xordan
-jistı)	-i
-jistı) po samohlásce	-yi
-jíš	mixâri
-jít	raftan
-jíte	mixârid
-jízdenka	belit
-jízdní kolo	docarxe
-jízdní øád	ketâb e râhnamâ ye râh-âhan
-jméno	nâm, esm
-jmenovat	gomârdan
-jód	yod
+jikry	toxm e mÃ¢hi
+jim	be Ã¢nhÃ¢
+jÃ­m	mixÃ¢ram
+jim (pro osoby)	be iÅ¡Ã¢n
+jÃ­me	mixÃ¢rim
+jinÃ½ (dalÅ¡Ã­)	digar
+jÃ­st	xordan
+jistÃ½)	-i
+jistÃ½) po samohlÃ¡sce	-yi
+jÃ­Å¡	mixÃ¢ri
+jÃ­t	raftan
+jÃ­te	mixÃ¢rid
+jÃ­zdenka	belit
+jÃ­zdnÃ­ kolo	docarxe
+jÃ­zdnÃ­ Å™Ã¡d	ketÃ¢b e rÃ¢hnamÃ¢ ye rÃ¢h-Ã¢han
+jmÃ©no	nÃ¢m, esm
+jmenovat	gomÃ¢rdan
+jÃ³d	yod
 jsem	hastam, am
-jsem dìlán	karde mišavam
-jsem dìláván	karde mišodam
-jsem udìlán	karde šode'am
+jsem dÄ›lÃ¡n	karde miÅ¡avam
+jsem dÄ›lÃ¡vÃ¡n	karde miÅ¡odam
+jsem udÄ›lÃ¡n	karde Å¡ode'am
 jsi	hasti, i
-jsi dìlán	karde mišavi
-jsi dìláván	karde mišodi
-jsi udìlán	karde šode'i
+jsi dÄ›lÃ¡n	karde miÅ¡avi
+jsi dÄ›lÃ¡vÃ¡n	karde miÅ¡odi
+jsi udÄ›lÃ¡n	karde Å¡ode'i
 jsme	hastim, im
-jsme dìláni	karde mišavim
-jsme dìláváni	karde mišodim
-jsme udìláni	karde šode'im
+jsme dÄ›lÃ¡ni	karde miÅ¡avim
+jsme dÄ›lÃ¡vÃ¡ni	karde miÅ¡odim
+jsme udÄ›lÃ¡ni	karde Å¡ode'im
 jsou	hastand, and
-jsou dìláni	karde mišavand
-jsou dìláváni	karde mišodand
-jsou udìláni	karde šode'and
+jsou dÄ›lÃ¡ni	karde miÅ¡avand
+jsou dÄ›lÃ¡vÃ¡ni	karde miÅ¡odand
+jsou udÄ›lÃ¡ni	karde Å¡ode'and
 jste	id, hastid
-jste dìláni	karde mišavid
-jste dìláváni	karde mišodid
-jste udìláni	karde šode'id
+jste dÄ›lÃ¡ni	karde miÅ¡avid
+jste dÄ›lÃ¡vÃ¡ni	karde miÅ¡odid
+jste udÄ›lÃ¡ni	karde Å¡ode'id
 k	besuye, suye, be
-kabát	pâlto
-kabel	kâbl
-kadeønictví	ârâyešgâh e zanâne
+kabÃ¡t	pÃ¢lto
+kabel	kÃ¢bl
+kadeÅ™nictvÃ­	Ã¢rÃ¢yeÅ¡gÃ¢h e zanÃ¢ne
 kachna	ordak
-kalamáø	davât
-kalamita	balâ, badbaxti
-kalendáø	sâlnâme, gâhnamâ
-kalhoty	šalvâr, šalvar
-kalkulovat	hesâb kardan
-kamarád	dust
-kambala velká	mâhi ye sim
-kamenovat	sangsâr kardan
-kamion	kâmiyon
-kampaò	mobâreze, laškarkaši
+kalamÃ¡Å™	davÃ¢t
+kalamita	balÃ¢, badbaxti
+kalendÃ¡Å™	sÃ¢lnÃ¢me, gÃ¢hnamÃ¢
+kalhoty	Å¡alvÃ¢r, Å¡alvar
+kalkulovat	hesÃ¢b kardan
+kamarÃ¡d	dust
+kambala velkÃ¡	mÃ¢hi ye sim
+kamenovat	sangsÃ¢r kardan
+kamion	kÃ¢miyon
+kampaÅˆ	mobÃ¢reze, laÅ¡karkaÅ¡i
 Kanada	Kanada
-kanál	kânâl
+kanÃ¡l	kÃ¢nÃ¢l
 kanystr	pit
-kapacita	gonjâyeš
-kapesní hodinky	sâat e jibi
-kapesník	dastmâl
-kapky do oèí	qatre ye cešm
-kapky do uší	qatre ye guš
+kapacita	gonjÃ¢yeÅ¡
+kapesnÃ­ hodinky	sÃ¢at e jibi
+kapesnÃ­k	dastmÃ¢l
+kapky do oÄÃ­	qatre ye ceÅ¡m
+kapky do uÅ¡Ã­	qatre ye guÅ¡
 kapsa	jib
-kára	gâri
+kÃ¡ra	gÃ¢ri
 karafa	tong
-karamel	kârâmel
-karát	qirât
-karavan	kârevân
-karbanátek	kufte ye rize
-karbonovı papír	meqdâr kârbon
-karburátor	karburâtor
-kard	xâhim
-kardinál	kârdinâl
+karamel	kÃ¢rÃ¢mel
+karÃ¡t	qirÃ¢t
+karavan	kÃ¢revÃ¢n
+karbanÃ¡tek	kufte ye rize
+karbonovÃ½ papÃ­r	meqdÃ¢r kÃ¢rbon
+karburÃ¡tor	karburÃ¢tor
+kard	xÃ¢him
+kardinÃ¡l	kÃ¢rdinÃ¢l
 karotka	zardak
-kartáè	bros
-kartáèek na nehty	bros e nâxon
-kartáèek na zuby	dandânšuy
-karton	kârton
-kaštan	šâhbalut
-katalog	ketâb e fehrest
+kartÃ¡Ä	bros
+kartÃ¡Äek na nehty	bros e nÃ¢xon
+kartÃ¡Äek na zuby	dandÃ¢nÅ¡uy
+karton	kÃ¢rton
+kaÅ¡tan	Å¡Ã¢hbalut
+katalog	ketÃ¢b e fehrest
 katedra	miz
-káva	qahve
-kavárna	qahvexâne
-kaviár	xâviyâr
-kávovar	sâfi
-kázat	pand dâdan
-kazeta	kâset
-kadı	har
-kadı den	har ruz
-kde	kojâ
-kdekoliv	har kojâ, har jâ
+kÃ¡va	qahve
+kavÃ¡rna	qahvexÃ¢ne
+kaviÃ¡r	xÃ¢viyÃ¢r
+kÃ¡vovar	sÃ¢fi
+kÃ¡zat	pand dÃ¢dan
+kazeta	kÃ¢set
+kaÅ¾dÃ½	har
+kaÅ¾dÃ½ den	har ruz
+kde	kojÃ¢
+kdekoliv	har kojÃ¢, har jÃ¢
 kdo	ki
 kdy	key
-kdy	vaqti
-kedluben	šalqam
-kedlubna	šalqam
-kempink	ordugâh, kemping
-keramickı	serâmiki
-keramika	serâmik
-keø	bute
-ké bych	omidâram ke
+kdyÅ¾	vaqti
+kedluben	Å¡alqam
+kedlubna	Å¡alqam
+kempink	ordugÃ¢h, kemping
+keramickÃ½	serÃ¢miki
+keramika	serÃ¢mik
+keÅ™	bute
+kÃ©Å¾ bych	omidÃ¢ram ke
 kilo	kilo
 kilogram	kilo
 kilometr	kilumetr, kilometr
-kino	sinemâ, sinema
+kino	sinemÃ¢, sinema
 klakson	buq
-klávesnice	kibord
+klÃ¡vesnice	kibord
 klenot	zivar
-klenotnice	gowhardân
-klepat (na dveøe)	dar zadan
-klíè	kelid
-klíèní kost	ostoxân e tarqove
-klid	ârâmeš, âsudegi
-klidnı	ârâm
+klenotnice	gowhardÃ¢n
+klepat (na dveÅ™e)	dar zadan
+klÃ­Ä	kelid
+klÃ­ÄnÃ­ kost	ostoxÃ¢n e tarqove
+klid	Ã¢rÃ¢meÅ¡, Ã¢sudegi
+klidnÃ½	Ã¢rÃ¢m
 klientela	gomrok
-klikovı høídel	milelang
-klobása	sosis
-klobouk	kolâh
+klikovÃ½ hÅ™Ã­del	milelang
+klobÃ¡sa	sosis
+klobouk	kolÃ¢h
 kloub	mafsal
-kluk (karty)	sarbâz
-kniha	ketâb
-knihkupectví	ketâbforuši
-knihovna	ketâbxâne
+kluk (karty)	sarbÃ¢z
+kniha	ketÃ¢b
+knihkupectvÃ­	ketÃ¢bforuÅ¡i
+knihovna	ketÃ¢bxÃ¢ne
 knihy	kotob
-knír	sebil
-knoflík	dokme
-koberec	qâli, farš
-koèka	gorbe
+knÃ­r	sebil
+knoflÃ­k	dokme
+koberec	qÃ¢li, farÅ¡
+koÄka	gorbe
 kohout	xorus
-kokos	nârgil
-koláè	koluce, keyk
-kolem	atrâf, gerdâgerd, pirâmun
-koleno	zânu
+kokos	nÃ¢rgil
+kolÃ¡Ä	koluce, keyk
+kolem	atrÃ¢f, gerdÃ¢gerd, pirÃ¢mun
+koleno	zÃ¢nu
 kolik	cand, ceqadr
 kolo	carx
-komár	paše
-kombinéza	bâlâpuš
+komÃ¡r	paÅ¡e
+kombinÃ©za	bÃ¢lÃ¢puÅ¡
 komedie	komedi
-komorník	pišxedmat
+komornÃ­k	piÅ¡xedmat
 konat	kardan
-konat práci	kâr kardan
-kondice	hâl
-konec	âxar, pâyân
+konat prÃ¡ci	kÃ¢r kardan
+kondice	hÃ¢l
+konec	Ã¢xar, pÃ¢yÃ¢n
 konvice	quri
 konzerva	quti
-konzulát	konsulgari
-kopaná	futbâl
+konzulÃ¡t	konsulgari
+kopanÃ¡	futbÃ¢l
 kopec	tappe
-kopøiva	gazane
-korál	marjân
-korán	qorân
+kopÅ™iva	gazane
+korÃ¡l	marjÃ¢n
+korÃ¡n	qorÃ¢n
 Korea	Kore
 kormidlo	nok
 koroptev	kabk
-koruna	tâj
-kos	zâqi
-kosa	dâs
-kosmetickı salon	sâlon e zibâyi
-kost	ostoxân
-kostel	kelisâ
+koruna	tÃ¢j
+kos	zÃ¢qi
+kosa	dÃ¢s
+kosmetickÃ½ salon	sÃ¢lon e zibÃ¢yi
+kost	ostoxÃ¢n
+kostel	kelisÃ¢
 kostka cukru	qand
-kostım	jâme
-koš	sabad
-košile	pirâhan
-koštì	jârub
+kostÃ½m	jÃ¢me
+koÅ¡	sabad
+koÅ¡ile	pirÃ¢han
+koÅ¡tÄ›	jÃ¢rub
 kotleta	kotlet
-kotlík	dig
-kotník	moce pâ
-koupací èepice	kolâh e šostošu
-koupací pláš	howle ye hammâm
-koupelna	hammâm
+kotlÃ­k	dig
+kotnÃ­k	moce pÃ¢
+koupacÃ­ Äepice	kolÃ¢h e Å¡ostoÅ¡u
+koupacÃ­ plÃ¡Å¡Å¥	howle ye hammÃ¢m
+koupelna	hammÃ¢m
 koupit	xaridan
-kouøení zakázáno	estemâl e doxâniyât mamnu ast
+kouÅ™enÃ­ zakÃ¡zÃ¡no	estemÃ¢l e doxÃ¢niyÃ¢t mamnu ast
 kousat	gazidan
-kouzlo	jâdu
-koenı	carmi
-koich	kot e xaz
+kouzlo	jÃ¢du
+koÅ¾enÃ½	carmi
+koÅ¾ich	kot e xaz
 krabice	qoti, ja'be
-krachlı	varšekaste
-krajka	pârce ye turi
-král	soltân, pâdšâh, šâh
-Král králù	Šâh e šâhân
-král králù	šâhânšâh
-králík	xarguš
-královna	šahrbânu, šahbânu
-královsky	šâhvâr
-královskı	šâhânšâhi
-království	pâdšâhi
-krása	zibâyi, xošgeli
-kráska	xošgel
-krásnı	zibâ, qašang
-krátkı	kutâh
-kratochvíle	sargami
-kratší	kutâhtar
-kráva	gâv
-kravata	krâvât, dastmâl e gardan
-kreditní karta	kârt e e'tebâr
-krejèí	darzi
-krém	kerem
-krém na opalování	kerem e âftâb
-krém na ruce	kerem e dast
-kreslicí papír	kâqaz e naqqâši
-kreslit	âhixtan
+krachlÃ½	varÅ¡ekaste
+krajka	pÃ¢rce ye turi
+krÃ¡l	soltÃ¢n, pÃ¢dÅ¡Ã¢h, Å¡Ã¢h
+KrÃ¡l krÃ¡lÅ¯	Å Ã¢h e Å¡Ã¢hÃ¢n
+krÃ¡l krÃ¡lÅ¯	Å¡Ã¢hÃ¢nÅ¡Ã¢h
+krÃ¡lÃ­k	xarguÅ¡
+krÃ¡lovna	Å¡ahrbÃ¢nu, Å¡ahbÃ¢nu
+krÃ¡lovsky	Å¡Ã¢hvÃ¢r
+krÃ¡lovskÃ½	Å¡Ã¢hÃ¢nÅ¡Ã¢hi
+krÃ¡lovstvÃ­	pÃ¢dÅ¡Ã¢hi
+krÃ¡sa	zibÃ¢yi, xoÅ¡geli
+krÃ¡ska	xoÅ¡gel
+krÃ¡snÃ½	zibÃ¢, qaÅ¡ang
+krÃ¡tkÃ½	kutÃ¢h
+kratochvÃ­le	sargami
+kratÅ¡Ã­	kutÃ¢htar
+krÃ¡va	gÃ¢v
+kravata	krÃ¢vÃ¢t, dastmÃ¢l e gardan
+kreditnÃ­ karta	kÃ¢rt e e'tebÃ¢r
+krejÄÃ­	darzi
+krÃ©m	kerem
+krÃ©m na opalovÃ¡nÃ­	kerem e Ã¢ftÃ¢b
+krÃ©m na ruce	kerem e dast
+kreslicÃ­ papÃ­r	kÃ¢qaz e naqqÃ¢Å¡i
+kreslit	Ã¢hixtan
 krev	xun
 krk	gardan
 krocan	pilmorq, buqalamun
-krok	gâm
+krok	gÃ¢m
 krupice	balqur
-krùta	buqalamun, pilmorq
-køeè	enqebâz e mâhice, tašannoj
-køepelka	beldercin
-køesan	masihi
-køídlo	bâl
-køí	salib
-køiovatka	cahârrâh
-kterı	ce, ci, kodâm
-kufr	jâmedân
-kukuøice	zorrat
-kulatı	gerd
-kùò	asb
-kupé	kupe
-kupøedu	bejelow
-Kurdistán	Kordestân
-kuøe	morq
-kuøe(cí)	juje
-kùe	pust, carm
-kvìt	gol
-kvìták	gol-kalam, gol e kalam
-kvìten	me
-kvìtináøství	golforuši
-kıla	bâd e fatq
-kyselı	torš
-labutìnka	gard e pof
-lacinı	arzân
-láhev	botri
-lak	lâkalkol
-lak na nehty	lâk e nâxon
-lak na vlasy	tâft, gisuafšân
-lámal	šekast
-lámal jsem	šekastam
-lámal jsi	šekasti
-lámali	šekastand
-lámali jsme	šekastim
-lámali jste	šekastid
-lámat	šekastan
-láme	mišekandad
-lámeme	mišekandim
-lámeš	mišekandi
-lámete	mišekandid
-lámou	mišekandand
-lampa	cerâq, lâmp
-lámu	mišekandam
-laò	âhu
-lanı	dombalân
-láska	ešq, mehr
+krÅ¯ta	buqalamun, pilmorq
+kÅ™eÄ	enqebÃ¢z e mÃ¢hice, taÅ¡annoj
+kÅ™epelka	beldercin
+kÅ™esÅ¥an	masihi
+kÅ™Ã­dlo	bÃ¢l
+kÅ™Ã­Å¾	salib
+kÅ™iÅ¾ovatka	cahÃ¢rrÃ¢h
+kterÃ½	ce, ci, kodÃ¢m
+kufr	jÃ¢medÃ¢n
+kukuÅ™ice	zorrat
+kulatÃ½	gerd
+kÅ¯Åˆ	asb
+kupÃ©	kupe
+kupÅ™edu	bejelow
+KurdistÃ¡n	KordestÃ¢n
+kuÅ™e	morq
+kuÅ™e(cÃ­)	juje
+kÅ¯Å¾e	pust, carm
+kvÄ›t	gol
+kvÄ›tÃ¡k	gol-kalam, gol e kalam
+kvÄ›ten	me
+kvÄ›tinÃ¡Å™stvÃ­	golforuÅ¡i
+kÃ½la	bÃ¢d e fatq
+kyselÃ½	torÅ¡
+labutÄ›nka	gard e pof
+lacinÃ½	arzÃ¢n
+lÃ¡hev	botri
+lak	lÃ¢kalkol
+lak na nehty	lÃ¢k e nÃ¢xon
+lak na vlasy	tÃ¢ft, gisuafÅ¡Ã¢n
+lÃ¡mal	Å¡ekast
+lÃ¡mal jsem	Å¡ekastam
+lÃ¡mal jsi	Å¡ekasti
+lÃ¡mali	Å¡ekastand
+lÃ¡mali jsme	Å¡ekastim
+lÃ¡mali jste	Å¡ekastid
+lÃ¡mat	Å¡ekastan
+lÃ¡me	miÅ¡ekandad
+lÃ¡meme	miÅ¡ekandim
+lÃ¡meÅ¡	miÅ¡ekandi
+lÃ¡mete	miÅ¡ekandid
+lÃ¡mou	miÅ¡ekandand
+lampa	cerÃ¢q, lÃ¢mp
+lÃ¡mu	miÅ¡ekandam
+laÅˆ	Ã¢hu
+lanÃ½Å¾	dombalÃ¢n
+lÃ¡ska	eÅ¡q, mehr
 laskavost	xubi
-laskavı	mehrbân
-latinka	xatt e lâtin
-latinskı	lâtin
-látka	pârce
+laskavÃ½	mehrbÃ¢n
+latinka	xatt e lÃ¢tin
+latinskÃ½	lÃ¢tin
+lÃ¡tka	pÃ¢rce
 lavice	miz, nimkat
 lavor	lagan
-lázeò	hammâm
-léèivo	dâru
-léèka	dâm
+lÃ¡zeÅˆ	hammÃ¢m
+lÃ©Äivo	dÃ¢ru
+lÃ©Äka	dÃ¢m
 led	yax
-leden	ânvie, ânvie
+leden	Å½Ã¢nvie, Å¾Ã¢nvie
 ledvina	qolve, kolye
 ledvinka	qolve
-lehátko	sandali ye âsâyeš
-lehkı	sâde, sabok
-lék	dâru
-lékárna	dâruxâne
-lékárnièka	ja'be ye komakhâ ye naxostin
-lékaø	pezešk
-lékaøskı pøedpis	nosxe
-lékaøství	pezeški
+lehÃ¡tko	sandali ye Ã¢sÃ¢yeÅ¡
+lehkÃ½	sÃ¢de, sabok
+lÃ©k	dÃ¢ru
+lÃ©kÃ¡rna	dÃ¢ruxÃ¢ne
+lÃ©kÃ¡rniÄka	ja'be ye komakhÃ¢ ye naxostin
+lÃ©kaÅ™	pezeÅ¡k
+lÃ©kaÅ™skÃ½ pÅ™edpis	nosxe
+lÃ©kaÅ™stvÃ­	pezeÅ¡ki
 lepidlo	casb
-lepit	casbândan
-lepší	behtar
-les	jangal, biše
-lesní	jangali
-letadlo	havâpeymâ
-letištì	forudgâh
-léto	tâbestân
+lepit	casbÃ¢ndan
+lepÅ¡Ã­	behtar
+les	jangal, biÅ¡e
+lesnÃ­	jangali
+letadlo	havÃ¢peymÃ¢
+letiÅ¡tÄ›	forudgÃ¢h
+lÃ©to	tÃ¢bestÃ¢n
 leukoplast	casb e zaxm
-lev	šir
-levnìjší	arzântar
-levnı	arzân
-levı	cap
+lev	Å¡ir
+levnÄ›jÅ¡Ã­	arzÃ¢ntar
+levnÃ½	arzÃ¢n
+levÃ½	cap
 libra	pond
-líce	gune
-lidé	bastegân
-lidskı rod	neâd e ensân
-lilek (jedlı)	bâdenjân
-límec	yaqe
-limonáda	limunâd
+lÃ­ce	gune
+lidÃ©	bastegÃ¢n
+lidskÃ½ rod	neÅ¾Ã¢d e ensÃ¢n
+lilek (jedlÃ½)	bÃ¢denjÃ¢n
+lÃ­mec	yaqe
+limonÃ¡da	limunÃ¢d
 linka	xatt
-lískovı oøíšek	fandoq
+lÃ­skovÃ½ oÅ™Ã­Å¡ek	fandoq
 list	barg, varaq
-lístek	belit
-listopad	novâmbr
-lítost	tâssof
+lÃ­stek	belit
+listopad	novÃ¢mbr
+lÃ­tost	tÃ¢ssof
 litr	litr
-lnìná tkanina	panbeyi, pârce ye katâni
-loï	zoraq, kašti
-loket	âranj
-loni	pârsâl
-losos	mâhi ye âzâd
-louka	camanzâr
+lnÄ›nÃ¡ tkanina	panbeyi, pÃ¢rce ye katÃ¢ni
+loÄ	zoraq, kaÅ¡ti
+loket	Ã¢ranj
+loni	pÃ¢rsÃ¢l
+losos	mÃ¢hi ye Ã¢zÃ¢d
+louka	camanzÃ¢r
 loutna	ud
-lonice	otâq e xâb, xâbgâh
-lùko	bastar, raxtexâb
-lysı	kacal
-líce	qâšoq
-má	dârad
+loÅ¾nice	otÃ¢q e xÃ¢b, xÃ¢bgÃ¢h
+lÅ¯Å¾ko	bastar, raxtexÃ¢b
+lysÃ½	kacal
+lÅ¾Ã­ce	qÃ¢Å¡oq
+mÃ¡	dÃ¢rad
 magnetofon (kazet.)	zabt e sowt
-majetek	mâl
-mají	dârand
-makrela	mâhi ye xâldâr
-malina	temešk
-málo	kam
-malovat	âhixtan
-malı	xorde, kucak, kucek
-mám	dâram
-máma	mâmâ
-máme	dârim
-mandarinka	nârangi
-mandle	bâdâm
-mandle (anat.)	lowze, bâdâmak
-manévrovat	neyrang zadan
+majetek	mÃ¢l
+majÃ­	dÃ¢rand
+makrela	mÃ¢hi ye xÃ¢ldÃ¢r
+malina	temeÅ¡k
+mÃ¡lo	kam
+malovat	Ã¢hixtan
+malÃ½	xorde, kucak, kucek
+mÃ¡m	dÃ¢ram
+mÃ¡ma	mÃ¢mÃ¢
+mÃ¡me	dÃ¢rim
+mandarinka	nÃ¢rangi
+mandle	bÃ¢dÃ¢m
+mandle (anat.)	lowze, bÃ¢dÃ¢mak
+manÃ©vrovat	neyrang zadan
 mango	anbe
-maniak	âtaši
-manikúra	mânikur
-manšestr	maxmal
-manel	šowhar
-manelka	hamsar
-maneta	dokme ye sardast
-mapa	naqše
-mapa velkého mìøítka	naqše bâ meqyâs e bozorg
+maniak	Ã¢taÅ¡i
+manikÃºra	mÃ¢nikur
+manÅ¡estr	maxmal
+manÅ¾el	Å¡owhar
+manÅ¾elka	hamsar
+manÅ¾eta	dokme ye sardast
+mapa	naqÅ¡e
+mapa velkÃ©ho mÄ›Å™Ã­tka	naqÅ¡e bÃ¢ meqyÃ¢s e bozorg
 Marie	Maryam
-marka	mârk
-marmeláda	morabbâ
-máslo	kare
-masna	guštforuši
-maso	gušt
-mastnı	carb
-máš	dâri
-mat	mât
-máte	dârid
-materiál	pârce
+marka	mÃ¢rk
+marmelÃ¡da	morabbÃ¢
+mÃ¡slo	kare
+masna	guÅ¡tforuÅ¡i
+maso	guÅ¡t
+mastnÃ½	carb
+mÃ¡Å¡	dÃ¢ri
+mat	mÃ¢t
+mÃ¡te	dÃ¢rid
+materiÃ¡l	pÃ¢rce
 matice	mohre
-matka	mâdar
-matka (u šroubu)	mohre
-matrace	tošak
-mì	manrâ
-meè	šamšir
+matka	mÃ¢dar
+matka (u Å¡roubu)	mohre
+matrace	toÅ¡ak
+mÄ›	manrÃ¢
+meÄ	Å¡amÅ¡ir
 med	asal
-mìï	mes
-medvìd	xers
-mìj rád	dust bedâr
-mìl	dâšt
-mìl jsem	dâštam
-mìl jsi	dâšti
-mìli	dâštand
-mìli jsme	dâštim
-mìli jste	dâštid
-meloun	hendavâne
-membrána	parde
-ménì	kamtar
-mìniè	trânsformâtor
-menší	kucaktar, xordtar
-meruòka	zardâlu
-mìøítko	meqyâs
-mìsíc	mâh
-mìsto	šahrak, šahr
-mìstská policie	šahrbâni
-mešita	masjed
+mÄ›Ä	mes
+medvÄ›d	xers
+mÄ›j rÃ¡d	dust bedÃ¢r
+mÄ›l	dÃ¢Å¡t
+mÄ›l jsem	dÃ¢Å¡tam
+mÄ›l jsi	dÃ¢Å¡ti
+mÄ›li	dÃ¢Å¡tand
+mÄ›li jsme	dÃ¢Å¡tim
+mÄ›li jste	dÃ¢Å¡tid
+meloun	hendavÃ¢ne
+membrÃ¡na	parde
+mÃ©nÄ›	kamtar
+mÄ›niÄ	trÃ¢nsformÃ¢tor
+menÅ¡Ã­	kucaktar, xordtar
+meruÅˆka	zardÃ¢lu
+mÄ›Å™Ã­tko	meqyÃ¢s
+mÄ›sÃ­c	mÃ¢h
+mÄ›sto	Å¡ahrak, Å¡ahr
+mÄ›stskÃ¡ policie	Å¡ahrbÃ¢ni
+meÅ¡ita	masjed
 metr	metr, meter
 metro	metro
-mezi	darmiyâne, andar, beyn
+mezi	darmiyÃ¢ne, andar, beyn
 mi	beman
-míè	tup
+mÃ­Ä	tup
 mikina	bluz
 mikrobus	minibus
-milenec	dustdâr, âšeq
-miliarda	miliyârd, miliârd
+milenec	dustdÃ¢r, Ã¢Å¡eq
+miliarda	miliyÃ¢rd, miliÃ¢rd
 milion	miliyon, milion
-milosrdenství	baxšeš, baxšâyandegi, delsuzi
-milost	sangini, vaqâr
-milostnı	kerešme
-milovat	ešq budan
-milı	xoš, aziz
+milosrdenstvÃ­	baxÅ¡eÅ¡, baxÅ¡Ã¢yandegi, delsuzi
+milost	sangini, vaqÃ¢r
+milostnÃ½	kereÅ¡me
+milovat	eÅ¡q budan
+milÃ½	xoÅ¡, aziz
 mince	sekke
-ministrynì	vazir
-ministøi	vozarâ
+ministrynÄ›	vazir
+ministÅ™i	vozarÃ¢
 minuta	daqiqe
-mír	âsâni, ârâmeš, âšti
-miska	kâse
-místnost	otâq
-místo	jâ
-místo	jâ
-místodritelství	velâyat
-mít	dâštan
-mít platnost	etebâr dâštan
-mít rád	dust dâštan
-mít sen	xâb didan
-míval	midâšt
-míval jsem	midâštam
-míval jsi	midâšti
-mívali	midâštand
-mívali jsme	midâštim
-mívali jste	midâštid
-mixér	hamzan
-mladı	javân
-mléko	šir
-mlhavı	mehâlud
+mÃ­r	Ã¢sÃ¢ni, Ã¢rÃ¢meÅ¡, Ã¢Å¡ti
+miska	kÃ¢se
+mÃ­stnost	otÃ¢q
+mÃ­sto	jÃ¢
+mÃ­sto	jÃ¢
+mÃ­stodrÅ¾itelstvÃ­	velÃ¢yat
+mÃ­t	dÃ¢Å¡tan
+mÃ­t platnost	etebÃ¢r dÃ¢Å¡tan
+mÃ­t rÃ¡d	dust dÃ¢Å¡tan
+mÃ­t sen	xÃ¢b didan
+mÃ­val	midÃ¢Å¡t
+mÃ­val jsem	midÃ¢Å¡tam
+mÃ­val jsi	midÃ¢Å¡ti
+mÃ­vali	midÃ¢Å¡tand
+mÃ­vali jsme	midÃ¢Å¡tim
+mÃ­vali jste	midÃ¢Å¡tid
+mixÃ©r	hamzan
+mladÃ½	javÃ¢n
+mlÃ©ko	Å¡ir
+mlhavÃ½	mehÃ¢lud
 mluv	harf bezan
 mluvit	harf zadan
-mluvnice	dastur e zabân
-mlın	âsyâb
-mne	manrâ
-mnì	beman
-mnoho	ziyâd, xeyli
-moc	amâvandi, qodrat
-moci	tavânestan
-moè	ure
-modlit se	niyâyeš kardan, namâz kardan
-modlitba	niyâyeš, namâz
-modrı	âbi
-modø	kabud
+mluvnice	dastur e zabÃ¢n
+mlÃ½n	Ã¢syÃ¢b
+mne	manrÃ¢
+mnÄ›	beman
+mnoho	ziyÃ¢d, xeyli
+moc	amÃ¢vandi, qodrat
+moci	tavÃ¢nestan
+moÄ	ure
+modlit se	niyÃ¢yeÅ¡ kardan, namÃ¢z kardan
+modlitba	niyÃ¢yeÅ¡, namÃ¢z
+modrÃ½	Ã¢bi
+modÅ™	kabud
 Mohamed	Mohammad
 mokro	xis
 mol	bid
-Morava	Morâviyâ
-moruše	tut
-moøe	daryâ
+Morava	MorÃ¢viyÃ¢
+moruÅ¡e	tut
+moÅ™e	daryÃ¢
 most	pol
 motocykl	motorsiklet
-motorovı èlun	qâyeq e motori
-motorovı olej	rowqan e motor
-motıl	parvâne
-mouèník	keyk
-mouka	ârd
+motorovÃ½ Älun	qÃ¢yeq e motori
+motorovÃ½ olej	rowqan e motor
+motÃ½l	parvÃ¢ne
+mouÄnÃ­k	keyk
+mouka	Ã¢rd
 mozek	maqz
-moná	šâyad
-mono	momken
-monı	momken
+moÅ¾nÃ¡	Å¡Ã¢yad
+moÅ¾no	momken
+moÅ¾nÃ½	momken
 mrak	abr
-mrdat	gâyidan
+mrdat	gÃ¢yidan
 mrkev	havij
-mùj	-am, e man
-mul	gâz e pânsomân
-muset	bâyad, bâyast
-muslim	mosalmân
+mÅ¯j	-am, e man
+mul	gÃ¢z e pÃ¢nsomÃ¢n
+muset	bÃ¢yad, bÃ¢yast
+muslim	mosalmÃ¢n
 muzeum	muze
-mu	mard
-munı	mardâne
-my	mâ
-mıdlo	sâbun
-mılit se	eštebâh namudan
-myslet	fekr kardan, andišidan
-myšlenka	andiše
+muÅ¾	mard
+muÅ¾nÃ½	mardÃ¢ne
+my	mÃ¢
+mÃ½dlo	sÃ¢bun
+mÃ½lit se	eÅ¡tebÃ¢h namudan
+myslet	fekr kardan, andiÅ¡idan
+myÅ¡lenka	andiÅ¡e
 na	bar
-na prodej	barâye foruš
-na shledanou	Xodâ negahdâr, be omid e didâr
-na vidìnou	be omid e didâr
-náboenská obec	mezhab
-náboenství	din
-nacista	nâzi
-náèrtník	kâqaz e pišnevis
-nad	bâlâye, bartar, zabar, ruye
-nadìje	omid
-Náder	Nâder
-nádhernı	zibâ
-nádobí	zarf
-nádraí	istgâh
-nahoru	bâlâ
-náhradní díly	qesmathâ ye yadaki
-nacházet	peydâ kardan
-nachlazení	sarmâxordegi
-najdi	peydâ kon
-najmout	ejâre kardan
-nákaza	cerkkardegi
-nakládaná)	xiyâr e šur
-nákladnı	gerân
-náklonnost	gerâmegi
-nákup	xarid
-nalézat	peydâ kardan
-nám	bemâ
-námìstí	meydân
-námoøní	daryâyi
-napájel jsem se	miâšâmidam
-napájel jsi se	miâšâmidi
-napájel se	miâšâmid
-napájeli jsme se	miâšâmidim
-napájeli jste se	miâšâmidid
-napájeli se	miâšâmidand
-napìtí	voltâ
-napij se	benuš
-napít se	nušidan
-náplast	casb e zaxm
-nápoj	nušâne
-naproti	ruberuye, vâ
-napøíè	sartâsar
-náramkové hodinky	sâat e moci
-národ	pâdarm, mellat
-národní	melli, pâdarmi
-národní osvobození	nejât e melli
-narození	zâyeš
+na prodej	barÃ¢ye foruÅ¡
+na shledanou	XodÃ¢ negahdÃ¢r, be omid e didÃ¢r
+na vidÄ›nou	be omid e didÃ¢r
+nÃ¡boÅ¾enskÃ¡ obec	mezhab
+nÃ¡boÅ¾enstvÃ­	din
+nacista	nÃ¢zi
+nÃ¡ÄrtnÃ­k	kÃ¢qaz e piÅ¡nevis
+nad	bÃ¢lÃ¢ye, bartar, zabar, ruye
+nadÄ›je	omid
+NÃ¡der	NÃ¢der
+nÃ¡dhernÃ½	zibÃ¢
+nÃ¡dobÃ­	zarf
+nÃ¡draÅ¾Ã­	istgÃ¢h
+nahoru	bÃ¢lÃ¢
+nÃ¡hradnÃ­ dÃ­ly	qesmathÃ¢ ye yadaki
+nachÃ¡zet	peydÃ¢ kardan
+nachlazenÃ­	sarmÃ¢xordegi
+najdi	peydÃ¢ kon
+najmout	ejÃ¢re kardan
+nÃ¡kaza	cerkkardegi
+naklÃ¡danÃ¡)	xiyÃ¢r e Å¡ur
+nÃ¡kladnÃ½	gerÃ¢n
+nÃ¡klonnost	gerÃ¢megi
+nÃ¡kup	xarid
+nalÃ©zat	peydÃ¢ kardan
+nÃ¡m	bemÃ¢
+nÃ¡mÄ›stÃ­	meydÃ¢n
+nÃ¡moÅ™nÃ­	daryÃ¢yi
+napÃ¡jel jsem se	miÃ¢Å¡Ã¢midam
+napÃ¡jel jsi se	miÃ¢Å¡Ã¢midi
+napÃ¡jel se	miÃ¢Å¡Ã¢mid
+napÃ¡jeli jsme se	miÃ¢Å¡Ã¢midim
+napÃ¡jeli jste se	miÃ¢Å¡Ã¢midid
+napÃ¡jeli se	miÃ¢Å¡Ã¢midand
+napÄ›tÃ­	voltÃ¢Å¾
+napij se	benuÅ¡
+napÃ­t se	nuÅ¡idan
+nÃ¡plast	casb e zaxm
+nÃ¡poj	nuÅ¡Ã¢ne
+naproti	ruberuye, vÃ¢Å¾
+napÅ™Ã­Ä	sartÃ¢sar
+nÃ¡ramkovÃ© hodinky	sÃ¢at e moci
+nÃ¡rod	pÃ¢darm, mellat
+nÃ¡rodnÃ­	melli, pÃ¢darmi
+nÃ¡rodnÃ­ osvobozenÃ­	nejÃ¢t e melli
+narozenÃ­	zÃ¢yeÅ¡
 narozeniny	tavvalod
-náøadí	abzâr
-naøízení	âyinnâme
-nás	mârâ
-nástraha	dâm
-nástroj	afzâr
-nástupištì	saku
-náš	-eman, e mâ
-natáèka	bigudi
-nátìlník	ile
+nÃ¡Å™adÃ­	abzÃ¢r
+naÅ™Ã­zenÃ­	Ã¢yinnÃ¢me
+nÃ¡s	mÃ¢rÃ¢
+nÃ¡straha	dÃ¢m
+nÃ¡stroj	afzÃ¢r
+nÃ¡stupiÅ¡tÄ›	saku
+nÃ¡Å¡	-eman, e mÃ¢
+natÃ¡Äka	bigudi
+nÃ¡tÄ›lnÃ­k	Å¾ile
 nauky	olum
-náušnice	gušvâre
-navrhnout	pišnahâd kardan
-navdy	barâye hamiše, peyvaste, jâvidân
+nÃ¡uÅ¡nice	guÅ¡vÃ¢re
+navrhnout	piÅ¡nahÃ¢d kardan
+navÅ¾dy	barÃ¢ye hamiÅ¡e, peyvaste, jÃ¢vidÃ¢n
 nazdar	dorud
-název	nâm
+nÃ¡zev	nÃ¢m
 ne	nah, xeyr, na
 ne-	ne-, na-
-nebe	âsmân, behešt, minu
-nebeskı	âsmâni
-nebezpeèí	se, xatar
-nebezpeèí smrti	xatar e marg
-nebezpeènı	xatarnâk
-neblahı	badbaxt
-nebo	yâ
-nebo	conke, zirâ
-nebude	naxâhad bud
-nebude dìlán	karde naxâhad šod
-nebude dìlat	naxâhad kard
-nebude hrát	bâzi naxâhad kard
-nebude chtít	naxâhad xâst
-nebude jíst	naxâhad xord
-nebude pít	naxâhad âšâmid
-nebude poèítat	naxâhad šomord
-nebude spát	naxâham xâbid
-nebude vìdìt	naxâhad dânest
-nebude zavírat	naxâhad bast
-nebudeme	naxâhim bud
-nebudeme dìláni	karde naxâhim šod
-nebudeme dìlat	naxâhim kard
-nebudeme hrát	bâzi naxâhim kard
-nebudeme chtít	naxâhim xâst
-nebudeme jíst	naxâhim xord
-nebudeme pít	naxâhim âšâmid
-nebudeme poèítat	naxâhim šomord
-nebudeme spát	naxâhim xâbid
-nebudeme vìdìt	naxâhim dânest
-nebudeme zavírat	naxâhim bast
-nebudeš	naxâhi bud
-nebudeš dìlán	karde naxâhi šod
-nebudeš dìlat	naxâhi kard
-nebudeš hrát	bâzi naxâhi kard
-nebudeš chtít	naxâhi xâst
-nebudeš jíst	naxâhi xord
-nebudeš pít	naxâhi âšâmid
-nebudeš poèítat	naxâhi šomord
-nebudeš spát	naxâhi xabid
-nebudeš vìdìt	naxâhi dânest
-nebudeš zavírat	naxâhi bast
-nebudete	naxâhid bud
-nebudete dìláni	karde naxâhid šod
-nebudete dìlat	naxâhid kard
-nebudete hrát	bâzi naxâhid kard
-nebudete chtít	naxâhid xâst
-nebudete jíst	naxâhid xord
-nebudete pít	naxâhid âšâmid
-nebudete poèítat	naxâhid šomord
-nebudete spát	naxâhid xâbid
-nebudete vìdìt	naxâhid dânest
-nebudete zavírat	naxâhid bast
-nebudou	naxâhand bud
-nebudou dìláni	karde naxâhand šod
-nebudou dìlat	naxâhand kard
-nebudou hrát	bâzi naxâhand kard
-nebudou chtít	naxâhand xâst
-nebudou jíst	naxâhand xord
-nebudou pít	naxâhand âšâmid
-nebudou poèítat	naxâhand šomord
-nebudou spát	naxâhand xâbid
-nebudou vìdìt	naxâhand dânest
-nebudou zavírat	naxâhand bast
-nebudu	naxâham bud
-nebudu dìlán	karde naxâham šod
-nebudu dìlat	naxâham kard
-nebudu hrát	bâzi naxâham kard
-nebudu chtít	naxâham xâst
-nebudu jíst	naxâham xord
-nebudu pít	naxâham âšâmid
-nebudu poèítat	naxâham šomord
-nebudu spát	naxâham xabid
-nebudu vìdìt	naxâham dânest
-nebudu zavírat	naxâham bast
+nebe	Ã¢smÃ¢n, beheÅ¡t, minu
+nebeskÃ½	Ã¢smÃ¢ni
+nebezpeÄÃ­	seÅ¾, xatar
+nebezpeÄÃ­ smrti	xatar e marg
+nebezpeÄnÃ½	xatarnÃ¢k
+neblahÃ½	badbaxt
+nebo	yÃ¢
+neboÅ¥	conke, zirÃ¢
+nebude	naxÃ¢had bud
+nebude dÄ›lÃ¡n	karde naxÃ¢had Å¡od
+nebude dÄ›lat	naxÃ¢had kard
+nebude hrÃ¡t	bÃ¢zi naxÃ¢had kard
+nebude chtÃ­t	naxÃ¢had xÃ¢st
+nebude jÃ­st	naxÃ¢had xord
+nebude pÃ­t	naxÃ¢had Ã¢Å¡Ã¢mid
+nebude poÄÃ­tat	naxÃ¢had Å¡omord
+nebude spÃ¡t	naxÃ¢ham xÃ¢bid
+nebude vÄ›dÄ›t	naxÃ¢had dÃ¢nest
+nebude zavÃ­rat	naxÃ¢had bast
+nebudeme	naxÃ¢him bud
+nebudeme dÄ›lÃ¡ni	karde naxÃ¢him Å¡od
+nebudeme dÄ›lat	naxÃ¢him kard
+nebudeme hrÃ¡t	bÃ¢zi naxÃ¢him kard
+nebudeme chtÃ­t	naxÃ¢him xÃ¢st
+nebudeme jÃ­st	naxÃ¢him xord
+nebudeme pÃ­t	naxÃ¢him Ã¢Å¡Ã¢mid
+nebudeme poÄÃ­tat	naxÃ¢him Å¡omord
+nebudeme spÃ¡t	naxÃ¢him xÃ¢bid
+nebudeme vÄ›dÄ›t	naxÃ¢him dÃ¢nest
+nebudeme zavÃ­rat	naxÃ¢him bast
+nebudeÅ¡	naxÃ¢hi bud
+nebudeÅ¡ dÄ›lÃ¡n	karde naxÃ¢hi Å¡od
+nebudeÅ¡ dÄ›lat	naxÃ¢hi kard
+nebudeÅ¡ hrÃ¡t	bÃ¢zi naxÃ¢hi kard
+nebudeÅ¡ chtÃ­t	naxÃ¢hi xÃ¢st
+nebudeÅ¡ jÃ­st	naxÃ¢hi xord
+nebudeÅ¡ pÃ­t	naxÃ¢hi Ã¢Å¡Ã¢mid
+nebudeÅ¡ poÄÃ­tat	naxÃ¢hi Å¡omord
+nebudeÅ¡ spÃ¡t	naxÃ¢hi xabid
+nebudeÅ¡ vÄ›dÄ›t	naxÃ¢hi dÃ¢nest
+nebudeÅ¡ zavÃ­rat	naxÃ¢hi bast
+nebudete	naxÃ¢hid bud
+nebudete dÄ›lÃ¡ni	karde naxÃ¢hid Å¡od
+nebudete dÄ›lat	naxÃ¢hid kard
+nebudete hrÃ¡t	bÃ¢zi naxÃ¢hid kard
+nebudete chtÃ­t	naxÃ¢hid xÃ¢st
+nebudete jÃ­st	naxÃ¢hid xord
+nebudete pÃ­t	naxÃ¢hid Ã¢Å¡Ã¢mid
+nebudete poÄÃ­tat	naxÃ¢hid Å¡omord
+nebudete spÃ¡t	naxÃ¢hid xÃ¢bid
+nebudete vÄ›dÄ›t	naxÃ¢hid dÃ¢nest
+nebudete zavÃ­rat	naxÃ¢hid bast
+nebudou	naxÃ¢hand bud
+nebudou dÄ›lÃ¡ni	karde naxÃ¢hand Å¡od
+nebudou dÄ›lat	naxÃ¢hand kard
+nebudou hrÃ¡t	bÃ¢zi naxÃ¢hand kard
+nebudou chtÃ­t	naxÃ¢hand xÃ¢st
+nebudou jÃ­st	naxÃ¢hand xord
+nebudou pÃ­t	naxÃ¢hand Ã¢Å¡Ã¢mid
+nebudou poÄÃ­tat	naxÃ¢hand Å¡omord
+nebudou spÃ¡t	naxÃ¢hand xÃ¢bid
+nebudou vÄ›dÄ›t	naxÃ¢hand dÃ¢nest
+nebudou zavÃ­rat	naxÃ¢hand bast
+nebudu	naxÃ¢ham bud
+nebudu dÄ›lÃ¡n	karde naxÃ¢ham Å¡od
+nebudu dÄ›lat	naxÃ¢ham kard
+nebudu hrÃ¡t	bÃ¢zi naxÃ¢ham kard
+nebudu chtÃ­t	naxÃ¢ham xÃ¢st
+nebudu jÃ­st	naxÃ¢ham xord
+nebudu pÃ­t	naxÃ¢ham Ã¢Å¡Ã¢mid
+nebudu poÄÃ­tat	naxÃ¢ham Å¡omord
+nebudu spÃ¡t	naxÃ¢ham xabid
+nebudu vÄ›dÄ›t	naxÃ¢ham dÃ¢nest
+nebudu zavÃ­rat	naxÃ¢ham bast
 nebyl	nabud
-nebyl dìlán	karde našod
+nebyl dÄ›lÃ¡n	karde naÅ¡od
 nebyl jsem	nabudam
-nebyl jsem dìlán	karde našodam
-nebyl jsem udìlal	nakarde budam
-nebyl jsem udìlán	karde šode nabudam
+nebyl jsem dÄ›lÃ¡n	karde naÅ¡odam
+nebyl jsem udÄ›lal	nakarde budam
+nebyl jsem udÄ›lÃ¡n	karde Å¡ode nabudam
 nebyl jsi	nabudi
-nebyl jsi dìlán	karde našodi
-nebyl jsi udìlal	nakarde budi
-nebyl jsi udìlán	karde šode nabudi
-nebyl udìlal	nakarde bud
-nebyl udìlán	karde šode nabud
+nebyl jsi dÄ›lÃ¡n	karde naÅ¡odi
+nebyl jsi udÄ›lal	nakarde budi
+nebyl jsi udÄ›lÃ¡n	karde Å¡ode nabudi
+nebyl udÄ›lal	nakarde bud
+nebyl udÄ›lÃ¡n	karde Å¡ode nabud
 nebyli	nabudand
-nebyli dìláni	karde našodand
+nebyli dÄ›lÃ¡ni	karde naÅ¡odand
 nebyli jsme	nabudim
-nebyli jsme dìláni	karde našodim
-nebyli jsme udìlali	nakarde budim
-nebyli jsme udìláni	karde šode nabudim
+nebyli jsme dÄ›lÃ¡ni	karde naÅ¡odim
+nebyli jsme udÄ›lali	nakarde budim
+nebyli jsme udÄ›lÃ¡ni	karde Å¡ode nabudim
 nebyli jste	nabudid
-nebyli jste dìláni	karde našodid
-nebyli jste udìlali	nakarde budid
-nebyli jste udìláni	karde šode nabudid
-nebyli udìlali	nakarde budand
-nebyli udìláni	karde šode nabudand
-nebıval	namibud
-nebıval jsem	namibudam
-nebıval jsi	namibudi
-nebıvali	namibudand
-nebıvali jsme	namibudim
-nebıvali jste	namibudid
-necesér	ja'be ye abzârhâ ye ârâyeš
-nìco	yek cizi, cizi
-neèistotnı	cerk, nâpâk
-neèistı	cerk
-nedá	naxâhad dâd
-nedají	naxâhand dâd
-nedal	nadâd
-nedal jsem	nadâdam
-nedal jsi	nadâdi
-nedali	nadâdand
-nedali jsme	nadâdim
-nedali jste	nadâdid
-nedám	naxâham dâd
-nedáme	naxâhim dâd
-nedáš	naxâhi dâd
-nedáte	naxâhid dâd
-nedává	namidehad
-nedávají	namidehand
-nedával	namidâd
-nedával jsem	namidâdam
-nedával jsi	namidâdi
-nedávali	namidâdand
-nedávali jsme	namidâdim
-nedávali jste	namidâdid
-nedávám	namideham
-nedáváme	namidehim
-nedáváš	namidehi
-nedáváte	namidehid
-nedbale	behar hâl
-nedìlá	namikonad
-nedìlají	namikonand
-nedìlal	nakard
-nedìlal jsem	nakardam
-nedìlal jsi	nakardi
-nedìlali	nakardand
-nedìlali jsme	nakardim
-nedìlali jste	nakardid
-nedìlám	namikonam
-nedìláme	namikonim
-nedìláš	namikoni
-nedìláte	namikonid
-nedìlával	namikard
-nedìlával jsem	namikardam
-nedìlával jsi	namikardi
-nedìlávali	namikardand
-nedìlávali jsme	namikardim
-nedìlávali jste	namikardid
-nedìle	yekšanbe
-neexistuje	namibâšad
-neexistujeme	namibâšim
-neexistuješ	namibâši
-neexistujete	namibâšid
-neexistuji	namibâšam
-neexistují	namibâšand
-nefrit	yašm
-nehraje	bâzi namikonad
-nehrajeme	bâzi namikonim
-nehraješ	bâzi namikoni
-nehrajete	bâzi namikonid
-nehraji	bâzi namikonam
-nehrají	bâzi namikonand
-nehrál	bâzi nakard
-nehrál jsem	bâzi nakardam
-nehrál jsi	bâzi nakardi
-nehráli	bâzi nakardand
-nehráli jsme	bâzi nakardim
-nehráli jste	bâzi nakardid
-nehrával	bâzi namikard
-nehrával jsem	bâzi namikardam
-nehrával jsi	bâzi namikardi
-nehrávali	bâzi namikardand
-nehrávali jsme	bâzi namikardim
-nehrávali jste	bâzi namikardid
-nechce	namixâhad
-nechceme	namixâhim
-nechceš	namixâhi
-nechcete	namixâhid
-nechci	namixâham
-nechtìjí	namixâhand
-nechtìl	naxâst
-nechtìl jsem	naxâstam
-nechtìl jsi	naxâsti
-nechtìli	naxâstand
-nechtìli jsme	naxâstim
-nechtìli jste	naxâstid
-nechvalnı	badbaxt
-nìjak	yekjur
-nìjakı	-i, andaki, -yi, pâreyi
-nejasnı	âlude
-nejbliší	nazdiktarin
-nejdraší	gerântarin
-nejdøíve	zudtarin
-nejedí	namixârand
+nebyli jste dÄ›lÃ¡ni	karde naÅ¡odid
+nebyli jste udÄ›lali	nakarde budid
+nebyli jste udÄ›lÃ¡ni	karde Å¡ode nabudid
+nebyli udÄ›lali	nakarde budand
+nebyli udÄ›lÃ¡ni	karde Å¡ode nabudand
+nebÃ½val	namibud
+nebÃ½val jsem	namibudam
+nebÃ½val jsi	namibudi
+nebÃ½vali	namibudand
+nebÃ½vali jsme	namibudim
+nebÃ½vali jste	namibudid
+necesÃ©r	ja'be ye abzÃ¢rhÃ¢ ye Ã¢rÃ¢yeÅ¡
+nÄ›co	yek cizi, cizi
+neÄistotnÃ½	cerk, nÃ¢pÃ¢k
+neÄistÃ½	cerk
+nedÃ¡	naxÃ¢had dÃ¢d
+nedajÃ­	naxÃ¢hand dÃ¢d
+nedal	nadÃ¢d
+nedal jsem	nadÃ¢dam
+nedal jsi	nadÃ¢di
+nedali	nadÃ¢dand
+nedali jsme	nadÃ¢dim
+nedali jste	nadÃ¢did
+nedÃ¡m	naxÃ¢ham dÃ¢d
+nedÃ¡me	naxÃ¢him dÃ¢d
+nedÃ¡Å¡	naxÃ¢hi dÃ¢d
+nedÃ¡te	naxÃ¢hid dÃ¢d
+nedÃ¡vÃ¡	namidehad
+nedÃ¡vajÃ­	namidehand
+nedÃ¡val	namidÃ¢d
+nedÃ¡val jsem	namidÃ¢dam
+nedÃ¡val jsi	namidÃ¢di
+nedÃ¡vali	namidÃ¢dand
+nedÃ¡vali jsme	namidÃ¢dim
+nedÃ¡vali jste	namidÃ¢did
+nedÃ¡vÃ¡m	namideham
+nedÃ¡vÃ¡me	namidehim
+nedÃ¡vÃ¡Å¡	namidehi
+nedÃ¡vÃ¡te	namidehid
+nedbale	behar hÃ¢l
+nedÄ›lÃ¡	namikonad
+nedÄ›lajÃ­	namikonand
+nedÄ›lal	nakard
+nedÄ›lal jsem	nakardam
+nedÄ›lal jsi	nakardi
+nedÄ›lali	nakardand
+nedÄ›lali jsme	nakardim
+nedÄ›lali jste	nakardid
+nedÄ›lÃ¡m	namikonam
+nedÄ›lÃ¡me	namikonim
+nedÄ›lÃ¡Å¡	namikoni
+nedÄ›lÃ¡te	namikonid
+nedÄ›lÃ¡val	namikard
+nedÄ›lÃ¡val jsem	namikardam
+nedÄ›lÃ¡val jsi	namikardi
+nedÄ›lÃ¡vali	namikardand
+nedÄ›lÃ¡vali jsme	namikardim
+nedÄ›lÃ¡vali jste	namikardid
+nedÄ›le	yekÅ¡anbe
+neexistuje	namibÃ¢Å¡ad
+neexistujeme	namibÃ¢Å¡im
+neexistujeÅ¡	namibÃ¢Å¡i
+neexistujete	namibÃ¢Å¡id
+neexistuji	namibÃ¢Å¡am
+neexistujÃ­	namibÃ¢Å¡and
+nefrit	yaÅ¡m
+nehraje	bÃ¢zi namikonad
+nehrajeme	bÃ¢zi namikonim
+nehrajeÅ¡	bÃ¢zi namikoni
+nehrajete	bÃ¢zi namikonid
+nehraji	bÃ¢zi namikonam
+nehrajÃ­	bÃ¢zi namikonand
+nehrÃ¡l	bÃ¢zi nakard
+nehrÃ¡l jsem	bÃ¢zi nakardam
+nehrÃ¡l jsi	bÃ¢zi nakardi
+nehrÃ¡li	bÃ¢zi nakardand
+nehrÃ¡li jsme	bÃ¢zi nakardim
+nehrÃ¡li jste	bÃ¢zi nakardid
+nehrÃ¡val	bÃ¢zi namikard
+nehrÃ¡val jsem	bÃ¢zi namikardam
+nehrÃ¡val jsi	bÃ¢zi namikardi
+nehrÃ¡vali	bÃ¢zi namikardand
+nehrÃ¡vali jsme	bÃ¢zi namikardim
+nehrÃ¡vali jste	bÃ¢zi namikardid
+nechce	namixÃ¢had
+nechceme	namixÃ¢him
+nechceÅ¡	namixÃ¢hi
+nechcete	namixÃ¢hid
+nechci	namixÃ¢ham
+nechtÄ›jÃ­	namixÃ¢hand
+nechtÄ›l	naxÃ¢st
+nechtÄ›l jsem	naxÃ¢stam
+nechtÄ›l jsi	naxÃ¢sti
+nechtÄ›li	naxÃ¢stand
+nechtÄ›li jsme	naxÃ¢stim
+nechtÄ›li jste	naxÃ¢stid
+nechvalnÃ½	badbaxt
+nÄ›jak	yekjur
+nÄ›jakÃ½	-i, andaki, -yi, pÃ¢reyi
+nejasnÃ½	Ã¢lude
+nejbliÅ¾Å¡Ã­	nazdiktarin
+nejdraÅ¾Å¡Ã­	gerÃ¢ntarin
+nejdÅ™Ã­ve	zudtarin
+nejedÃ­	namixÃ¢rand
 nejedl	naxord
 nejedl jsem	naxordam
 nejedl jsi	naxordi
 nejedli	naxordand
 nejedli jsme	naxordim
 nejedli jste	naxordid
-nejhorší	badtarin
-nejí	namixârad
-nejím	namixâram
-nejíme	namixârim
-nejíš	namixâri
-nejíte	namixârid
-nejkratší	kutâhtarin
-nejlepší	behtaring, behtarin
-nejlevnìjší	arzântarin
-nejmenší	kucaktarin, xordtarin
+nejhorÅ¡Ã­	badtarin
+nejÃ­	namixÃ¢rad
+nejÃ­m	namixÃ¢ram
+nejÃ­me	namixÃ¢rim
+nejÃ­Å¡	namixÃ¢ri
+nejÃ­te	namixÃ¢rid
+nejkratÅ¡Ã­	kutÃ¢htarin
+nejlepÅ¡Ã­	behtaring, behtarin
+nejlevnÄ›jÅ¡Ã­	arzÃ¢ntarin
+nejmenÅ¡Ã­	kucaktarin, xordtarin
 nejsem	nistam
-nejsem dìlán	karde namišavam
-nejsem dìláván	karde namišodam
-nejsem udìlán	karde našode'am
-nejsi dìlán	karde namišavi
-nejsi dìláván	karde namišodi
-nejsi udìlán	karde našode'i
-nejsme dìláni	karde namišavim
-nejsme dìláváni	karde namišodim
-nejsme udìláni	karde našode'im
-nejsou dìláni	karde namišavand
-nejsou dìláváni	karde namišodand
-nejsou udìláni	karde našode'and
-nejste dìláni	karde namišavid
-nejste dìláváni	karde namišodid
-nejste udìláni	karde našode'id
-nejvìtší	bozorgtarin
-nìkde	yek jâyi
-nìkdo	yek kasi
-neklidnı	biâram
-nìkolik	cand
-nekoneènı	bipâyân
-nìkterı	pâreyi
-Nìmecko	Âlmân
-nìmeckı	âlmâni
-nemocnice	bimârestân
-nemocnı	bimâr
-nenapájel jsem se	namiâšâmidam
-nenapájel jsi se	namiâšâmidi
-nenapájel se	namiâšâmid
-nenapájeli jsme se	namiâšâmidim
-nenapájeli jste se	namiâšâmidid
-nenapájeli se	namiâšâmidand
-není dìlán	karde namišavad
-není dìláván	karde namišod
-není udìlán	karde našode'ast
-není zaè	xâheš mikonam
-nepije	namiâšâmad
-nepijeme	namiâšâmim
-nepiješ	namiâšâmi
-nepijete	namiâšâmid
-nepiji	namiâšâmam
-nepijí	namiâšâmand
-nepil	nayâšâmid
-nepil jsem	nayâšâmidam
-nepil jsi	nayâšâmidi
-nepili	nayâšâmidand
-nepili jsme	nayâšâmidim
-nepili jste	nayâšâmidid
-nepoèítá	namišomorad
-nepoèítají	namišomorand
-nepoèítal	našomord
-nepoèítal jsem	našomordam
-nepoèítal jsi	našomordi
-nepoèítali	našomordand
-nepoèítali jsme	našomordim
-nepoèítali jste	našomordid
-nepoèítám	namišomoram
-nepoèítáme	namišomorim
-nepoèítáš	namišomori
-nepoèítáte	namišomorid
-nepojídá	namixord
-nepojídal	namixord
-nepojídal jsem	namixordam
-nepojídal jsi	namixordi
-nepojídali	namixordand
-nepojídali jsme	namixordim
-nepojídali jste	namixordid
-nepojídám	namixordam
-nepojídáme	namixordim
-nepojídáš	namixordi
-nepøicházejí	namiâyand
-nepøichází	namiâyad
-nepøicházím	namiâyam
-nepøicházíme	namiâ'im
-nepøicházíš	namiâ'i
-nepøicházíte	namiâ'id
-nepøijde	naxâhad âmad
-nepøijdeme	naxâhim âmad
-nepøijdeš	naxâhi âmad
-nepøijdete	naxâhid âmad
-nepøijdou	naxâhand âmad
-nepøijdu	naxâham âmad
-nepøinášejí	namiârand
-nepøinášel	namiâvard
-nepøinášel jsem	namiâvardam
-nepøinášel jsi	namiâvardi
-nepøinášeli	namiâvardand
-nepøinášeli jsme	namiâvardim
-nepøinášeli jste	namiâvardid
-nepøináší	namiârad
-nepøináším	namiâram
-nepøinášíme	namiârim
-nepøinášíš	namiâri
-nepøinášíte	namiârid
-nepøinese	naxâhad âvard
-nepøineseme	naxâhim âvard
-nepøineseš	naxâhi âvard
-nepøinesete	naxâhid âvard
-nepøinesl	nayâvard
-nepøinesl jsem	nayâvardam
-nepøinesl jsi	nayâvardi
-nepøinesli	nayâvardand
-nepøinesli jsme	nayâvardim
-nepøinesli jste	nayâvardid
-nepøinesou	naxâhand âvard
-nepøinesu	naxâham âvard
-nepøišel	nayâmad
-nepøišel jsem	nayâmadam
-nepøišel jsi	nayâmadi
-nepøišli	nayâmadand
-nepøišli jsme	nayâmadim
-nepøišli jste	nayâmadid
-nepøítel	došman
-neradostnı	badbaxt
-nerez ocel	pulâd e bizang
+nejsem dÄ›lÃ¡n	karde namiÅ¡avam
+nejsem dÄ›lÃ¡vÃ¡n	karde namiÅ¡odam
+nejsem udÄ›lÃ¡n	karde naÅ¡ode'am
+nejsi dÄ›lÃ¡n	karde namiÅ¡avi
+nejsi dÄ›lÃ¡vÃ¡n	karde namiÅ¡odi
+nejsi udÄ›lÃ¡n	karde naÅ¡ode'i
+nejsme dÄ›lÃ¡ni	karde namiÅ¡avim
+nejsme dÄ›lÃ¡vÃ¡ni	karde namiÅ¡odim
+nejsme udÄ›lÃ¡ni	karde naÅ¡ode'im
+nejsou dÄ›lÃ¡ni	karde namiÅ¡avand
+nejsou dÄ›lÃ¡vÃ¡ni	karde namiÅ¡odand
+nejsou udÄ›lÃ¡ni	karde naÅ¡ode'and
+nejste dÄ›lÃ¡ni	karde namiÅ¡avid
+nejste dÄ›lÃ¡vÃ¡ni	karde namiÅ¡odid
+nejste udÄ›lÃ¡ni	karde naÅ¡ode'id
+nejvÄ›tÅ¡Ã­	bozorgtarin
+nÄ›kde	yek jÃ¢yi
+nÄ›kdo	yek kasi
+neklidnÃ½	biÃ¢ram
+nÄ›kolik	cand
+nekoneÄnÃ½	bipÃ¢yÃ¢n
+nÄ›kterÃ½	pÃ¢reyi
+NÄ›mecko	Ã‚lmÃ¢n
+nÄ›meckÃ½	Ã¢lmÃ¢ni
+nemocnice	bimÃ¢restÃ¢n
+nemocnÃ½	bimÃ¢r
+nenapÃ¡jel jsem se	namiÃ¢Å¡Ã¢midam
+nenapÃ¡jel jsi se	namiÃ¢Å¡Ã¢midi
+nenapÃ¡jel se	namiÃ¢Å¡Ã¢mid
+nenapÃ¡jeli jsme se	namiÃ¢Å¡Ã¢midim
+nenapÃ¡jeli jste se	namiÃ¢Å¡Ã¢midid
+nenapÃ¡jeli se	namiÃ¢Å¡Ã¢midand
+nenÃ­ dÄ›lÃ¡n	karde namiÅ¡avad
+nenÃ­ dÄ›lÃ¡vÃ¡n	karde namiÅ¡od
+nenÃ­ udÄ›lÃ¡n	karde naÅ¡ode'ast
+nenÃ­ zaÄ	xÃ¢heÅ¡ mikonam
+nepije	namiÃ¢Å¡Ã¢mad
+nepijeme	namiÃ¢Å¡Ã¢mim
+nepijeÅ¡	namiÃ¢Å¡Ã¢mi
+nepijete	namiÃ¢Å¡Ã¢mid
+nepiji	namiÃ¢Å¡Ã¢mam
+nepijÃ­	namiÃ¢Å¡Ã¢mand
+nepil	nayÃ¢Å¡Ã¢mid
+nepil jsem	nayÃ¢Å¡Ã¢midam
+nepil jsi	nayÃ¢Å¡Ã¢midi
+nepili	nayÃ¢Å¡Ã¢midand
+nepili jsme	nayÃ¢Å¡Ã¢midim
+nepili jste	nayÃ¢Å¡Ã¢midid
+nepoÄÃ­tÃ¡	namiÅ¡omorad
+nepoÄÃ­tajÃ­	namiÅ¡omorand
+nepoÄÃ­tal	naÅ¡omord
+nepoÄÃ­tal jsem	naÅ¡omordam
+nepoÄÃ­tal jsi	naÅ¡omordi
+nepoÄÃ­tali	naÅ¡omordand
+nepoÄÃ­tali jsme	naÅ¡omordim
+nepoÄÃ­tali jste	naÅ¡omordid
+nepoÄÃ­tÃ¡m	namiÅ¡omoram
+nepoÄÃ­tÃ¡me	namiÅ¡omorim
+nepoÄÃ­tÃ¡Å¡	namiÅ¡omori
+nepoÄÃ­tÃ¡te	namiÅ¡omorid
+nepojÃ­dÃ¡	namixord
+nepojÃ­dal	namixord
+nepojÃ­dal jsem	namixordam
+nepojÃ­dal jsi	namixordi
+nepojÃ­dali	namixordand
+nepojÃ­dali jsme	namixordim
+nepojÃ­dali jste	namixordid
+nepojÃ­dÃ¡m	namixordam
+nepojÃ­dÃ¡me	namixordim
+nepojÃ­dÃ¡Å¡	namixordi
+nepÅ™ichÃ¡zejÃ­	namiÃ¢yand
+nepÅ™ichÃ¡zÃ­	namiÃ¢yad
+nepÅ™ichÃ¡zÃ­m	namiÃ¢yam
+nepÅ™ichÃ¡zÃ­me	namiÃ¢'im
+nepÅ™ichÃ¡zÃ­Å¡	namiÃ¢'i
+nepÅ™ichÃ¡zÃ­te	namiÃ¢'id
+nepÅ™ijde	naxÃ¢had Ã¢mad
+nepÅ™ijdeme	naxÃ¢him Ã¢mad
+nepÅ™ijdeÅ¡	naxÃ¢hi Ã¢mad
+nepÅ™ijdete	naxÃ¢hid Ã¢mad
+nepÅ™ijdou	naxÃ¢hand Ã¢mad
+nepÅ™ijdu	naxÃ¢ham Ã¢mad
+nepÅ™inÃ¡Å¡ejÃ­	namiÃ¢rand
+nepÅ™inÃ¡Å¡el	namiÃ¢vard
+nepÅ™inÃ¡Å¡el jsem	namiÃ¢vardam
+nepÅ™inÃ¡Å¡el jsi	namiÃ¢vardi
+nepÅ™inÃ¡Å¡eli	namiÃ¢vardand
+nepÅ™inÃ¡Å¡eli jsme	namiÃ¢vardim
+nepÅ™inÃ¡Å¡eli jste	namiÃ¢vardid
+nepÅ™inÃ¡Å¡Ã­	namiÃ¢rad
+nepÅ™inÃ¡Å¡Ã­m	namiÃ¢ram
+nepÅ™inÃ¡Å¡Ã­me	namiÃ¢rim
+nepÅ™inÃ¡Å¡Ã­Å¡	namiÃ¢ri
+nepÅ™inÃ¡Å¡Ã­te	namiÃ¢rid
+nepÅ™inese	naxÃ¢had Ã¢vard
+nepÅ™ineseme	naxÃ¢him Ã¢vard
+nepÅ™ineseÅ¡	naxÃ¢hi Ã¢vard
+nepÅ™inesete	naxÃ¢hid Ã¢vard
+nepÅ™inesl	nayÃ¢vard
+nepÅ™inesl jsem	nayÃ¢vardam
+nepÅ™inesl jsi	nayÃ¢vardi
+nepÅ™inesli	nayÃ¢vardand
+nepÅ™inesli jsme	nayÃ¢vardim
+nepÅ™inesli jste	nayÃ¢vardid
+nepÅ™inesou	naxÃ¢hand Ã¢vard
+nepÅ™inesu	naxÃ¢ham Ã¢vard
+nepÅ™iÅ¡el	nayÃ¢mad
+nepÅ™iÅ¡el jsem	nayÃ¢madam
+nepÅ™iÅ¡el jsi	nayÃ¢madi
+nepÅ™iÅ¡li	nayÃ¢madand
+nepÅ™iÅ¡li jsme	nayÃ¢madim
+nepÅ™iÅ¡li jste	nayÃ¢madid
+nepÅ™Ã­tel	doÅ¡man
+neradostnÃ½	badbaxt
+nerez ocel	pulÃ¢d e bizang
 nerv	pey, asab
-nervovı	asabi
-nesmírnì	biš az andâze
-nesnìdl	naxorde'ast
-nesnìdl jsem	naxorde'am
-nesnìdl jsi	naxorde'i
-nesnìdli	naxorde'and
-nesnìdli jsme	naxorde'im
-nesnìdli jste	naxorde'id
-nespal	naxâbid
-nespal jsem	naxâbidam
-nespal jsi	naxâbidi
-nespali	naxâbidand
-nespali jsme	naxâbidim
-nespali jste	naxâbidid
-nespával	namixâbid
-nespával jsem	namixâbidam
-nespával jsi	namixâbidi
-nespávali	namixâbidand
-nespávali jsme	namixâbidim
-nespávali jste	namixâbidid
-nespí	namixâbad
-nespí (pl.)	namixâband
-nespím	namixâbam
-nespíme	namixâbim
-nespíš	namixâbi
-nespíte	namixâbid
-neudìlal	nakarde'ast
-neudìlal jsem	nakarde'am
-neudìlal jsi	nakarde'i
-neudìlali	nakarde'and
-neudìlali jsme	nakarde'im
-neudìlali jste	nakarde'id
-neurèitı èlen (jeden	-i, -yi
-nevìdìl	nadânest
-nevìdìl jsem	nadânestam
-nevìdìl jsi	nadânesti
-nevìdìli	nadânestand
-nevìdìli jsme	nadânestim
-nevìdìli jste	nadânestid
-nevìdí	namidânand
-neví	namidânad
-nevidomı	nâbinâ
-nevím	namidânam
-nevíme	namidânim
-nevíš	namidâni
-nevíte	namidânid
-nevyjasnìnı	âlude
-nezavírá	namibandad
-nezavírají	namibandand
-nezavíral	namibast
-nezavíral jsem	namibastam
-nezavíral jsi	namibasti
-nezavírali	namibastand
-nezavírali jsme	namibastim
-nezavírali jste	namibastid
-nezavírám	namibandam
-nezavíráme	namibandim
-nezavíráš	namibandi
-nezavíráte	namibandid
-nezavøel	nabast
-nezavøel jsem	nabastam
-nezavøel jsi	nabasti
-nezavøeli	nabastand
-nezavøeli jsme	nabastim
-nezavøeli jste	nabastid
-nezbytnı	lâzem
-ne	az
-neit	kurak, domal
+nervovÃ½	asabi
+nesmÃ­rnÄ›	biÅ¡ az andÃ¢ze
+nesnÄ›dl	naxorde'ast
+nesnÄ›dl jsem	naxorde'am
+nesnÄ›dl jsi	naxorde'i
+nesnÄ›dli	naxorde'and
+nesnÄ›dli jsme	naxorde'im
+nesnÄ›dli jste	naxorde'id
+nespal	naxÃ¢bid
+nespal jsem	naxÃ¢bidam
+nespal jsi	naxÃ¢bidi
+nespali	naxÃ¢bidand
+nespali jsme	naxÃ¢bidim
+nespali jste	naxÃ¢bidid
+nespÃ¡val	namixÃ¢bid
+nespÃ¡val jsem	namixÃ¢bidam
+nespÃ¡val jsi	namixÃ¢bidi
+nespÃ¡vali	namixÃ¢bidand
+nespÃ¡vali jsme	namixÃ¢bidim
+nespÃ¡vali jste	namixÃ¢bidid
+nespÃ­	namixÃ¢bad
+nespÃ­ (pl.)	namixÃ¢band
+nespÃ­m	namixÃ¢bam
+nespÃ­me	namixÃ¢bim
+nespÃ­Å¡	namixÃ¢bi
+nespÃ­te	namixÃ¢bid
+neudÄ›lal	nakarde'ast
+neudÄ›lal jsem	nakarde'am
+neudÄ›lal jsi	nakarde'i
+neudÄ›lali	nakarde'and
+neudÄ›lali jsme	nakarde'im
+neudÄ›lali jste	nakarde'id
+neurÄitÃ½ Älen (jeden	-i, -yi
+nevÄ›dÄ›l	nadÃ¢nest
+nevÄ›dÄ›l jsem	nadÃ¢nestam
+nevÄ›dÄ›l jsi	nadÃ¢nesti
+nevÄ›dÄ›li	nadÃ¢nestand
+nevÄ›dÄ›li jsme	nadÃ¢nestim
+nevÄ›dÄ›li jste	nadÃ¢nestid
+nevÄ›dÃ­	namidÃ¢nand
+nevÃ­	namidÃ¢nad
+nevidomÃ½	nÃ¢binÃ¢
+nevÃ­m	namidÃ¢nam
+nevÃ­me	namidÃ¢nim
+nevÃ­Å¡	namidÃ¢ni
+nevÃ­te	namidÃ¢nid
+nevyjasnÄ›nÃ½	Ã¢lude
+nezavÃ­rÃ¡	namibandad
+nezavÃ­rajÃ­	namibandand
+nezavÃ­ral	namibast
+nezavÃ­ral jsem	namibastam
+nezavÃ­ral jsi	namibasti
+nezavÃ­rali	namibastand
+nezavÃ­rali jsme	namibastim
+nezavÃ­rali jste	namibastid
+nezavÃ­rÃ¡m	namibandam
+nezavÃ­rÃ¡me	namibandim
+nezavÃ­rÃ¡Å¡	namibandi
+nezavÃ­rÃ¡te	namibandid
+nezavÅ™el	nabast
+nezavÅ™el jsem	nabastam
+nezavÅ™el jsi	nabasti
+nezavÅ™eli	nabastand
+nezavÅ™eli jsme	nabastim
+nezavÅ™eli jste	nabastid
+nezbytnÃ½	lÃ¢zem
+neÅ¾	az
+neÅ¾it	kurak, domal
 nic	hic
-nicménì	bâ vojude in
+nicmÃ©nÄ›	bÃ¢ vojude in
 nikdy	hargez
 nit	nax
-níe	pâyine, zire
-noc	šab
-noha	pâ, sâq
-normální	âdi
-norskı	norvei
-nos	bini, damâq
-nosiè zavazadel	bârbar
+nÃ­Å¾e	pÃ¢yine, zire
+noc	Å¡ab
+noha	pÃ¢, sÃ¢q
+normÃ¡lnÃ­	Ã¢di
+norskÃ½	norveÅ¾i
+nos	bini, damÃ¢q
+nosiÄ zavazadel	bÃ¢rbar
 notes	daftarce
-nouzovı vıchod	pelle ye goriz
-novinovı stánek	ruznâmeforuši
-noviny	ruznâme
-novı	now, tâze
-Novı rok	Sâl e Now
+nouzovÃ½ vÃ½chod	pelle ye goriz
+novinovÃ½ stÃ¡nek	ruznÃ¢meforuÅ¡i
+noviny	ruznÃ¢me
+novÃ½	now, tÃ¢ze
+NovÃ½ rok	SÃ¢l e Now
 nula	sefr
-nutno	bâyad
-nutnı	lâzem
-nùky na nehty	qeyci ye nâxon
-nylon	nâylon
-nyní	hâlâ, aknun
-o	darbâre, gerdâgerd, râje'be, darbâreye
-ó!	hâ!
+nutno	bÃ¢yad
+nutnÃ½	lÃ¢zem
+nÅ¯Å¾ky na nehty	qeyci ye nÃ¢xon
+nylon	nÃ¢ylon
+nynÃ­	hÃ¢lÃ¢, aknun
+o	darbÃ¢re, gerdÃ¢gerd, rÃ¢je'be, darbÃ¢reye
+Ã³!	hÃ¢!
 oba	har do
 obalit	picidan
-obálka	pâkat
-obèan	šahrund
-obèanskı prùkaz	šenâsnâme
-obdìlávat	kešt kardan
-obdélník	mostatil
-období	âvâm
-obì	har do
-obìd	nâhâr, nahâr
-obì	qorbân
-obezøetnost	ehtiyât
-obchod	maqâze, forušgâh
-obilné pole	keštzâr e zorrat
-obinadlo	bând e zaxm
-objednat	sefâreš dâdan
-objednávat	sefâreš dâdan
-objevit	kâšef kardan
-objevitel	kâšef
-objíïka	enherâf
-oblek	kot o šalvâr (dast~)
-oblièej	cehre, surat
-oboèí	abru
-obojí	har do
-obrazárna	negârestân
-obrovskı	mâzandar
-obsadit	ešqâl kardan
-obtìovat	zahmat dâdan
-obtí	došvâri
-obvaz	bând e zaxm
+obÃ¡lka	pÃ¢kat
+obÄan	Å¡ahrund
+obÄanskÃ½ prÅ¯kaz	Å¡enÃ¢snÃ¢me
+obdÄ›lÃ¡vat	keÅ¡t kardan
+obdÃ©lnÃ­k	mostatil
+obdobÃ­	Ã¢vÃ¢m
+obÄ›	har do
+obÄ›d	nÃ¢hÃ¢r, nahÃ¢r
+obÄ›Å¥	qorbÃ¢n
+obezÅ™etnost	ehtiyÃ¢t
+obchod	maqÃ¢ze, foruÅ¡gÃ¢h
+obilnÃ© pole	keÅ¡tzÃ¢r e zorrat
+obinadlo	bÃ¢nd e zaxm
+objednat	sefÃ¢reÅ¡ dÃ¢dan
+objednÃ¡vat	sefÃ¢reÅ¡ dÃ¢dan
+objevit	kÃ¢Å¡ef kardan
+objevitel	kÃ¢Å¡ef
+objÃ­Å¾Äka	enherÃ¢f
+oblek	kot o Å¡alvÃ¢r (dast~)
+obliÄej	cehre, surat
+oboÄÃ­	abru
+obojÃ­	har do
+obrazÃ¡rna	negÃ¢restÃ¢n
+obrovskÃ½	mÃ¢zandar
+obsadit	eÅ¡qÃ¢l kardan
+obtÄ›Å¾ovat	zahmat dÃ¢dan
+obtÃ­Å¾	doÅ¡vÃ¢ri
+obvaz	bÃ¢nd e zaxm
 ocet	serke
-oèní kapky	qatre ye cešm
-oèní linky	xatt e cešm
-oèní stíny	sâye ye cešm
-od	az, xâmuš, kenâr, durtar, jodâ
-od té doby‚ co	az hangâmi ke
+oÄnÃ­ kapky	qatre ye ceÅ¡m
+oÄnÃ­ linky	xatt e ceÅ¡m
+oÄnÃ­ stÃ­ny	sÃ¢ye ye ceÅ¡m
+od	az, xÃ¢muÅ¡, kenÃ¢r, durtar, jodÃ¢
+od tÃ© dobyâ€š co	az hangÃ¢mi ke
 odcizit	dozdidan
 odjezd	harakat
 odkazovat	vaqf kardan
-odlakovaè	lâkpâkkon
+odlakovaÄ	lÃ¢kpÃ¢kkon
 odpoledne	pas az nimruz, ba'd az zohr
-odpovìï	pâsox
-odpovìdìl	pâsox dâd
-odpovìdìl jsem	pâsox dâdam
-odpovìdìl jsi	pâsox dâdi
-odpovìdìli	pâsox dâdand
-odpovìdìli jsme	pâsox dâdim
-odpovìdìli jste	pâsox dâdid
-odpovìdìt	pâsox dâdan
-odpovìdí	pâsox xâhand dâd
-odpovìz	pâsox bede
-odpoví	pâsox xâhad dâd
-odpovídá	javâb midahad
-odpovídají	javâb midahand
-odpovídal	javâb dâd
-odpovídal jsem	javâb dâdam
-odpovídal jsi	javâb dâdi
-odpovídali	javâb dâdand
-odpovídali jsme	javâb dâdim
-odpovídali jste	javâb dâdid
-odpovídám	javâb midaham
-odpovídáme	javâb midahim
-odpovídáš	javâb midahi
-odpovídat	javâb dâdan
-odpovídáte	javâb midahid
-odpovídej	javâb bede
-odpovím	pâsox xâham dâd
-odpovíme	pâsox xâhim dâd
-odpovíš	pâsox xâhi dâd
-odpovíte	pâsox xâhid dâd
-odstín	rang e raqiq
-oheò	âtaš
-ohnivı	âtašin
+odpovÄ›Ä	pÃ¢sox
+odpovÄ›dÄ›l	pÃ¢sox dÃ¢d
+odpovÄ›dÄ›l jsem	pÃ¢sox dÃ¢dam
+odpovÄ›dÄ›l jsi	pÃ¢sox dÃ¢di
+odpovÄ›dÄ›li	pÃ¢sox dÃ¢dand
+odpovÄ›dÄ›li jsme	pÃ¢sox dÃ¢dim
+odpovÄ›dÄ›li jste	pÃ¢sox dÃ¢did
+odpovÄ›dÄ›t	pÃ¢sox dÃ¢dan
+odpovÄ›dÃ­	pÃ¢sox xÃ¢hand dÃ¢d
+odpovÄ›z	pÃ¢sox bede
+odpovÃ­	pÃ¢sox xÃ¢had dÃ¢d
+odpovÃ­dÃ¡	javÃ¢b midahad
+odpovÃ­dajÃ­	javÃ¢b midahand
+odpovÃ­dal	javÃ¢b dÃ¢d
+odpovÃ­dal jsem	javÃ¢b dÃ¢dam
+odpovÃ­dal jsi	javÃ¢b dÃ¢di
+odpovÃ­dali	javÃ¢b dÃ¢dand
+odpovÃ­dali jsme	javÃ¢b dÃ¢dim
+odpovÃ­dali jste	javÃ¢b dÃ¢did
+odpovÃ­dÃ¡m	javÃ¢b midaham
+odpovÃ­dÃ¡me	javÃ¢b midahim
+odpovÃ­dÃ¡Å¡	javÃ¢b midahi
+odpovÃ­dat	javÃ¢b dÃ¢dan
+odpovÃ­dÃ¡te	javÃ¢b midahid
+odpovÃ­dej	javÃ¢b bede
+odpovÃ­m	pÃ¢sox xÃ¢ham dÃ¢d
+odpovÃ­me	pÃ¢sox xÃ¢him dÃ¢d
+odpovÃ­Å¡	pÃ¢sox xÃ¢hi dÃ¢d
+odpovÃ­te	pÃ¢sox xÃ¢hid dÃ¢d
+odstÃ­n	rang e raqiq
+oheÅˆ	Ã¢taÅ¡
+ohnivÃ½	Ã¢taÅ¡in
 okno	panjare, panjere
-oko	cešm
-okolo	atrâf, gerdâgerd, pirâmun
-okoun	mâhi ye xârdâr
-okrouhlı	gerd
-okurka	xiyâr
-okurka (malá	xiyâr e šur
+oko	ceÅ¡m
+okolo	atrÃ¢f, gerdÃ¢gerd, pirÃ¢mun
+okoun	mÃ¢hi ye xÃ¢rdÃ¢r
+okrouhlÃ½	gerd
+okurka	xiyÃ¢r
+okurka (malÃ¡	xiyÃ¢r e Å¡ur
 olej	rowqan
-olejovı	rowqani
+olejovÃ½	rowqani
 oliva	zeytun
-olivovı olej	rowqan e zeytun
-omáèka	sos
+olivovÃ½ olej	rowqan e zeytun
+omÃ¡Äka	sos
 omastek	corbi
 omastit	corb kardan
-omdlení	qaš
-omdlévat	qaš nemudan
+omdlenÃ­	qaÅ¡
+omdlÃ©vat	qaÅ¡ nemudan
 omeleta	omlet
-omluva	puzeš
-omyl	ârang
+omluva	puzeÅ¡
+omyl	Ã¢rang
 on	vey, u
 ona	u
-ona (pl.)	ânhâ
-oni	išân, ânhâ, ânân
-oni (pro osoby)	išân
-ono	ân
-onomu	beân
-ony	ânhâ
-onyx	aqiq e soleymâni
-opálení	âftâbsuxtegi, âftâbsuxtagi
-opalovací krém / mléko	kerem e âftâb
-opatrnost	ehtiyât
-operátor	telefonci
-opìt	dobâre
+ona (pl.)	Ã¢nhÃ¢
+oni	iÅ¡Ã¢n, Ã¢nhÃ¢, Ã¢nÃ¢n
+oni (pro osoby)	iÅ¡Ã¢n
+ono	Ã¢n
+onomu	beÃ¢n
+ony	Ã¢nhÃ¢
+onyx	aqiq e soleymÃ¢ni
+opÃ¡lenÃ­	Ã¢ftÃ¢bsuxtegi, Ã¢ftÃ¢bsuxtagi
+opalovacÃ­ krÃ©m / mlÃ©ko	kerem e Ã¢ftÃ¢b
+opatrnost	ehtiyÃ¢t
+operÃ¡tor	telefonci
+opÄ›t	dobÃ¢re
 opice	meymun, buzine
 oprava	tamir
-opravna (dílna)	tamirgâh
-oranová	nâranji
-orat	kešt kardan
-ornitologie	parandešenâsi
+opravna (dÃ­lna)	tamirgÃ¢h
+oranÅ¾ovÃ¡	nÃ¢ranji
+orat	keÅ¡t kardan
+ornitologie	parandeÅ¡enÃ¢si
 osa	mehvar
-oslnivá krása	afsungari
-osm	hašt
-osm set	haštsad
-osmdesát	haštâd
-osmina	haštom
-osmnáct	hejdah
-osmı	haštom
-osoba	šaxs, fard
-osobitı	fardi, šaxsi
-osobní	šaxsi, fardi
-osobní sluha	pišxedmat
-osoby	ašxâs
-ostruina	šâhtut
-ostrı	tond, tiz
-ostuda	šarm
-osvìdèení	govâhinâme
+oslnivÃ¡ krÃ¡sa	afsungari
+osm	haÅ¡t
+osm set	haÅ¡tsad
+osmdesÃ¡t	haÅ¡tÃ¢d
+osmina	haÅ¡tom
+osmnÃ¡ct	hejdah
+osmÃ½	haÅ¡tom
+osoba	Å¡axs, fard
+osobitÃ½	fardi, Å¡axsi
+osobnÃ­	Å¡axsi, fardi
+osobnÃ­ sluha	piÅ¡xedmat
+osoby	aÅ¡xÃ¢s
+ostruÅ¾ina	Å¡Ã¢htut
+ostrÃ½	tond, tiz
+ostuda	Å¡arm
+osvÄ›dÄenÃ­	govÃ¢hinÃ¢me
 otec	pedar
-otékat	âmâs kardan
-otevøenı	bâz
-otok	âmâs
-otrava	masmumiyat e qazâyi
-ovád	xarmages
-ovál	beyzi
+otÃ©kat	Ã¢mÃ¢s kardan
+otevÅ™enÃ½	bÃ¢z
+otok	Ã¢mÃ¢s
+otrava	masmumiyat e qazÃ¢yi
+ovÃ¡d	xarmages
+ovÃ¡l	beyzi
 ovce	gusfand
-ovládat	balad budan
+ovlÃ¡dat	balad budan
 ovoce	mive
-ozbrojenı	mosallah, zinâvand
-oznámení	tavajjoh
-ozvuèení	ostovâr
-padat	oftâdan
-padesát	panjâh
-palác	kâx
-palec	šast
+ozbrojenÃ½	mosallah, zinÃ¢vand
+oznÃ¡menÃ­	tavajjoh
+ozvuÄenÃ­	ostovÃ¢r
+padat	oftÃ¢dan
+padesÃ¡t	panjÃ¢h
+palÃ¡c	kÃ¢x
+palec	Å¡ast
 Palestina	Felestin, Palestin
 palivo	suxt
-pamì	yâd
-pan	âqâ
-Pán	Xodâvand
-pán	farmânravâ, šahryâr
-pánev	tâbe
-paní	xânom
-páni	âqâyân
-pánové	âqâyân
-Panovník	Xodâvand
-pantofel	dampâyi
-pantofle	joft dampâyi
-papír	kâqaz
-papírnictví	neveštafzârforuši
-papírovı ubrousek	dastmâl e kâqazi
-papoušek	tuti
+pamÄ›Å¥	yÃ¢d
+pan	Ã¢qÃ¢
+PÃ¡n	XodÃ¢vand
+pÃ¡n	farmÃ¢nravÃ¢, Å¡ahryÃ¢r
+pÃ¡nev	tÃ¢be
+panÃ­	xÃ¢nom
+pÃ¡ni	Ã¢qÃ¢yÃ¢n
+pÃ¡novÃ©	Ã¢qÃ¢yÃ¢n
+PanovnÃ­k	XodÃ¢vand
+pantofel	dampÃ¢yi
+pantofle	joft dampÃ¢yi
+papÃ­r	kÃ¢qaz
+papÃ­rnictvÃ­	neveÅ¡tafzÃ¢rforuÅ¡i
+papÃ­rovÃ½ ubrousek	dastmÃ¢l e kÃ¢qazi
+papouÅ¡ek	tuti
 paprsek	partow
-pár	joft
-párek v rohlíku (housce)	hâtdâg
-parfém	atr
-park	pârk
-parkovat	pârk kardan
-parkovištì	pârking
-parník	kašti
-pasaér	mosâfer
-pásek	kamarband
-pásek (hod.)	band e sâat
-past	dâm
-pastelka	qalam, qalam e naqqâši
-pastilky proti kašli	qors e sorfe
-pastıø	šabân
-paštika	pâte
-pata	pâšne
-pátek	âdine, jom'e
-páteø	sotun e faqarât
-patnáct	pânzdah
+pÃ¡r	joft
+pÃ¡rek v rohlÃ­ku (housce)	hÃ¢tdÃ¢g
+parfÃ©m	atr
+park	pÃ¢rk
+parkovat	pÃ¢rk kardan
+parkoviÅ¡tÄ›	pÃ¢rking
+parnÃ­k	kaÅ¡ti
+pasaÅ¾Ã©r	mosÃ¢fer
+pÃ¡sek	kamarband
+pÃ¡sek (hod.)	band e sÃ¢at
+past	dÃ¢m
+pastelka	qalam, qalam e naqqÃ¢Å¡i
+pastilky proti kaÅ¡li	qors e sorfe
+pastÃ½Å™	Å¡abÃ¢n
+paÅ¡tika	pÃ¢te
+pata	pÃ¢Å¡ne
+pÃ¡tek	Ã¢dine, jom'e
+pÃ¡teÅ™	sotun e faqarÃ¢t
+patnÃ¡ct	pÃ¢nzdah
 patro	tabaqe
-pátı	panjom
-pae	bâzu
-pedâl (u bicyklu)	rekâb
-pedál plynu	pedâl e gâz
-pekárna	nânvâyi
-pekaøství	nânvâyi
-pelerína	šenel
-pepø	felfel
-pepøit	felfel zadan
-perla	morvârid, marvârid
-pero	xodkâr, xodnevis, par
-pérování	fanar
-perskı	fârsi
+pÃ¡tÃ½	panjom
+paÅ¾e	bÃ¢zu
+pedÃ¢l (u bicyklu)	rekÃ¢b
+pedÃ¡l plynu	pedÃ¢l e gÃ¢z
+pekÃ¡rna	nÃ¢nvÃ¢yi
+pekaÅ™stvÃ­	nÃ¢nvÃ¢yi
+pelerÃ­na	Å¡enel
+pepÅ™	felfel
+pepÅ™it	felfel zadan
+perla	morvÃ¢rid, marvÃ¢rid
+pero	xodkÃ¢r, xodnevis, par
+pÃ©rovÃ¡nÃ­	fanar
+perskÃ½	fÃ¢rsi
 pes	sag
-pìšky	piyâde
-pìt	panj
-pìt set	pânsad
-pìtina	panjom
-pevnost	de
-pije	miâšâmad
-pijeme	miâšâmim
-piješ	miâšâmi
-pijete	miâšâmid
-piji	miâšâmam
-pijí	miâšâmand
-pil	âšâmid
-pil jsem	âšâmidam
-pil jsi	âšâmidi
-pili	âšâmidand
-pili jsme	âšâmidim
-pili jste	âšâmidid
+pÄ›Å¡ky	piyÃ¢de
+pÄ›t	panj
+pÄ›t set	pÃ¢nsad
+pÄ›tina	panjom
+pevnost	deÅ¾
+pije	miÃ¢Å¡Ã¢mad
+pijeme	miÃ¢Å¡Ã¢mim
+pijeÅ¡	miÃ¢Å¡Ã¢mi
+pijete	miÃ¢Å¡Ã¢mid
+piji	miÃ¢Å¡Ã¢mam
+pijÃ­	miÃ¢Å¡Ã¢mand
+pil	Ã¢Å¡Ã¢mid
+pil jsem	Ã¢Å¡Ã¢midam
+pil jsi	Ã¢Å¡Ã¢midi
+pili	Ã¢Å¡Ã¢midand
+pili jsme	Ã¢Å¡Ã¢midim
+pili jste	Ã¢Å¡Ã¢midid
 pilka	arre
-pilníèek na nehty	sombâde ye nâxon
+pilnÃ­Äek na nehty	sombÃ¢de ye nÃ¢xon
 pinzeta	mucin
-písmeno	harf
-písmo	xatt
-píst	piston
-pít	âšâmidan
-pití	nušidani
-pitná voda	âb e âšâmidani
-pivo	âbjo, âb e jow
-pizza [pica]	pitzâ
-pláè	gerye
-plachetnice	qâyeq e bâdi
-plachta	bâdbân
-plán	naqše
-plán mìsta	naqše ye šahr
-plantá	keštzâr
-plastická guma	keš
-pláštìnka	bârâni
-platina	plâtin
-plátno	pârce ye katâni, panbeyi
-platıs	mâhi ye pahn
-plavá	zard e kamrang
-plavat	šenâ kardan
-plavky	lâs e šenâ, mâyo
-plá	sâhel
+pÃ­smeno	harf
+pÃ­smo	xatt
+pÃ­st	piston
+pÃ­t	Ã¢Å¡Ã¢midan
+pitÃ­	nuÅ¡idani
+pitnÃ¡ voda	Ã¢b e Ã¢Å¡Ã¢midani
+pivo	Ã¢bjo, Ã¢b e jow
+pizza [pica]	pitzÃ¢
+plÃ¡Ä	gerye
+plachetnice	qÃ¢yeq e bÃ¢di
+plachta	bÃ¢dbÃ¢n
+plÃ¡n	naqÅ¡e
+plÃ¡n mÄ›sta	naqÅ¡e ye Å¡ahr
+plantÃ¡Å¾	keÅ¡tzÃ¢r
+plastickÃ¡ guma	keÅ¡
+plÃ¡Å¡tÄ›nka	bÃ¢rÃ¢ni
+platina	plÃ¢tin
+plÃ¡tno	pÃ¢rce ye katÃ¢ni, panbeyi
+platÃ½s	mÃ¢hi ye pahn
+plavÃ¡	zard e kamrang
+plavat	Å¡enÃ¢ kardan
+plavky	lÃ¢s e Å¡enÃ¢, mÃ¢yo
+plÃ¡Å¾	sÃ¢hel
 plechovka	quti
-plemeno	neâd
+plemeno	neÅ¾Ã¢d
 plenka	kohne ye bacce
-plenky	dastmâl e bacce
-plíce	šoš
-plnı	por, anbâšte, labriz
+plenky	dastmÃ¢l e bacce
+plÃ­ce	Å¡oÅ¡
+plnÃ½	por, anbÃ¢Å¡te, labriz
 plod	mive
 plot	parcin
-pls	namad
+plsÅ¥	namad
 pluk	hang
-plyn	gâz
+plyn	gÃ¢z
 po	pas
-po (lokál)	ba'adâz
-po (podél)	hamrâh, jelow, piš
+po (lokÃ¡l)	ba'adÃ¢z
+po (podÃ©l)	hamrÃ¢h, jelow, piÅ¡
 po (potom)	pas az, dar jostojuye, dar peye
-pobøeí	sâhel, kenâr e daryâ
-poèátek	ebtedâ
-poèítá	mišomorad
-poèítají	mišomorand
-poèítal	šomord
-poèítal jsem	šomordam
-poèítal jsi	šomordi
-poèítali	šomordand
-poèítali jsme	šomordim
-poèítali jste	šomordid
-poèítám	mišomoram
-poèítáme	mišomorim
-poèítáš	mišomori
-poèítat	šomordan
-poèítáte	mišomorid
-poèkej	sabr kon
-pod	zir, pâyin, pâyine, pâeyn, zire
-podivnı	šegeft
-podkladovı krém	kerem e zir
-podnik	šerkat
-podoba	šekl
-podpis	emzâ
-podšívka	âstar
-poduška	nâzbâleš
-podzim	pâyiz
-pohár	fenjân
-pohlednice	kârtpostâl
-pohranièí	marzi
-pohroma	âfat
-pochybnost	šak
-pochybovat	šak kardan
-pojídal	mixord
-pojídal jsem	mixordam
-pojídal jsi	mixordi
-pojídali	mixordand
-pojídali jsme	mixordim
-pojídali jste	mixordid
+pobÅ™eÅ¾Ã­	sÃ¢hel, kenÃ¢r e daryÃ¢
+poÄÃ¡tek	ebtedÃ¢
+poÄÃ­tÃ¡	miÅ¡omorad
+poÄÃ­tajÃ­	miÅ¡omorand
+poÄÃ­tal	Å¡omord
+poÄÃ­tal jsem	Å¡omordam
+poÄÃ­tal jsi	Å¡omordi
+poÄÃ­tali	Å¡omordand
+poÄÃ­tali jsme	Å¡omordim
+poÄÃ­tali jste	Å¡omordid
+poÄÃ­tÃ¡m	miÅ¡omoram
+poÄÃ­tÃ¡me	miÅ¡omorim
+poÄÃ­tÃ¡Å¡	miÅ¡omori
+poÄÃ­tat	Å¡omordan
+poÄÃ­tÃ¡te	miÅ¡omorid
+poÄkej	sabr kon
+pod	zir, pÃ¢yin, pÃ¢yine, pÃ¢eyn, zire
+podivnÃ½	Å¡egeft
+podkladovÃ½ krÃ©m	kerem e zir
+podnik	Å¡erkat
+podoba	Å¡ekl
+podpis	emzÃ¢
+podÅ¡Ã­vka	Ã¢star
+poduÅ¡ka	nÃ¢zbÃ¢leÅ¡
+podzim	pÃ¢yiz
+pohÃ¡r	fenjÃ¢n
+pohlednice	kÃ¢rtpostÃ¢l
+pohraniÄÃ­	marzi
+pohroma	Ã¢fat
+pochybnost	Å¡ak
+pochybovat	Å¡ak kardan
+pojÃ­dal	mixord
+pojÃ­dal jsem	mixordam
+pojÃ­dal jsi	mixordi
+pojÃ­dali	mixordand
+pojÃ­dali jsme	mixordim
+pojÃ­dali jste	mixordid
 poker [pokr]	poker
-poklad	ganj, ganjine, xazâne
-poklid	ârâmeš, âsudegi
-pokoj	otâq, ârâmeš, âšti, âsâni
-pokojská	xedmatkâr
-pokrm	qazâ, xorâk
-pokroèilı	piš oftâde, piš rafte
-pokušení	âzmâyeš, varan, farib, havas
-pole	keštzâr
+poklad	ganj, ganjine, xazÃ¢ne
+poklid	Ã¢rÃ¢meÅ¡, Ã¢sudegi
+pokoj	otÃ¢q, Ã¢rÃ¢meÅ¡, Ã¢Å¡ti, Ã¢sÃ¢ni
+pokojskÃ¡	xedmatkÃ¢r
+pokrm	qazÃ¢, xorÃ¢k
+pokroÄilÃ½	piÅ¡ oftÃ¢de, piÅ¡ rafte
+pokuÅ¡enÃ­	Ã¢zmÃ¢yeÅ¡, varan, farib, havas
+pole	keÅ¡tzÃ¢r
 poledne	nimruz, rabih
-polévka	šurbâ, âš, âbgušt
+polÃ©vka	Å¡urbÃ¢, Ã¢Å¡, Ã¢bguÅ¡t
 police	qafase
-policejní stanice	pâsgâh e polis
+policejnÃ­ stanice	pÃ¢sgÃ¢h e polis
 policie	polis
-policista	pâsbân
-polièka	qafase
-poliklinika	darmângâh
-politická strana	hezb
-polovièní	nime
+policista	pÃ¢sbÃ¢n
+poliÄka	qafase
+poliklinika	darmÃ¢ngÃ¢h
+politickÃ¡ strana	hezb
+poloviÄnÃ­	nime
 polovina	nim
-polštáø	bâleš
-pomáhat	komak kardan
-pomalu	yavâš, âheste
-pomalı	âheste, yavâš
-pomeranè	nâranj, portaqâl
-pomeranèová šáva	kadu ye halvâyi
-pomezí	vimand
-pomlít	kubidan
-pomoc	yâri, komak
-pondìlí	došanbe
-ponìvad	conke
-poníení (adj.)	mostaz'afin
-ponoka	jurâb
-ponoky	joft jurâb
-popelník	jâsigâri
+polÅ¡tÃ¡Å™	bÃ¢leÅ¡
+pomÃ¡hat	komak kardan
+pomalu	yavÃ¢Å¡, Ã¢heste
+pomalÃ½	Ã¢heste, yavÃ¢Å¡
+pomeranÄ	nÃ¢ranj, portaqÃ¢l
+pomeranÄovÃ¡ Å¡Å¥Ã¡va	kadu ye halvÃ¢yi
+pomezÃ­	vimand
+pomlÃ­t	kubidan
+pomoc	yÃ¢ri, komak
+pondÄ›lÃ­	doÅ¡anbe
+ponÄ›vadÅ¾	conke
+ponÃ­Å¾enÃ­ (adj.)	mostaz'afin
+ponoÅ¾ka	jurÃ¢b
+ponoÅ¾ky	joft jurÃ¢b
+popelnÃ­k	jÃ¢sigÃ¢ri
 poplatek	hazine
-populární hudba	musiqi ye pâp
-pór	tare (ye farangi)
-porazit	rišekan kardan, darham šekastan
-pórek	tare (ye farangi)
-porodnice	zâyešgâh
+populÃ¡rnÃ­ hudba	musiqi ye pÃ¢p
+pÃ³r	tare (ye farangi)
+porazit	riÅ¡ekan kardan, darham Å¡ekastan
+pÃ³rek	tare (ye farangi)
+porodnice	zÃ¢yeÅ¡gÃ¢h
 posel	peyk
-poschodí	tabaqe
-posílat	ferestâdan
-poslechnout	guš dâdan
-poslíèek	šâgerd, pâdow
-poslouchat	guš kardan
-postel	taxtexâb, raxtexâb
+poschodÃ­	tabaqe
+posÃ­lat	ferestÃ¢dan
+poslechnout	guÅ¡ dÃ¢dan
+poslÃ­Äek	Å¡Ã¢gerd, pÃ¢dow
+poslouchat	guÅ¡ kardan
+postel	taxtexÃ¢b, raxtexÃ¢b
 postihnout	asar kardan
-poškodit	ziyân zadan
-pošli	beferest
-pošta	edâre ye post, postxâne
-poštovní úøad	edâre ye post
-poštovní vùz	vâgon e bâri
-potìšitelnı	xoš
-potí	došvâri
-potkan	xarmuš
-potlaèit	forunešândan, sarkubi kardan
-potok	juy, juybâr
+poÅ¡kodit	ziyÃ¢n zadan
+poÅ¡li	beferest
+poÅ¡ta	edÃ¢re ye post, postxÃ¢ne
+poÅ¡tovnÃ­ ÃºÅ™ad	edÃ¢re ye post
+poÅ¡tovnÃ­ vÅ¯z	vÃ¢gon e bÃ¢ri
+potÄ›Å¡itelnÃ½	xoÅ¡
+potÃ­Å¾	doÅ¡vÃ¢ri
+potkan	xarmuÅ¡
+potlaÄit	foruneÅ¡Ã¢ndan, sarkubi kardan
+potok	juy, juybÃ¢r
 potom	pas, sepas
-potrava	qazâ
-potrubí	lule
-potøebnı	lâzem
-pouš	sahrâ
+potrava	qazÃ¢
+potrubÃ­	lule
+potÅ™ebnÃ½	lÃ¢zem
+pouÅ¡Å¥	sahrÃ¢
 pouto	band
-pouze	tanhâ, yegâne
-pouité zboí	dast e dovom
-povaha	maneš
-povìdìt	goftan
-povídat	goftogu kardan
-povídka	afsâne
-pozdìji	pas, sepas
-pozítøí	pasfardâ
-poznání	âšnâyi
-poehnání	barekat
-poehnanı	xojaste, farxonde, kâmravâ
-poehnat	barekat dâdan
-prababièka	mâdar-mâdarbozorg
-práce	zist, kâr
-pracovat	kâr kardan
-pracovní	zist
-pracovní den	ruz e kâr
-pradìdeèek	pedar-pedarbozorg
-prádelna	raxtšuyxâne
-pramen	cešme
-prášek na spaní	qors e xâbâvar
-pravda	dorosti, râsti
+pouze	tanhÃ¢, yegÃ¢ne
+pouÅ¾itÃ© zboÅ¾Ã­	dast e dovom
+povaha	maneÅ¡
+povÄ›dÄ›t	goftan
+povÃ­dat	goftogu kardan
+povÃ­dka	afsÃ¢ne
+pozdÄ›ji	pas, sepas
+pozÃ­tÅ™Ã­	pasfardÃ¢
+poznÃ¡nÃ­	Ã¢Å¡nÃ¢yi
+poÅ¾ehnÃ¡nÃ­	barekat
+poÅ¾ehnanÃ½	xojaste, farxonde, kÃ¢mravÃ¢
+poÅ¾ehnat	barekat dÃ¢dan
+prababiÄka	mÃ¢dar-mÃ¢darbozorg
+prÃ¡ce	zist, kÃ¢r
+pracovat	kÃ¢r kardan
+pracovnÃ­	zist
+pracovnÃ­ den	ruz e kÃ¢r
+pradÄ›deÄek	pedar-pedarbozorg
+prÃ¡delna	raxtÅ¡uyxÃ¢ne
+pramen	ceÅ¡me
+prÃ¡Å¡ek na spanÃ­	qors e xÃ¢bÃ¢var
+pravda	dorosti, rÃ¢sti
 pravit	goftan
-právo	haqq
-pravı	râst
-prázdnı	xâli
-preferovat	tarjih dâdan
-prchající	gorizande, âvâre, sargardân
-princ	šâhzâde
-pro	barâye, barâye inke, darpey
-pro(toe)	con
-proè	cerâ
+prÃ¡vo	haqq
+pravÃ½	rÃ¢st
+prÃ¡zdnÃ½	xÃ¢li
+preferovat	tarjih dÃ¢dan
+prchajÃ­cÃ­	gorizande, Ã¢vÃ¢re, sargardÃ¢n
+princ	Å¡Ã¢hzÃ¢de
+pro	barÃ¢ye, barÃ¢ye inke, darpey
+pro(toÅ¾e)	con
+proÄ	cerÃ¢
 prodat	foruxtan
-prodavaèka	forušande
-prodávat	foruxtan
-prodej	foruš
-prodejna	maqâze, forušgâh
-prodejna potravin	baqqâl
+prodavaÄka	foruÅ¡ande
+prodÃ¡vat	foruxtan
+prodej	foruÅ¡
+prodejna	maqÃ¢ze, foruÅ¡gÃ¢h
+prodejna potravin	baqqÃ¢l
 profese	herfe
-program	barnâme
-programovat	barnâme neveštan
-prohibice	bâzdâri
-projímadlo	moshel
-prominout	baxšidan, baxšudan, âmorzidan
-promiòte	puzeš mixâham, bebaxšid
-pronajmout	ejâre kardan
-prorok	payâmbar
-prosím	lotfan, xâheš mikonam
-prosinec	desâmbr
-prosit	xâheš nemudan
-proslulı	mašhur
-prostı	sâde
-protìjší	ruberu
-proti	darbarâbar, zedde, padyâr
-protoe	conke, zirâ
-prozatím	hanuz
-prsa	pestân, sine
-prst	angošt
-prst u nohy	angošt e pâ
-prsten	halqe, angoštar
-pršet	bârân âmadan
-prudkı	tond
-prùhlednı	šaffâf
-prùjem	eshâl
-prùjezd	gozar
-prùkaz	govâhinâme
-prùklepovı papír	meqdâr kârbon
-prùliv	kânâl
-prùplav	âbrâh
-prùsvitnı	šaffâf
-pruení	fanar
-pruina	fanar
-první	naxost, avval
-První jarní den	Nowruz
-první tøída	daraje ye yek
-pryè	dur, jodâ, kenâr, xâmuš, durtar
-pøát	ârezu kardan
-pøátelství	dusti
-pøebrat	radif kardan
-pøed	piš az, piš
-pøed (s akuzativem)	jelow
-pøedbìná opatøení	moqaddamât
-pøedèasnì	nâbehangâm
-pøedèasnı	nâbehangâm
-pøedem	piš az
-pøedkládat	taqdim dâštan
-pøedkrm	pišpâre, pišqazâ
-pøedmluva	dibâce
-pøedpis	âyinnâme
-pøedpovìï	pišbini
-pøedprodej	pišforuš
-pøedstavitel	namâyande
-pøedškolní	pišdabestâni
-pøedváleènı	piš az jang
-pøedvést	nešân dâdan
-pøedvídat	pišbini kardan
-pøeháòka	ragbâr
-pøehoz	šenel
-pøeklad	tarjome
-pøekládat	tarjome kardan
-pøeloit	tarjome kardan
-pøemáhat	cire šodan
-pøemoci	piruz šodan
-pøemıšlet	fekr kardan
-pøepis	pacin
-pøeplnìnı	labriz
-pøepoèítávat	dobâre šomordan
-pøes	sartâsar, azmiyân, abar, ruyi
-pøesto	harcand
-pøestoe	agarce
-pøesvìdèení	imân
-pøevodovka	ja'be dande
-pøezka	sagak e kamarband
-pøezkoušet	âzmâyeš kardan
-pøezout se	kafš dar âvardan
-pøezouvat se	dar âvardan kafš
-pøezùvky	gâleš
-pøi	bedaste, nazdik, darpahluye, dar kenâr, dame
-pøibíjet	mix kardan
-pøibít	kubidan
-pøiblíit	nazdik šodan
-pøiblinì	nazdik be
-pøíèka	narde
-pøídavné jméno	sefat
-pøihrávat	ferestâdan, pâs dâdan
-pøihrávka	pâs
-pøicházejí	miâyand
-pøicházel	miâmad
-pøicházel jsem	miâmadam
-pøicházel jsi	miâmadi
-pøicházeli	miâmadand
-pøicházeli jsme	miâmadim
-pøicházeli jste	miâmadid
-pøicházet	âmadan
-pøichází	miâyad
-pøicházím	miâyam
-pøicházíme	miâyim
-pøicházíš	miâyi
-pøicházíte	miâyid
-pøíchod	vorud
-pøijatı uchazeè	gomârde
-pøijde	xâhad âmad
-pøijdeme	xâhim âmad
-pøijdeš	xâhi âmad
-pøijdete	xâhid âmad
-pøijdou	xâhand âmad
-pøijdu	xâham âmad
-pøíjemnı	xoš
-pøíjezd	vorud
-pøijít	âmadan
-pøíkrm	pišqazâ
-pøímka	xatt e râst
-pøímı	mostaqim
-pøinášejí	miârand
-pøinášel	miâvard
-pøinášel jsem	miâvardam
-pøinášel jsi	miâvardi
-pøinášeli	miâvardand
-pøinášeli jsme	miâvardim
-pøinášeli jste	miâvardid
-pøinášet	âvardan
-pøináší	miârad
-pøináším	miâram
-pøinášíme	miârim
-pøinášíš	miâri
-pøinášíte	miârid
-pøinese	xâhad âvard
-pøineseme	xâhim âvard
-pøineseš	xâhi âvard
-pøinesete	xâhid âvard
-pøinesl	âvard
-pøinesl jsem	âvardam
-pøinesl jsi	âvardi
-pøinesli	âvardand
-pøinesli jsme	âvardim
-pøinesli jste	âvardid
-pøinesou	xâhand âvard
-pøinést	âvardan
-pøinesu	xâham âvard
-pøíplatek za první tøídu	ezâfe-qeymat e daraje ye yek
-pøíslovce	band, sarf, qeyd
-pøíslušník	andâm
-pøístav	bandar
-pøišel	âmad
-pøišel jsem	âmadam
-pøišel jsi	âmadi
-pøišli	âmadand
-pøišli jsme	âmadim
-pøišli jste	âmadid
-pøítel	dust
-pøivést	âvardan
-pøivézt	âvardan
-pøízeò	eltefât, yâri
-psát	neveštan
-pstruh	mâhi ye qezelâlâ
-pšenice	gandom
-ptá se	miporsad
-ptají se	miporsand
+program	barnÃ¢me
+programovat	barnÃ¢me neveÅ¡tan
+prohibice	bÃ¢zdÃ¢ri
+projÃ­madlo	moshel
+prominout	baxÅ¡idan, baxÅ¡udan, Ã¢morzidan
+promiÅˆte	puzeÅ¡ mixÃ¢ham, bebaxÅ¡id
+pronajmout	ejÃ¢re kardan
+prorok	payÃ¢mbar
+prosÃ­m	lotfan, xÃ¢heÅ¡ mikonam
+prosinec	desÃ¢mbr
+prosit	xÃ¢heÅ¡ nemudan
+proslulÃ½	maÅ¡hur
+prostÃ½	sÃ¢de
+protÄ›jÅ¡Ã­	ruberu
+proti	darbarÃ¢bar, zedde, padyÃ¢r
+protoÅ¾e	conke, zirÃ¢
+prozatÃ­m	hanuz
+prsa	pestÃ¢n, sine
+prst	angoÅ¡t
+prst u nohy	angoÅ¡t e pÃ¢
+prsten	halqe, angoÅ¡tar
+prÅ¡et	bÃ¢rÃ¢n Ã¢madan
+prudkÃ½	tond
+prÅ¯hlednÃ½	Å¡affÃ¢f
+prÅ¯jem	eshÃ¢l
+prÅ¯jezd	gozar
+prÅ¯kaz	govÃ¢hinÃ¢me
+prÅ¯klepovÃ½ papÃ­r	meqdÃ¢r kÃ¢rbon
+prÅ¯liv	kÃ¢nÃ¢l
+prÅ¯plav	Ã¢brÃ¢h
+prÅ¯svitnÃ½	Å¡affÃ¢f
+pruÅ¾enÃ­	fanar
+pruÅ¾ina	fanar
+prvnÃ­	naxost, avval
+PrvnÃ­ jarnÃ­ den	Nowruz
+prvnÃ­ tÅ™Ã­da	daraje ye yek
+pryÄ	dur, jodÃ¢, kenÃ¢r, xÃ¢muÅ¡, durtar
+pÅ™Ã¡t	Ã¢rezu kardan
+pÅ™Ã¡telstvÃ­	dusti
+pÅ™ebrat	radif kardan
+pÅ™ed	piÅ¡ az, piÅ¡
+pÅ™ed (s akuzativem)	jelow
+pÅ™edbÄ›Å¾nÃ¡ opatÅ™enÃ­	moqaddamÃ¢t
+pÅ™edÄasnÄ›	nÃ¢behangÃ¢m
+pÅ™edÄasnÃ½	nÃ¢behangÃ¢m
+pÅ™edem	piÅ¡ az
+pÅ™edklÃ¡dat	taqdim dÃ¢Å¡tan
+pÅ™edkrm	piÅ¡pÃ¢re, piÅ¡qazÃ¢
+pÅ™edmluva	dibÃ¢ce
+pÅ™edpis	Ã¢yinnÃ¢me
+pÅ™edpovÄ›Ä	piÅ¡bini
+pÅ™edprodej	piÅ¡foruÅ¡
+pÅ™edstavitel	namÃ¢yande
+pÅ™edÅ¡kolnÃ­	piÅ¡dabestÃ¢ni
+pÅ™edvÃ¡leÄnÃ½	piÅ¡ az jang
+pÅ™edvÃ©st	neÅ¡Ã¢n dÃ¢dan
+pÅ™edvÃ­dat	piÅ¡bini kardan
+pÅ™ehÃ¡Åˆka	ragbÃ¢r
+pÅ™ehoz	Å¡enel
+pÅ™eklad	tarjome
+pÅ™eklÃ¡dat	tarjome kardan
+pÅ™eloÅ¾it	tarjome kardan
+pÅ™emÃ¡hat	cire Å¡odan
+pÅ™emoci	piruz Å¡odan
+pÅ™emÃ½Å¡let	fekr kardan
+pÅ™epis	pacin
+pÅ™eplnÄ›nÃ½	labriz
+pÅ™epoÄÃ­tÃ¡vat	dobÃ¢re Å¡omordan
+pÅ™es	sartÃ¢sar, azmiyÃ¢n, abar, ruyi
+pÅ™esto	harcand
+pÅ™estoÅ¾e	agarce
+pÅ™esvÄ›dÄenÃ­	imÃ¢n
+pÅ™evodovka	ja'be dande
+pÅ™ezka	sagak e kamarband
+pÅ™ezkouÅ¡et	Ã¢zmÃ¢yeÅ¡ kardan
+pÅ™ezout se	kafÅ¡ dar Ã¢vardan
+pÅ™ezouvat se	dar Ã¢vardan kafÅ¡
+pÅ™ezÅ¯vky	gÃ¢leÅ¡
+pÅ™i	bedaste, nazdik, darpahluye, dar kenÃ¢r, dame
+pÅ™ibÃ­jet	mix kardan
+pÅ™ibÃ­t	kubidan
+pÅ™iblÃ­Å¾it	nazdik Å¡odan
+pÅ™ibliÅ¾nÄ›	nazdik be
+pÅ™Ã­Äka	narde
+pÅ™Ã­davnÃ© jmÃ©no	sefat
+pÅ™ihrÃ¡vat	ferestÃ¢dan, pÃ¢s dÃ¢dan
+pÅ™ihrÃ¡vka	pÃ¢s
+pÅ™ichÃ¡zejÃ­	miÃ¢yand
+pÅ™ichÃ¡zel	miÃ¢mad
+pÅ™ichÃ¡zel jsem	miÃ¢madam
+pÅ™ichÃ¡zel jsi	miÃ¢madi
+pÅ™ichÃ¡zeli	miÃ¢madand
+pÅ™ichÃ¡zeli jsme	miÃ¢madim
+pÅ™ichÃ¡zeli jste	miÃ¢madid
+pÅ™ichÃ¡zet	Ã¢madan
+pÅ™ichÃ¡zÃ­	miÃ¢yad
+pÅ™ichÃ¡zÃ­m	miÃ¢yam
+pÅ™ichÃ¡zÃ­me	miÃ¢yim
+pÅ™ichÃ¡zÃ­Å¡	miÃ¢yi
+pÅ™ichÃ¡zÃ­te	miÃ¢yid
+pÅ™Ã­chod	vorud
+pÅ™ijatÃ½ uchazeÄ	gomÃ¢rde
+pÅ™ijde	xÃ¢had Ã¢mad
+pÅ™ijdeme	xÃ¢him Ã¢mad
+pÅ™ijdeÅ¡	xÃ¢hi Ã¢mad
+pÅ™ijdete	xÃ¢hid Ã¢mad
+pÅ™ijdou	xÃ¢hand Ã¢mad
+pÅ™ijdu	xÃ¢ham Ã¢mad
+pÅ™Ã­jemnÃ½	xoÅ¡
+pÅ™Ã­jezd	vorud
+pÅ™ijÃ­t	Ã¢madan
+pÅ™Ã­krm	piÅ¡qazÃ¢
+pÅ™Ã­mka	xatt e rÃ¢st
+pÅ™Ã­mÃ½	mostaqim
+pÅ™inÃ¡Å¡ejÃ­	miÃ¢rand
+pÅ™inÃ¡Å¡el	miÃ¢vard
+pÅ™inÃ¡Å¡el jsem	miÃ¢vardam
+pÅ™inÃ¡Å¡el jsi	miÃ¢vardi
+pÅ™inÃ¡Å¡eli	miÃ¢vardand
+pÅ™inÃ¡Å¡eli jsme	miÃ¢vardim
+pÅ™inÃ¡Å¡eli jste	miÃ¢vardid
+pÅ™inÃ¡Å¡et	Ã¢vardan
+pÅ™inÃ¡Å¡Ã­	miÃ¢rad
+pÅ™inÃ¡Å¡Ã­m	miÃ¢ram
+pÅ™inÃ¡Å¡Ã­me	miÃ¢rim
+pÅ™inÃ¡Å¡Ã­Å¡	miÃ¢ri
+pÅ™inÃ¡Å¡Ã­te	miÃ¢rid
+pÅ™inese	xÃ¢had Ã¢vard
+pÅ™ineseme	xÃ¢him Ã¢vard
+pÅ™ineseÅ¡	xÃ¢hi Ã¢vard
+pÅ™inesete	xÃ¢hid Ã¢vard
+pÅ™inesl	Ã¢vard
+pÅ™inesl jsem	Ã¢vardam
+pÅ™inesl jsi	Ã¢vardi
+pÅ™inesli	Ã¢vardand
+pÅ™inesli jsme	Ã¢vardim
+pÅ™inesli jste	Ã¢vardid
+pÅ™inesou	xÃ¢hand Ã¢vard
+pÅ™inÃ©st	Ã¢vardan
+pÅ™inesu	xÃ¢ham Ã¢vard
+pÅ™Ã­platek za prvnÃ­ tÅ™Ã­du	ezÃ¢fe-qeymat e daraje ye yek
+pÅ™Ã­slovce	band, sarf, qeyd
+pÅ™Ã­sluÅ¡nÃ­k	andÃ¢m
+pÅ™Ã­stav	bandar
+pÅ™iÅ¡el	Ã¢mad
+pÅ™iÅ¡el jsem	Ã¢madam
+pÅ™iÅ¡el jsi	Ã¢madi
+pÅ™iÅ¡li	Ã¢madand
+pÅ™iÅ¡li jsme	Ã¢madim
+pÅ™iÅ¡li jste	Ã¢madid
+pÅ™Ã­tel	dust
+pÅ™ivÃ©st	Ã¢vardan
+pÅ™ivÃ©zt	Ã¢vardan
+pÅ™Ã­zeÅˆ	eltefÃ¢t, yÃ¢ri
+psÃ¡t	neveÅ¡tan
+pstruh	mÃ¢hi ye qezelÃ¢lÃ¢
+pÅ¡enice	gandom
+ptÃ¡ se	miporsad
+ptajÃ­ se	miporsand
 ptal jsem se	porsidam
 ptal jsi se	porsidi
 ptal se	porsid
 ptali jsme se	porsidim
 ptali jste se	porsidid
 ptali se	porsidand
-ptám se	miporsam
-ptáme se	miporsim
-ptáš se	miporsi
-ptát se	porsidan
-ptáte se	miporsid
+ptÃ¡m se	miporsam
+ptÃ¡me se	miporsim
+ptÃ¡Å¡ se	miporsi
+ptÃ¡t se	porsidan
+ptÃ¡te se	miporsid
 ptej se	bepors
 pudr	pudr, gard e surat
-pùjde	xâhad raft
-pùjdeme	xâhim raft
-pùjdeš	xâhi raft
-pùjdete	xâhid raft
-pùjdou	xâhand raft
-pùjdu	xâham raft
-pùl	nim
+pÅ¯jde	xÃ¢had raft
+pÅ¯jdeme	xÃ¢him raft
+pÅ¯jdeÅ¡	xÃ¢hi raft
+pÅ¯jdete	xÃ¢hid raft
+pÅ¯jdou	xÃ¢hand raft
+pÅ¯jdu	xÃ¢ham raft
+pÅ¯l	nim
 pumpa	pomp
-punèochy	jurâb e zanâne (joft~)
+punÄochy	jurÃ¢b e zanÃ¢ne (joft~)
 pytel	kise
-pyamo	piâme
-rád	xorsand
-radiátor	radiâtor, râdiyâtor
-rádio	râdiyo
-radnice	šahrdâri
-rádo se stalo	xâheš mikonam
-ragú	xoreš
-rajèe	gowje ye farangi
-rajské jablko	gowje ye farangi
-raketa	âtašafrâze, râket
-raketa (tenisová)	cowgân
-rakovina	saratân
-rameno	duš, šâne
-ráno	sobh
-rèení	pand
-rebarbora	rivâs
+pyÅ¾amo	piÅ¾Ã¢me
+rÃ¡d	xorsand
+radiÃ¡tor	radiÃ¢tor, rÃ¢diyÃ¢tor
+rÃ¡dio	rÃ¢diyo
+radnice	Å¡ahrdÃ¢ri
+rÃ¡do se stalo	xÃ¢heÅ¡ mikonam
+ragÃº	xoreÅ¡
+rajÄe	gowje ye farangi
+rajskÃ© jablko	gowje ye farangi
+raketa	Ã¢taÅ¡afrÃ¢ze, rÃ¢ket
+raketa (tenisovÃ¡)	cowgÃ¢n
+rakovina	saratÃ¢n
+rameno	duÅ¡, Å¡Ã¢ne
+rÃ¡no	sobh
+rÄenÃ­	pand
+rebarbora	rivÃ¢s
 recept	nosxe
-redukce	kâheš
-rek	pahlavân
-reklama	âgahi
-réservé	reservâsiyon
-restaurace	rasturân
+redukce	kÃ¢heÅ¡
+rek	pahlavÃ¢n
+reklama	Ã¢gahi
+rÃ©servÃ©	reservÃ¢siyon
+restaurace	rasturÃ¢n
 ret	lab
-reveò	rivâs
-revmatismus	româtism
-rezervace	reservâsiyon
-rezervovanı	rezerv šode
+reveÅˆ	rivÃ¢s
+revmatismus	romÃ¢tism
+rezervace	reservÃ¢siyon
+rezervovanÃ½	rezerv Å¡ode
 rezervovat	rezerv kardan
-ricinovı olej	rowqan e karcak
-rijál	riyâl
-robot	âdam e âhani
-robustní	nirumand
-roèenka	sâlnâme
-roènì	sâliyâne
-rod	neâd
-rodina	xânevâde
-roh	šâx
-rok	sâl
-rostlina	nabât
+ricinovÃ½ olej	rowqan e karcak
+rijÃ¡l	riyÃ¢l
+robot	Ã¢dam e Ã¢hani
+robustnÃ­	nirumand
+roÄenka	sÃ¢lnÃ¢me
+roÄnÄ›	sÃ¢liyÃ¢ne
+rod	neÅ¾Ã¢d
+rodina	xÃ¢nevÃ¢de
+roh	Å¡Ã¢x
+rok	sÃ¢l
+rostlina	nabÃ¢t
 roura	lule
-rovnì	ham
-rovnı	mostaqim
-rozbíjet	šekastan
-rozbít	šekastan
-rozdíl	farq
-rozdrtit	rišekan kardan, darham šekastan
-rozhnìvanı	asabâni
+rovnÄ›Å¾	ham
+rovnÃ½	mostaqim
+rozbÃ­jet	Å¡ekastan
+rozbÃ­t	Å¡ekastan
+rozdÃ­l	farq
+rozdrtit	riÅ¡ekan kardan, darham Å¡ekastan
+rozhnÄ›vanÃ½	asabÃ¢ni
 rozhovor	goftogu
-rozmìr	andâze
-rozprášit	darham šekastan, rišekan kardan
-rozumìt	fahmidan
-rozzlobenı	xašmgin
-rtìnka	mâtik, ru
-rubín	yâqut
-ruèní práce	kâr e dast
-ruèní zavazadlo	asbâb e dast
-ruèník	howle
-rudı	sorx
+rozmÄ›r	andÃ¢ze
+rozprÃ¡Å¡it	darham Å¡ekastan, riÅ¡ekan kardan
+rozumÄ›t	fahmidan
+rozzlobenÃ½	xaÅ¡mgin
+rtÄ›nka	mÃ¢tik, ruÅ¾
+rubÃ­n	yÃ¢qut
+ruÄnÃ­ prÃ¡ce	kÃ¢r e dast
+ruÄnÃ­ zavazadlo	asbÃ¢b e dast
+ruÄnÃ­k	howle
+rudÃ½	sorx
 ruka	dast
-rukáv	âstin
-rukavice	dastkeš
+rukÃ¡v	Ã¢stin
+rukavice	dastkeÅ¡
 Rusko	Rusiyye
-rušnı	šoluq
-rù	mâtik, ru
-rùová	surati, goli
-rybárna	mâhiforuši
-rybaøení	mâhigiri
-rybník	berke
-rıè	bil
-rychlík	qatâr e tondrow
-rychlı	tond, sarih
-rıe	berenj
-øadicí páka	dande
-øeditel	modir
-øedkev	torob
-øedkvièka	torobce
-øeka	rudxâne
-øepa	coqandar
-øetìz	zanjir
-øetìzovı	zanjiri
-øezal	bord
-øezal jsem	bordam
-øezal jsi	bordi
-øezali	bordand
-øezali jsme	bordim
-øezali jste	bordid
-øezat	boridan
-øezával	mibord
-øezával jsem	mibordam
-øezával jsi	mibordi
-øezávali	mibordand
-øezávali jsme	mibordim
-øezávali jste	mibordid
-øezej	bebor
-øeznictví	qassâbi, guštforuši
-øe	bebor
-øee	mibarad
-øeeme	mibarim
-øeeš	mibari
-øeete	mibarid
-øeou	mibarand
-øeu	mibaram
-øíct	goftan
-øidiè	rânande
-øidièskı prùkaz	govâhinâme ye rânandegi
-øídit (auto)	rânandegi kardan
-øíjen	oktobr
-øíká	miguyad
-øíkají	miguyand
-øíkal	goft
-øíkal jsem	goftam
-øíkal jsi	gofti
-øíkali	goftand
-øíkali jsme	goftim
-øíkali jste	goftid
-øíkám	miguyam
-øíkáme	migu'im
-øíkáš	migu'i
-øíkat	goftan
-øíkáte	migu'id
-øízení	farmân
-s	bâ
-sad	bâqmive
-sádra	gac
-safír	yâqut e kabud
+ruÅ¡nÃ½	Å¡oluq
+rÅ¯Å¾	mÃ¢tik, ruÅ¾
+rÅ¯Å¾ovÃ¡	surati, goli
+rybÃ¡rna	mÃ¢hiforuÅ¡i
+rybaÅ™enÃ­	mÃ¢higiri
+rybnÃ­k	berke
+rÃ½Ä	bil
+rychlÃ­k	qatÃ¢r e tondrow
+rychlÃ½	tond, sarih
+rÃ½Å¾e	berenj
+Å™adicÃ­ pÃ¡ka	dande
+Å™editel	modir
+Å™edkev	torob
+Å™edkviÄka	torobce
+Å™eka	rudxÃ¢ne
+Å™epa	coqandar
+Å™etÄ›z	zanjir
+Å™etÄ›zovÃ½	zanjiri
+Å™ezal	bord
+Å™ezal jsem	bordam
+Å™ezal jsi	bordi
+Å™ezali	bordand
+Å™ezali jsme	bordim
+Å™ezali jste	bordid
+Å™ezat	boridan
+Å™ezÃ¡val	mibord
+Å™ezÃ¡val jsem	mibordam
+Å™ezÃ¡val jsi	mibordi
+Å™ezÃ¡vali	mibordand
+Å™ezÃ¡vali jsme	mibordim
+Å™ezÃ¡vali jste	mibordid
+Å™ezej	bebor
+Å™eznictvÃ­	qassÃ¢bi, guÅ¡tforuÅ¡i
+Å™eÅ¾	bebor
+Å™eÅ¾e	mibarad
+Å™eÅ¾eme	mibarim
+Å™eÅ¾eÅ¡	mibari
+Å™eÅ¾ete	mibarid
+Å™eÅ¾ou	mibarand
+Å™eÅ¾u	mibaram
+Å™Ã­ct	goftan
+Å™idiÄ	rÃ¢nande
+Å™idiÄskÃ½ prÅ¯kaz	govÃ¢hinÃ¢me ye rÃ¢nandegi
+Å™Ã­dit (auto)	rÃ¢nandegi kardan
+Å™Ã­jen	oktobr
+Å™Ã­kÃ¡	miguyad
+Å™Ã­kajÃ­	miguyand
+Å™Ã­kal	goft
+Å™Ã­kal jsem	goftam
+Å™Ã­kal jsi	gofti
+Å™Ã­kali	goftand
+Å™Ã­kali jsme	goftim
+Å™Ã­kali jste	goftid
+Å™Ã­kÃ¡m	miguyam
+Å™Ã­kÃ¡me	migu'im
+Å™Ã­kÃ¡Å¡	migu'i
+Å™Ã­kat	goftan
+Å™Ã­kÃ¡te	migu'id
+Å™Ã­zenÃ­	farmÃ¢n
+s	bÃ¢
+sad	bÃ¢qmive
+sÃ¡dra	gac
+safÃ­r	yÃ¢qut e kabud
 sako	kot
-sál	sâlon
-salám	sosis, kâlbâs
-salát	sâlâd
-salon	sâlon
-salon krásy	sâlon e zibâyi
-sám	tanhâ
+sÃ¡l	sÃ¢lon
+salÃ¡m	sosis, kÃ¢lbÃ¢s
+salÃ¡t	sÃ¢lÃ¢d
+salon	sÃ¢lon
+salon krÃ¡sy	sÃ¢lon e zibÃ¢yi
+sÃ¡m	tanhÃ¢
 samet	maxmali
-samohláska	bâsedâ
-samohláskovı	âvâdâr
-samoobsluha	supermârket
-sanatorium	âsâyešgâh
-sandál	sandal
-sandály	joft sandal
-Sára	Sârâ
-sardel	mâhi ye kuli
-sardinka	sârdin
-satan	šeytân
-satén	pârce ye abrišam e masnui, sâtan
+samohlÃ¡ska	bÃ¢sedÃ¢
+samohlÃ¡skovÃ½	Ã¢vÃ¢dÃ¢r
+samoobsluha	supermÃ¢rket
+sanatorium	Ã¢sÃ¢yeÅ¡gÃ¢h
+sandÃ¡l	sandal
+sandÃ¡ly	joft sandal
+SÃ¡ra	SÃ¢rÃ¢
+sardel	mÃ¢hi ye kuli
+sardinka	sÃ¢rdin
+satan	Å¡eytÃ¢n
+satÃ©n	pÃ¢rce ye abriÅ¡am e masnui, sÃ¢tan
 sazba	hazine
 saze	dude
-sázet	kâštan
-sbohem	Xodâ negahdâr
-sborník	sâlnâme
-sèítání	saršomâri, âmârgiri
+sÃ¡zet	kÃ¢Å¡tan
+sbohem	XodÃ¢ negahdÃ¢r
+sbornÃ­k	sÃ¢lnÃ¢me
+sÄÃ­tÃ¡nÃ­	sarÅ¡omÃ¢ri, Ã¢mÃ¢rgiri
 se	xod
-seï	bešin
+seÄ	beÅ¡in
 sedativum	mosakken
-sedìt	nešastan
+sedÄ›t	neÅ¡astan
 sedlo	zin
 sedm	haft
 sedm set	haftsad
-sedmdesát	haftâd
+sedmdesÃ¡t	haftÃ¢d
 sedmina	haftom
-sedmnáct	hefdah
-sedmı	haftom
-sekera	tabar, tiše
-sekretáøka	monši
-sekunda	sâniye
-semiš	jir
-sen	xâb
-sendviè	sândvic
-senná rıma	tab e nowbe, tab e šadid
-seriál	pošt e sareham
+sedmnÃ¡ct	hefdah
+sedmÃ½	haftom
+sekera	tabar, tiÅ¡e
+sekretÃ¡Å™ka	monÅ¡i
+sekunda	sÃ¢niye
+semiÅ¡	jir
+sen	xÃ¢b
+sendviÄ	sÃ¢ndvic
+sennÃ¡ rÃ½ma	tab e nowbe, tab e Å¡adid
+seriÃ¡l	poÅ¡t e sareham
 servis	servis
-serant	goruhbân
-sestra	xâhar
-sestøenice	doxtar-e-xâle, amuzâde, doxtar-e-amme
-sešit	daftar e pišnevis
+serÅ¾ant	goruhbÃ¢n
+sestra	xÃ¢har
+sestÅ™enice	doxtar-e-xÃ¢le, amuzÃ¢de, doxtar-e-amme
+seÅ¡it	daftar e piÅ¡nevis
 setina	sadom
-sever	abâxtar, šomâl
-severní	abâxtari
-seznámení (se)	âšnâyi
-sezóna	fasl
-shodnı	yeksân
+sever	abÃ¢xtar, Å¡omÃ¢l
+severnÃ­	abÃ¢xtari
+seznÃ¡menÃ­ (se)	Ã¢Å¡nÃ¢yi
+sezÃ³na	fasl
+shodnÃ½	yeksÃ¢n
 si	xod
-síla	niru, tavân
-silnice	jâdde
-sí	tur
-síto	alak
-sjednocovat	yeki šodan
+sÃ­la	niru, tavÃ¢n
+silnice	jÃ¢dde
+sÃ­Å¥	tur
+sÃ­to	alak
+sjednocovat	yeki Å¡odan
 sjednotit	yeki kardan, beham peyvastan
-skicák	kâqaz e pišnevis
-sklenice	livân
-sklenka	livân
-sklizeò	xarman
-sklo	šiše
-sklon	šib
+skicÃ¡k	kÃ¢qaz e piÅ¡nevis
+sklenice	livÃ¢n
+sklenka	livÃ¢n
+sklizeÅˆ	xarman
+sklo	Å¡iÅ¡e
+sklon	Å¡ib
 skonat	mordan
-skoøice	dârcin
+skoÅ™ice	dÃ¢rcin
 skript	xatt
-skrıvat	penhân šodan
-skrz	azmiyân, sartâsar
-skøíò	eškâf, ganje
-skøivan	cakâvak
+skrÃ½vat	penhÃ¢n Å¡odan
+skrz	azmiyÃ¢n, sartÃ¢sar
+skÅ™Ã­Åˆ	eÅ¡kÃ¢f, ganje
+skÅ™ivan	cakÃ¢vak
 skvost	gowhar
-slabikáø	ketâb e alefbâyi
-slabı	nazâr, kamzur, nâtavân
-sladké	širini
-sladkost	širini
-sláma	kâh
-slanı	namakdâr, šur
-sláva	far, šokuh, farrah
-sleèna	dušize
-sleï	mârmâhi, šâhmâhi
-slepı	kur
+slabikÃ¡Å™	ketÃ¢b e alefbÃ¢yi
+slabÃ½	nazÃ¢r, kamzur, nÃ¢tavÃ¢n
+sladkÃ©	Å¡irini
+sladkost	Å¡irini
+slÃ¡ma	kÃ¢h
+slanÃ½	namakdÃ¢r, Å¡ur
+slÃ¡va	far, Å¡okuh, farrah
+sleÄna	duÅ¡ize
+sleÄ	mÃ¢rmÃ¢hi, Å¡Ã¢hmÃ¢hi
+slepÃ½	kur
 slib	va'de
-slíva	gowje
+slÃ­va	gowje
 slon	fil
-slova	loqât
-slovník	farhang
-slovo	laqat, vâe, kaleme
-sloka	puše
-sluka lesní	xorus e jangali
-slunce	xor, xoršid, âftâb
-sluneèník	sâyebân
-slušnı	šarif
-sluba	servis
-slyš	bešno
-slyšel	šenid
-slyšel jsem	šenidam
-slyšel jsi	šenidi
-slyšeli	šenidand
-slyšeli jsme	šenidim
-slyšeli jste	šenidid
-slyšet	šenidan
-slyší	mišenavad
-slyší (pl.)	mišenavand
-slyším	mišenavam
-slyšíme	mišenavim
-slyšíš	mišenavi
-slyšíte	mišenavid
-slza	âšk
-smalt	minâkâri
+slova	loqÃ¢t
+slovnÃ­k	farhang
+slovo	laqat, vÃ¢Å¾e, kaleme
+sloÅ¾ka	puÅ¡e
+sluka lesnÃ­	xorus e jangali
+slunce	xor, xorÅ¡id, Ã¢ftÃ¢b
+sluneÄnÃ­k	sÃ¢yebÃ¢n
+sluÅ¡nÃ½	Å¡arif
+sluÅ¾ba	servis
+slyÅ¡	beÅ¡no
+slyÅ¡el	Å¡enid
+slyÅ¡el jsem	Å¡enidam
+slyÅ¡el jsi	Å¡enidi
+slyÅ¡eli	Å¡enidand
+slyÅ¡eli jsme	Å¡enidim
+slyÅ¡eli jste	Å¡enidid
+slyÅ¡et	Å¡enidan
+slyÅ¡Ã­	miÅ¡enavad
+slyÅ¡Ã­ (pl.)	miÅ¡enavand
+slyÅ¡Ã­m	miÅ¡enavam
+slyÅ¡Ã­me	miÅ¡enavim
+slyÅ¡Ã­Å¡	miÅ¡enavi
+slyÅ¡Ã­te	miÅ¡enavid
+slza	Ã¢Å¡k
+smalt	minÃ¢kÃ¢ri
 smaragd	zomorrodin, zomorrod
-smát se	xandidan
-smìnárna	sarrâfi
-smìrem k	be, dar râhe, darbâreye, besuye
-smést	jârub kardan
-smeták	jârub
-smetana	xâme
-smíšené zboí (prodejna)	xârobârforuši
-smrk	šâhdaraxt
+smÃ¡t se	xandidan
+smÄ›nÃ¡rna	sarrÃ¢fi
+smÄ›rem k	be, dar rÃ¢he, darbÃ¢reye, besuye
+smÃ©st	jÃ¢rub kardan
+smetÃ¡k	jÃ¢rub
+smetana	xÃ¢me
+smÃ­Å¡enÃ© zboÅ¾Ã­ (prodejna)	xÃ¢robÃ¢rforuÅ¡i
+smrk	Å¡Ã¢hdaraxt
 smrt	marg
-smrtelnı	margbâr
+smrtelnÃ½	margbÃ¢r
 smutek	qam, anduh
-snad	šâyad
-snadno	be âsâni
-snadnı	sâde
-snait se	kušidan
-snìdl	xorde'ast
-snìdl jsem	xorde'am
-snìdl jsi	xorde'i
-snìdli	xorde'and
-snìdli jsme	xorde'im
-snìdli jste	xorde'id
-snìit	barf âmadan
-snídanì	sobhâne
-sníh	barf
-sníení	kâheš
-snoubenec	nâmzed
-snubní prsten	halqe ye nâmzedi
-sobota	šanbe
-sochaøství	tandissâzi
-sója	soyâ
-sojka	zâqkabud
-solenı	namakdâr, namaki
-soud	dâdgâh, qazâvat
-soudce	qâzi
-souhláska	harf e bisedâ
-soukolí	dande
-souloit	gâyidan
-souloit (vulg.)	gâyidan
-soumrak	târik e rowšan
-soupeø	harif
-spací pytel	kise ye xâb
-spal	xâbid
-spal jsem	xâbidam
-spal jsi	xâbidi
-spálení (slun.)	âftâbsuxtagi
-spali	xâbidand
-spali jsme	xâbidim
-spali jste	xâbidid
-spalnièky	sorxak
-spása	rastegâri
-spát	xâbidan
-spatøovat	negaristan
-spával	mixâbid
-spával jsem	mixâbidam
-spával jsi	mixâbidi
-spávali	mixâbidand
-spávali jsme	mixâbidim
-spávali jste	mixâbidid
-spìch	šetâb
-spi	bexâb
-spí	mixâbad
-spí (pl.)	mixâband
-spím	mixâbam
-spíme	mixâbim
-spirála	mârpic
+snad	Å¡Ã¢yad
+snadno	be Ã¢sÃ¢ni
+snadnÃ½	sÃ¢de
+snaÅ¾it se	kuÅ¡idan
+snÄ›dl	xorde'ast
+snÄ›dl jsem	xorde'am
+snÄ›dl jsi	xorde'i
+snÄ›dli	xorde'and
+snÄ›dli jsme	xorde'im
+snÄ›dli jste	xorde'id
+snÄ›Å¾it	barf Ã¢madan
+snÃ­danÄ›	sobhÃ¢ne
+snÃ­h	barf
+snÃ­Å¾enÃ­	kÃ¢heÅ¡
+snoubenec	nÃ¢mzed
+snubnÃ­ prsten	halqe ye nÃ¢mzedi
+sobota	Å¡anbe
+sochaÅ™stvÃ­	tandissÃ¢zi
+sÃ³ja	soyÃ¢
+sojka	zÃ¢qkabud
+solenÃ½	namakdÃ¢r, namaki
+soud	dÃ¢dgÃ¢h, qazÃ¢vat
+soudce	qÃ¢zi
+souhlÃ¡ska	harf e bisedÃ¢
+soukolÃ­	dande
+souloÅ¾it	gÃ¢yidan
+souloÅ¾it (vulg.)	gÃ¢yidan
+soumrak	tÃ¢rik e rowÅ¡an
+soupeÅ™	harif
+spacÃ­ pytel	kise ye xÃ¢b
+spal	xÃ¢bid
+spal jsem	xÃ¢bidam
+spal jsi	xÃ¢bidi
+spÃ¡lenÃ­ (slun.)	Ã¢ftÃ¢bsuxtagi
+spali	xÃ¢bidand
+spali jsme	xÃ¢bidim
+spali jste	xÃ¢bidid
+spalniÄky	sorxak
+spÃ¡sa	rastegÃ¢ri
+spÃ¡t	xÃ¢bidan
+spatÅ™ovat	negaristan
+spÃ¡val	mixÃ¢bid
+spÃ¡val jsem	mixÃ¢bidam
+spÃ¡val jsi	mixÃ¢bidi
+spÃ¡vali	mixÃ¢bidand
+spÃ¡vali jsme	mixÃ¢bidim
+spÃ¡vali jste	mixÃ¢bidid
+spÄ›ch	Å¡etÃ¢b
+spi	bexÃ¢b
+spÃ­	mixÃ¢bad
+spÃ­ (pl.)	mixÃ¢band
+spÃ­m	mixÃ¢bam
+spÃ­me	mixÃ¢bim
+spirÃ¡la	mÃ¢rpic
 spiritualita	minuyi
-spíš	mixâbi
-spíte	mixâbid
-splést se	eštebâh namudan
-splnìní	rasâyi, âzgâr, pâyân
+spÃ­Å¡	mixÃ¢bi
+spÃ­te	mixÃ¢bid
+splÃ©st se	eÅ¡tebÃ¢h namudan
+splnÄ›nÃ­	rasÃ¢yi, Ã¢zgÃ¢r, pÃ¢yÃ¢n
 spojit	beham peyvastan
-spojka	kelâ, klâc
-spoleènì	bâham
-spoleènost (obchodní)	šerkat
-spolkovı	federâl
-spolu	bâham
+spojka	kelÃ¢Å¾, klÃ¢c
+spoleÄnÄ›	bÃ¢ham
+spoleÄnost (obchodnÃ­)	Å¡erkat
+spolkovÃ½	federÃ¢l
+spolu	bÃ¢ham
 spona	sagak e kamarband
 sponka	cangzan
 sponzor	esponsor
-sport	varzeš
-správce	modir
-spravedlivı	âdel
-spravedlnost	adl, edâlat
-spropitné	en'âm
-spøádat	bâftan
-Srbsko	Serbestân
+sport	varzeÅ¡
+sprÃ¡vce	modir
+spravedlivÃ½	Ã¢del
+spravedlnost	adl, edÃ¢lat
+spropitnÃ©	en'Ã¢m
+spÅ™Ã¡dat	bÃ¢ftan
+Srbsko	SerbestÃ¢n
 srdce	del, qalb
-srp	dâs
+srp	dÃ¢s
 srpen	ut
-stadion	varzešgâh
-stal jsem se	šodam
-stal jsi se	šodi
-stal se	šod
-stali jsme se	šodim
-stali jste se	šodid
-stali se	šodand
-stan	câdor
-stanice	istgâh
-stanovištì	tavaqqofgâh
-startování	estârt
-starı	pir
-stát se	šodan
-stativ	sepâye
-statnı	nirumand
-statut	asâsnâme
-stává se	mišavad
-stávají se	mišavand
-stávám se	mišavam
-stáváme se	mišavim
-stáváš se	mišavi
-stávat se	šodan
-stáváte se	mišavid
+stadion	varzeÅ¡gÃ¢h
+stal jsem se	Å¡odam
+stal jsi se	Å¡odi
+stal se	Å¡od
+stali jsme se	Å¡odim
+stali jste se	Å¡odid
+stali se	Å¡odand
+stan	cÃ¢dor
+stanice	istgÃ¢h
+stanoviÅ¡tÄ›	tavaqqofgÃ¢h
+startovÃ¡nÃ­	estÃ¢rt
+starÃ½	pir
+stÃ¡t se	Å¡odan
+stativ	sepÃ¢ye
+statnÃ½	nirumand
+statut	asÃ¢snÃ¢me
+stÃ¡vÃ¡ se	miÅ¡avad
+stÃ¡vajÃ­ se	miÅ¡avand
+stÃ¡vÃ¡m se	miÅ¡avam
+stÃ¡vÃ¡me se	miÅ¡avim
+stÃ¡vÃ¡Å¡ se	miÅ¡avi
+stÃ¡vat se	Å¡odan
+stÃ¡vÃ¡te se	miÅ¡avid
 steak [stejk]	esteyk
-stéblo	kâh
-stehno	rân
-stìhovat se	asbâb kešidan
-stejnì	mešâbe, yeksân
-stejnı	yeksân, mešâbe
-stìna	divâr
-sténat	nâle kardan
-stìraè	barfpâkkon
-stereofonní	esteriyo
+stÃ©blo	kÃ¢h
+stehno	rÃ¢n
+stÄ›hovat se	asbÃ¢b keÅ¡idan
+stejnÄ›	meÅ¡Ã¢be, yeksÃ¢n
+stejnÃ½	yeksÃ¢n, meÅ¡Ã¢be
+stÄ›na	divÃ¢r
+stÃ©nat	nÃ¢le kardan
+stÄ›raÄ	barfpÃ¢kkon
+stereofonnÃ­	esteriyo
 sterilizovat	esterlize kardan
-sterilní	bibâr
-stezka	râh, piyâderow
-stín	sâye
-stínit	sâye andâxtan
-stinnı	sâyedâr
-stírat	pâk kardan
-stmívat se	târik šodan
+sterilnÃ­	bibÃ¢r
+stezka	rÃ¢h, piyÃ¢derow
+stÃ­n	sÃ¢ye
+stÃ­nit	sÃ¢ye andÃ¢xtan
+stinnÃ½	sÃ¢yedÃ¢r
+stÃ­rat	pÃ¢k kardan
+stmÃ­vat se	tÃ¢rik Å¡odan
 sto	sad
-stoèit	lule kardan
-stodola	anbâr
-stojan	pâye
-století	qarn
-stonek	sâq
+stoÄit	lule kardan
+stodola	anbÃ¢r
+stojan	pÃ¢ye
+stoletÃ­	qarn
+stonek	sÃ¢q
 stop	ist
-stopa	pâ
-stoár	dagal
+stopa	pÃ¢
+stoÅ¾Ã¡r	dagal
 strach	tars
-stráò	šib
-stranickı	hezbi
-strava	qazâ
-stráník	pâsbân
-strohı	tond
-stroj	dastgâh
-strojenı	sâxtegi
-strojvedoucí	mobâšer e qatâr
-strojvùdce	mobâšer e qatâr
+strÃ¡Åˆ	Å¡ib
+stranickÃ½	hezbi
+strava	qazÃ¢
+strÃ¡Å¾nÃ­k	pÃ¢sbÃ¢n
+strohÃ½	tond
+stroj	dastgÃ¢h
+strojenÃ½	sÃ¢xtegi
+strojvedoucÃ­	mobÃ¢Å¡er e qatÃ¢r
+strojvÅ¯dce	mobÃ¢Å¡er e qatÃ¢r
 strom	deraxt
-struènı	kutâh, moxtasar
+struÄnÃ½	kutÃ¢h, moxtasar
 struna	zeh
-strıc	dâyi, ammu
-strıc z matèiny strany	dâyi
-strıc z otcovy strany	ammu
-støed	miyâne
-støed mìsta	markaz e šahr
-støeda	cahâršanbe
-støecha	bâm
-støelnı prach	bârut
-støevo	rude
-støíbro	noqre
-støíkat	pâšidan
-student	dânešju
-studenı	sard
-stuha	rubân, navâr
-stùl	miz
-stuka	navâr
-sud	boške
-suchı	xošg
-suknì	dâman
-sùl	namak
-sultán	soltân
+strÃ½c	dÃ¢yi, ammu
+strÃ½c z matÄiny strany	dÃ¢yi
+strÃ½c z otcovy strany	ammu
+stÅ™ed	miyÃ¢ne
+stÅ™ed mÄ›sta	markaz e Å¡ahr
+stÅ™eda	cahÃ¢rÅ¡anbe
+stÅ™echa	bÃ¢m
+stÅ™elnÃ½ prach	bÃ¢rut
+stÅ™evo	rude
+stÅ™Ã­bro	noqre
+stÅ™Ã­kat	pÃ¢Å¡idan
+student	dÃ¢neÅ¡ju
+studenÃ½	sard
+stuha	rubÃ¢n, navÃ¢r
+stÅ¯l	miz
+stuÅ¾ka	navÃ¢r
+sud	boÅ¡ke
+suchÃ½	xoÅ¡g
+suknÄ›	dÃ¢man
+sÅ¯l	namak
+sultÃ¡n	soltÃ¢n
 sup	karkas
-supermarket	supermârket
-surfovací [serfovací] prkno	mowjšekan
+supermarket	supermÃ¢rket
+surfovacÃ­ [serfovacÃ­] prkno	mowjÅ¡ekan
 sval	azole
-svatı	pâkdâman, pâk, moqaddas, avie
+svatÃ½	pÃ¢kdÃ¢man, pÃ¢k, moqaddas, aviÅ¾e
 svazek	jeld
-svéráznı	vie
-svìt	jahân, donyâ
-svìtec	pâkdâman, ašu, parhizkâr
-svìtlá	rowšan
-svìtlo	nur
-svìtlı	rowšani
-svìtovı	jahâni
-svìtoznámı	mašhur
-svìtskı	jahâni, donyavi
-svíce	šam'
-svícen	šam'dân
-svíèka	šam'
-svíèková	gušt e râste
-svoboda	âzâdi
-svobodnı	âzâd
-svrchník	saršane
+svÃ©rÃ¡znÃ½	viÅ¾e
+svÄ›t	jahÃ¢n, donyÃ¢
+svÄ›tec	pÃ¢kdÃ¢man, aÅ¡u, parhizkÃ¢r
+svÄ›tlÃ¡	rowÅ¡an
+svÄ›tlo	nur
+svÄ›tlÃ½	rowÅ¡ani
+svÄ›tovÃ½	jahÃ¢ni
+svÄ›toznÃ¡mÃ½	maÅ¡hur
+svÄ›tskÃ½	jahÃ¢ni, donyavi
+svÃ­ce	Å¡am'
+svÃ­cen	Å¡am'dÃ¢n
+svÃ­Äka	Å¡am'
+svÃ­ÄkovÃ¡	guÅ¡t e rÃ¢ste
+svoboda	Ã¢zÃ¢di
+svobodnÃ½	Ã¢zÃ¢d
+svrchnÃ­k	sarÅ¡ane
 syn	farzand, pesar
-Syn Boí	Farzand e Xodâ
-syn strıce z matèiny strany	pesar-e-dâyi
-syn strıce z otcovy strany	pesar-e-ammu
-syn tety z matèiny strany	pesar-e-xâle
+Syn BoÅ¾Ã­	Farzand e XodÃ¢
+syn strÃ½ce z matÄiny strany	pesar-e-dÃ¢yi
+syn strÃ½ce z otcovy strany	pesar-e-ammu
+syn tety z matÄiny strany	pesar-e-xÃ¢le
 syn tety z otcovy strany	pesar-e-amme
-synagoga	parastešgâh e yahudiyân, kanise
-syntéza	tarkib
-sypat	pâšidan
-sır	panir
-syrovı	xâm
-sysel	sanjâb
-systém	sistem
-systematickı	bar yek raveš
-š (hláska)	š (horuf)
-šablona	negâre
-šachmat	mât
-šachta	câl
-šachy	šatranj
-šál	šâl
-šála	šâl, šâl e gardan
-šálek	fenjân
-šampaòské	šâmpâyn
-šampion	pahlavân
-šampon	šâmpu
-šanson	sorud
-šare	hazine
-šat	lebâs
-šátek	rusari
-šatnáøka	lebâsdâr
-šatník	ganje, eškâf
-šaty	lebâs, lebâshâ
-šavle	šamšir
-šedesát	šast
-šedı	xâkestari
-šek	cek
-šel	raft
-šel jsem	raftam
-šel jsi	rafti
-šeøík	yâs
-šest	šeš
-šest set	šešsad
-šestina	šešom
-šestnáct	šânzdah
-šestı	šešom
-šibenice	dâr
-šifon	pârce ye harir e nâzok
-šíje	gardan
-šikovnı	mâhar
-šílenı	divâne
-šílet	divâne šodan
-šilink	šiling
-šíp	tir
-šipka	nize
-širokı	gošâd
-šít	duxtan
-šitı	duxte
-škaredı	zešt
-škoda	ziyân
-škola	âmuzešgâh, madrese, dabestân
-škrob	nešâste
-šlehaèka	xâme ye zade
-šli	raftand
-šli jsme	raftim
-šli jste	raftid
-šortky	šort
-šowhar	manel
-špatnı	bad
-špendlík	sanjâq
-šperkovnice	gowhardân
-špína	cerk
-špinavı	cerk
-šroub	pic
-štìrk	šen
-štika	ordakmâhi
-štír	kadom
-šovík	toršak
-šunka	âmbon
-švagr	barâdar-e-zan, barâdar-e-šowhar
-švagr (bratr mue)	barâdar-e-šowhar
-švagr (bratr eny)	barâdar-e-zan
-švagrová	xâhar-e-šowhar, xâhar-e-zan
-švagrová (sestra mue)	xâhar-e-šowhar
-švagrová (sestra eny)	xâhar-e-zan
-švestka	âlu
-ta	ân
-tabák (prodejna)	tambâkuforuši
-tady	injâ
+synagoga	parasteÅ¡gÃ¢h e yahudiyÃ¢n, kanise
+syntÃ©za	tarkib
+sypat	pÃ¢Å¡idan
+sÃ½r	panir
+syrovÃ½	xÃ¢m
+sysel	sanjÃ¢b
+systÃ©m	sistem
+systematickÃ½	bar yek raveÅ¡
+Å¡ (hlÃ¡ska)	Å¡ (horuf)
+Å¡ablona	negÃ¢re
+Å¡achmat	mÃ¢t
+Å¡achta	cÃ¢l
+Å¡achy	Å¡atranj
+Å¡Ã¡l	Å¡Ã¢l
+Å¡Ã¡la	Å¡Ã¢l, Å¡Ã¢l e gardan
+Å¡Ã¡lek	fenjÃ¢n
+Å¡ampaÅˆskÃ©	Å¡Ã¢mpÃ¢yn
+Å¡ampion	pahlavÃ¢n
+Å¡ampon	Å¡Ã¢mpu
+Å¡anson	sorud
+Å¡arÅ¾e	hazine
+Å¡at	lebÃ¢s
+Å¡Ã¡tek	rusari
+Å¡atnÃ¡Å™ka	lebÃ¢sdÃ¢r
+Å¡atnÃ­k	ganje, eÅ¡kÃ¢f
+Å¡aty	lebÃ¢s, lebÃ¢shÃ¢
+Å¡avle	Å¡amÅ¡ir
+Å¡edesÃ¡t	Å¡ast
+Å¡edÃ½	xÃ¢kestari
+Å¡ek	cek
+Å¡el	raft
+Å¡el jsem	raftam
+Å¡el jsi	rafti
+Å¡eÅ™Ã­k	yÃ¢s
+Å¡est	Å¡eÅ¡
+Å¡est set	Å¡eÅ¡sad
+Å¡estina	Å¡eÅ¡om
+Å¡estnÃ¡ct	Å¡Ã¢nzdah
+Å¡estÃ½	Å¡eÅ¡om
+Å¡ibenice	dÃ¢r
+Å¡ifon	pÃ¢rce ye harir e nÃ¢zok
+Å¡Ã­je	gardan
+Å¡ikovnÃ½	mÃ¢har
+Å¡Ã­lenÃ½	divÃ¢ne
+Å¡Ã­let	divÃ¢ne Å¡odan
+Å¡ilink	Å¡iling
+Å¡Ã­p	tir
+Å¡ipka	nize
+Å¡irokÃ½	goÅ¡Ã¢d
+Å¡Ã­t	duxtan
+Å¡itÃ½	duxte
+Å¡karedÃ½	zeÅ¡t
+Å¡koda	ziyÃ¢n
+Å¡kola	Ã¢muzeÅ¡gÃ¢h, madrese, dabestÃ¢n
+Å¡krob	neÅ¡Ã¢ste
+Å¡lehaÄka	xÃ¢me ye zade
+Å¡li	raftand
+Å¡li jsme	raftim
+Å¡li jste	raftid
+Å¡ortky	Å¡ort
+Å¡owhar	manÅ¾el
+Å¡patnÃ½	bad
+Å¡pendlÃ­k	sanjÃ¢q
+Å¡perkovnice	gowhardÃ¢n
+Å¡pÃ­na	cerk
+Å¡pinavÃ½	cerk
+Å¡roub	pic
+Å¡tÄ›rk	Å¡en
+Å¡tika	ordakmÃ¢hi
+Å¡tÃ­r	kaÅ¾dom
+Å¡Å¥ovÃ­k	torÅ¡ak
+Å¡unka	Å¾Ã¢mbon
+Å¡vagr	barÃ¢dar-e-zan, barÃ¢dar-e-Å¡owhar
+Å¡vagr (bratr muÅ¾e)	barÃ¢dar-e-Å¡owhar
+Å¡vagr (bratr Å¾eny)	barÃ¢dar-e-zan
+Å¡vagrovÃ¡	xÃ¢har-e-Å¡owhar, xÃ¢har-e-zan
+Å¡vagrovÃ¡ (sestra muÅ¾e)	xÃ¢har-e-Å¡owhar
+Å¡vagrovÃ¡ (sestra Å¾eny)	xÃ¢har-e-zan
+Å¡vestka	Ã¢lu
+ta	Ã¢n
+tabÃ¡k (prodejna)	tambÃ¢kuforuÅ¡i
+tady	injÃ¢
 tahle	in
-tachometr	kilometr-šomâr
-tajemství	râz
-tak	conin, candân
-také	ham, niz
-takovı	cenin
-talíø	bošqâb
-tam	ânjâ
-tamhle	ânjâ
-tamta	ân
-tamten	ân
-tamto	ân
-taška	kif
-táta	bâbâ
+tachometr	kilometr-Å¡omÃ¢r
+tajemstvÃ­	rÃ¢z
+tak	conin, candÃ¢n
+takÃ©	ham, niz
+takovÃ½	cenin
+talÃ­Å™	boÅ¡qÃ¢b
+tam	Ã¢njÃ¢
+tamhle	Ã¢njÃ¢
+tamta	Ã¢n
+tamten	Ã¢n
+tamto	Ã¢n
+taÅ¡ka	kif
+tÃ¡ta	bÃ¢bÃ¢
 tato	in
 taxa	hazine
-taxi	tâksi
-taxikáø	rânande ye tâksi
-tì	torâ
-tebe	torâ
-teï	aknun, hâlâ
-Teherán	Tehrân
-technologickı	teknoloiki
-tele	gusâle
-telecí (maso)	gušt e gusâle
+taxi	tÃ¢ksi
+taxikÃ¡Å™	rÃ¢nande ye tÃ¢ksi
+tÄ›	torÃ¢
+tebe	torÃ¢
+teÄ	aknun, hÃ¢lÃ¢
+TeherÃ¡n	TehrÃ¢n
+technologickÃ½	teknoloÅ¾iki
+tele	gusÃ¢le
+telecÃ­ (maso)	guÅ¡t e gusÃ¢le
 telefon	telefon
 telefonovat	telefon kardan
 televize	televizion, televiziyon
 televizor	televiziyon
-tìlovı pudr	kerempudr
-temnı	târik
-ten	ân
-tenhle	ân su, in
+tÄ›lovÃ½ pudr	kerempudr
+temnÃ½	tÃ¢rik
+ten	Ã¢n
+tenhle	Ã¢n su, in
 tenis	tenis
-tenisky	kafš e katâni (joft~), kafš e tenis
+tenisky	kafÅ¡ e katÃ¢ni (joft~), kafÅ¡ e tenis
 tento	in
-tentı	mesl in
-teologie	xodâšenâsi
-teplo	garmâ
-teplomìr	damâsanj
-teplı	garm
-tepna	šâhrag
-terasa	terâs
-termostat	termostât
-terylén	terlin
-tìšit se	lezzat bordan
-teta	amme‚ xâle
-teta z matèiny strany	xâle
+tentÃ½Å¾	mesl in
+teologie	xodÃ¢Å¡enÃ¢si
+teplo	garmÃ¢
+teplomÄ›r	damÃ¢sanj
+teplÃ½	garm
+tepna	Å¡Ã¢hrag
+terasa	terÃ¢s
+termostat	termostÃ¢t
+terylÃ©n	terlin
+tÄ›Å¡it se	lezzat bordan
+teta	ammeâ€š xÃ¢le
+teta z matÄiny strany	xÃ¢le
 teta z otcovy strany	amme
 text	motun
-tìkı	sangin, moškel, saxt
-tchán	pedarzan‚ pedaršowhar, pedar-e-zan‚ pedar-e-šowhar
-tchán (otec mue)	pedaršowhar, pedar-e-šowhar
-tchán (otec eny)	pedarzan, pedar-e-zan
-tchynì	mâdar-e-zan‚ mâdar-e-šowhar, mâdarzan‚ mâdaršowhar
-tchynì (matka mue)	mâdaršowhar, mâdar-e-šowhar
-tchynì (matka eny)	mâdar-e-zan, mâdarzan
+tÄ›Å¾kÃ½	sangin, moÅ¡kel, saxt
+tchÃ¡n	pedarzanâ€š pedarÅ¡owhar, pedar-e-zanâ€š pedar-e-Å¡owhar
+tchÃ¡n (otec muÅ¾e)	pedarÅ¡owhar, pedar-e-Å¡owhar
+tchÃ¡n (otec Å¾eny)	pedarzan, pedar-e-zan
+tchynÄ›	mÃ¢dar-e-zanâ€š mÃ¢dar-e-Å¡owhar, mÃ¢darzanâ€š mÃ¢darÅ¡owhar
+tchynÄ› (matka muÅ¾e)	mÃ¢darÅ¡owhar, mÃ¢dar-e-Å¡owhar
+tchynÄ› (matka Å¾eny)	mÃ¢dar-e-zan, mÃ¢darzan
 ti	beto
-ticho	ârâm
-tílko	ile
-tisíc	hezâr
-tisknout	câp kardan
-tkadlena	bâfandeh
-tkanina	bâft
-tkát	bâftan
-tleskat	âfarin goftan, kaf zadan
-tloustnout	câq šodan
-tlumoèit	tafsir kardan
-tmavá	tirerang
-tmavı	tire, târik
-to	ân
-to / je / ho (akuzativ)	ânrâ
-toaleta	tuâlet, ârâyeš
-toaletní taška / kabelka	ja'be ye abzârhâ ye ârâyeš
-toastovaè [toustovaè]	tostkon
-tobì	beto
+ticho	Ã¢rÃ¢m
+tÃ­lko	Å¾ile
+tisÃ­c	hezÃ¢r
+tisknout	cÃ¢p kardan
+tkadlena	bÃ¢fandeh
+tkanina	bÃ¢ft
+tkÃ¡t	bÃ¢ftan
+tleskat	Ã¢farin goftan, kaf zadan
+tloustnout	cÃ¢q Å¡odan
+tlumoÄit	tafsir kardan
+tmavÃ¡	tirerang
+tmavÃ½	tire, tÃ¢rik
+to	Ã¢n
+to / je / ho (akuzativ)	Ã¢nrÃ¢
+toaleta	tuÃ¢let, Ã¢rÃ¢yeÅ¡
+toaletnÃ­ taÅ¡ka / kabelka	ja'be ye abzÃ¢rhÃ¢ ye Ã¢rÃ¢yeÅ¡
+toastovaÄ [toustovaÄ]	tostkon
+tobÄ›	beto
 tohle	in
-tomu	beân
-topas	yâqut e zard
-topaz	yâqut e zard
-topení	harârat
+tomu	beÃ¢n
+topas	yÃ¢qut e zard
+topaz	yÃ¢qut e zard
+topenÃ­	harÃ¢rat
 topit	garm kardan
 toto	in
-továrna	kârxâne
-továrník	kârxânedâr
-trafika	tambâkuforuši
-tramvaj	terâmvâ
-transformátor	trânsformâtor
+tovÃ¡rna	kÃ¢rxÃ¢ne
+tovÃ¡rnÃ­k	kÃ¢rxÃ¢nedÃ¢r
+trafika	tambÃ¢kuforuÅ¡i
+tramvaj	terÃ¢mvÃ¢
+transformÃ¡tor	trÃ¢nsformÃ¢tor
 transkripce	pacin
-trávit (èas)	gozaštan
-trenér	rahbar e varzeši
-trh	bâzâr
-trhlina	šekâf
-tribuna	jâyegâh
+trÃ¡vit (Äas)	gozaÅ¡tan
+trenÃ©r	rahbar e varzeÅ¡i
+trh	bÃ¢zÃ¢r
+trhlina	Å¡ekÃ¢f
+tribuna	jÃ¢yegÃ¢h
 trochu	kami
-trpìlivost	sabr
-trubka	šipor
-trùn	taxt
-trvalá ondulace	fer
-trvání	asrâr
-tryskové letadlo	havâpeymâ ye jet
-trnice	bâzârce
-tøešeò	gilâs
-tøetí	sevom
-tøetina	som
-tøi	se
-tøi sta	sisad
-tøicet	si
-tøikrát	se bâr
-tøináct	sizdah
+trpÄ›livost	sabr
+trubka	Å¡ipor
+trÅ¯n	taxt
+trvalÃ¡ ondulace	fer
+trvÃ¡nÃ­	asrÃ¢r
+tryskovÃ© letadlo	havÃ¢peymÃ¢ ye jet
+trÅ¾nice	bÃ¢zÃ¢rce
+tÅ™eÅ¡eÅˆ	gilÃ¢s
+tÅ™etÃ­	sevom
+tÅ™etina	som
+tÅ™i	se
+tÅ™i sta	sisad
+tÅ™icet	si
+tÅ™ikrÃ¡t	se bÃ¢r
+tÅ™inÃ¡ct	sizdah
 tuba	lule
 tucet	dojin
-tuènı	carb, câq
-tulipán	lâle
-tuòák	ton
-turbína	turbin
+tuÄnÃ½	carb, cÃ¢q
+tulipÃ¡n	lÃ¢le
+tuÅˆÃ¡k	ton
+turbÃ­na	turbin
 turista	turist
-tuka	medâd
-tvar	šekl
-tváø	cehre, gune, surat
-tvíd	tuid
-tvoøit	âfaridan
-tvrdı	saxt
-tvrz	de
-tvùj	e to, -at
+tuÅ¾ka	medÃ¢d
+tvar	Å¡ekl
+tvÃ¡Å™	cehre, gune, surat
+tvÃ­d	tuid
+tvoÅ™it	Ã¢faridan
+tvrdÃ½	saxt
+tvrz	deÅ¾
+tvÅ¯j	e to, -at
 ty	to
-tıden	hafte
+tÃ½den	hafte
 tygr	babr
-tykev	kadu ye mosammâyi
+tykev	kadu ye mosammÃ¢yi
 tyrkys	firuze
-u	bedaste, nazdik, dar kenâr, dame, darpahlu
-ubrousek	dastmâl e sofre
-uctívat	parasteš kardan
-uèebnice	âmuzešnâme
-úèet	hesâb
-uèit se	âmuxtan
-uèitel	âmuzgâr
+u	bedaste, nazdik, dar kenÃ¢r, dame, darpahlu
+ubrousek	dastmÃ¢l e sofre
+uctÃ­vat	parasteÅ¡ kardan
+uÄebnice	Ã¢muzeÅ¡nÃ¢me
+ÃºÄet	hesÃ¢b
+uÄit se	Ã¢muxtan
+uÄitel	Ã¢muzgÃ¢r
 udatnost	arvandi
-udìlal	karde'ast
-udìlal jsem	karde'am
-udìlal jsi	karde'i
-udìlali	karde'and
-udìlali jsme	karde'im
-udìlali jste	karde'id
-údolí	darreh, darre
-udret	negâh dâštan
-uhel	zoqâl
-uhelnı	zoqâl
-úhlednı	ârâste
-uhlí	zoqâl
-uhlík	kârbon
-ucho	guš
-ukrást	dozdidan
-úl	kandu
-ulice	barzan, xyâbân
-ulièka	kuceh
-ultrafialovı	arqavâni
-umìlec	honarmand
-umìlı	sâxtegi, masnu'i
-umìní	honar
-umìt	balad budan, dânestan
-umírá	mimirad
-umírají	mimirand
-umírám	mimiram
-umíráme	mimirim
-umíráš	mimiri
-umíráte	mimirid
-umoòovat	momken kardan
-umıvat	šostan
-únava	xastegi ye farâvân
-univerzita	dânešgâh
-únor	fevrie
-úpal	âftâbzadagi
-upozornìní	extâr, tavajjoh
+udÄ›lal	karde'ast
+udÄ›lal jsem	karde'am
+udÄ›lal jsi	karde'i
+udÄ›lali	karde'and
+udÄ›lali jsme	karde'im
+udÄ›lali jste	karde'id
+ÃºdolÃ­	darreh, darre
+udrÅ¾et	negÃ¢h dÃ¢Å¡tan
+uhel	zoqÃ¢l
+uhelnÃ½	zoqÃ¢l
+ÃºhlednÃ½	Ã¢rÃ¢ste
+uhlÃ­	zoqÃ¢l
+uhlÃ­k	kÃ¢rbon
+ucho	guÅ¡
+ukrÃ¡st	dozdidan
+Ãºl	kandu
+ulice	barzan, xyÃ¢bÃ¢n
+uliÄka	kuceh
+ultrafialovÃ½	arqavÃ¢ni
+umÄ›lec	honarmand
+umÄ›lÃ½	sÃ¢xtegi, masnu'i
+umÄ›nÃ­	honar
+umÄ›t	balad budan, dÃ¢nestan
+umÃ­rÃ¡	mimirad
+umÃ­rajÃ­	mimirand
+umÃ­rÃ¡m	mimiram
+umÃ­rÃ¡me	mimirim
+umÃ­rÃ¡Å¡	mimiri
+umÃ­rÃ¡te	mimirid
+umoÅ¾Åˆovat	momken kardan
+umÃ½vat	Å¡ostan
+Ãºnava	xastegi ye farÃ¢vÃ¢n
+univerzita	dÃ¢neÅ¡gÃ¢h
+Ãºnor	fevrie
+Ãºpal	Ã¢ftÃ¢bzadagi
+upozornÄ›nÃ­	extÃ¢r, tavajjoh
 upozornit	barhazar kardan
-úpravnı	ârâste
-upøednostòovat	tarjih dâdan
-upøímnı	râstnamâ, pâk
-upustit od	xod dâri kardan
-úøad	edâre
-úschovna zavazadel	ambâr e asbâbhâ ye mosâferin
-ústa	dahân
-ústní voda	dahânšuy
-ústøední topení	dastgâh e harârat markazi
-ušní kapky	qatre ye guš
-úterı	sešanbe
-útes	partgâh
-utkání	mosâbeqe
+ÃºpravnÃ½	Ã¢rÃ¢ste
+upÅ™ednostÅˆovat	tarjih dÃ¢dan
+upÅ™Ã­mnÃ½	rÃ¢stnamÃ¢, pÃ¢k
+upustit od	xod dÃ¢ri kardan
+ÃºÅ™ad	edÃ¢re
+Ãºschovna zavazadel	ambÃ¢r e asbÃ¢bhÃ¢ ye mosÃ¢ferin
+Ãºsta	dahÃ¢n
+ÃºstnÃ­ voda	dahÃ¢nÅ¡uy
+ÃºstÅ™ednÃ­ topenÃ­	dastgÃ¢h e harÃ¢rat markazi
+uÅ¡nÃ­ kapky	qatre ye guÅ¡
+ÃºterÃ½	seÅ¡anbe
+Ãºtes	partgÃ¢h
+utkÃ¡nÃ­	mosÃ¢beqe
 utopit	qarq kardan
-utopit se	qarq šodan
-úvaha	fekr
-úvìrová karta	kârt e e'tebâr
-uvìøit	bâvar namudan
-uvidí	xâhad did
-uvidí (pl.)	xâhand did
-uvidím	xâham did
-uvidíme	xâhim did
-uvidíš	xâhi did
-uvidíte	xâhid did
-úvod	dibâce
+utopit se	qarq Å¡odan
+Ãºvaha	fekr
+ÃºvÄ›rovÃ¡ karta	kÃ¢rt e e'tebÃ¢r
+uvÄ›Å™it	bÃ¢var namudan
+uvidÃ­	xÃ¢had did
+uvidÃ­ (pl.)	xÃ¢hand did
+uvidÃ­m	xÃ¢ham did
+uvidÃ­me	xÃ¢him did
+uvidÃ­Å¡	xÃ¢hi did
+uvidÃ­te	xÃ¢hid did
+Ãºvod	dibÃ¢ce
 uzel	gere
-uzenáè	mâhi ye dudi
+uzenÃ¡Ä	mÃ¢hi ye dudi
 uzenka	sosis
-uzenı sleï	mâhi ye dudi
-úzkı	tang
-úasnı	bâšokuhi
-úeh	âftâbzadagi
+uzenÃ½ sleÄ	mÃ¢hi ye dudi
+ÃºzkÃ½	tang
+ÃºÅ¾asnÃ½	bÃ¢Å¡okuhi
+ÃºÅ¾eh	Ã¢ftÃ¢bzadagi
 v	dar
-v prùbìhu	hangâm
-vagon	vâgon
-váha	vazn, tarâzu
-válèit	jangidan
-válec (aut.)	silandr
-váleèné námoønictvo	niru ye daryâyi
-válka	jang
-vám	bešomâ
-Vánoce	Eyd e Milâd e Masih
-vápno	âhak
-varování	extâr
+v prÅ¯bÄ›hu	hangÃ¢m
+vagon	vÃ¢gon
+vÃ¡ha	vazn, tarÃ¢zu
+vÃ¡lÄit	jangidan
+vÃ¡lec (aut.)	silandr
+vÃ¡leÄnÃ© nÃ¡moÅ™nictvo	niru ye daryÃ¢yi
+vÃ¡lka	jang
+vÃ¡m	beÅ¡omÃ¢
+VÃ¡noce	Eyd e MilÃ¢d e Masih
+vÃ¡pno	Ã¢hak
+varovÃ¡nÃ­	extÃ¢r
 varovat	barhazar kardan
-vás	šomârâ
-váš	e šomâ, -etan
-vázanka	krâvât, dastmâl e gardan
-vazelína	vâzeline
-váná hudba	musiqi ye klâsik
-vèera	diruz
-vèera veèer	dišab
-vèetnì	šâmele
-vdìènı	motašakker
-vìc	ciz
-veèer	šab
-veèerní šaty	lebâs e šab
-veèeøe	šâm
-veèírek	mehmâni, pârti
-vìènost	zamân e bikarâne, bikarâni, abadiyat
-vìènı	bipâyân, jâvdâni, abadi
-vìda	dâneš
-vìdec	dânešmand
-vìdìl	dânest
-vìdìl jsem	dânestam
-vìdìl jsi	dânesti
-vìdìli	dânestand
-vìdìli jsme	dânestim
-vìdìli jste	dânestid
-vìdìt	dânestan
-vìdí	midânand
-vedle	nazdik, pahlu, dar kenâr
-vedoucí	modir
-vedro	garmâ
-vìdy	olum
+vÃ¡s	Å¡omÃ¢rÃ¢
+vÃ¡Å¡	e Å¡omÃ¢, -etan
+vÃ¡zanka	krÃ¢vÃ¢t, dastmÃ¢l e gardan
+vazelÃ­na	vÃ¢zeline
+vÃ¡Å¾nÃ¡ hudba	musiqi ye klÃ¢sik
+vÄera	diruz
+vÄera veÄer	diÅ¡ab
+vÄetnÄ›	Å¡Ã¢mele
+vdÄ›ÄnÃ½	motaÅ¡akker
+vÄ›c	ciz
+veÄer	Å¡ab
+veÄernÃ­ Å¡aty	lebÃ¢s e Å¡ab
+veÄeÅ™e	Å¡Ã¢m
+veÄÃ­rek	mehmÃ¢ni, pÃ¢rti
+vÄ›Änost	zamÃ¢n e bikarÃ¢ne, bikarÃ¢ni, abadiyat
+vÄ›ÄnÃ½	bipÃ¢yÃ¢n, jÃ¢vdÃ¢ni, abadi
+vÄ›da	dÃ¢neÅ¡
+vÄ›dec	dÃ¢neÅ¡mand
+vÄ›dÄ›l	dÃ¢nest
+vÄ›dÄ›l jsem	dÃ¢nestam
+vÄ›dÄ›l jsi	dÃ¢nesti
+vÄ›dÄ›li	dÃ¢nestand
+vÄ›dÄ›li jsme	dÃ¢nestim
+vÄ›dÄ›li jste	dÃ¢nestid
+vÄ›dÄ›t	dÃ¢nestan
+vÄ›dÃ­	midÃ¢nand
+vedle	nazdik, pahlu, dar kenÃ¢r
+vedoucÃ­	modir
+vedro	garmÃ¢
+vÄ›dy	olum
 vejce	toxm
-vejít	andarun šodan
-vìk	senn
-velbloud	šotor
-velice	besyâr, xeyli
-velikost	andâze
-velikı	bozorg
-velkomìsto	šahr
-velkı	bozorg
-velmi	xeyli, besyâr
+vejÃ­t	andarun Å¡odan
+vÄ›k	senn
+velbloud	Å¡otor
+velice	besyÃ¢r, xeyli
+velikost	andÃ¢ze
+velikÃ½	bozorg
+velkomÄ›sto	Å¡ahr
+velkÃ½	bozorg
+velmi	xeyli, besyÃ¢r
 ven	birun
 ventil	ventil
-vepøedu	darjelow
-vepøové (maso)	gušt e xuk
-vìøit	gomân kardan, bâvar kardan
+vepÅ™edu	darjelow
+vepÅ™ovÃ© (maso)	guÅ¡t e xuk
+vÄ›Å™it	gomÃ¢n kardan, bÃ¢var kardan
 ves	deh
-veslaøskı èlun	qâyeq e pâru zani
-vesnice	dehkâde
-vést	rahbari kardan
-vesta	ile
-vìta	jomleh
-vìtev	šâxe
-vìtší	bozorgtar
-vì	borj
+veslaÅ™skÃ½ Älun	qÃ¢yeq e pÃ¢ru zani
+vesnice	dehkÃ¢de
+vÃ©st	rahbari kardan
+vesta	Å¾ile
+vÄ›ta	jomleh
+vÄ›tev	Å¡Ã¢xe
+vÄ›tÅ¡Ã­	bozorgtar
+vÄ›Å¾	borj
 vchod	dar e vorud
-ví	midânad
-více	bištar
-vidìl	did
-vidìl jsem	didam
-vidìl jsi	didi
-vidìli	didand
-vidìli jsme	didim
-vidìli jste	didid
-vidìt	didan
-vidí	mibinad
-vidí (pl.)	mibinand
-vidím	mibinam
-vidíme	mibinim
-vidíš	mibini
-vidíte	mibinid
-vidlièka	cangâl
-víkend	pâyân e hafte
-víla	pari
-vím	midânam
-víme	midânim
-vinice	tâkestân
-vinohrad	tâkestân
-víra	gomân, imân, bâvar
-visaèka	barcasb
-víš	midâni
-víte	midânid
-vítejte	xoš âmadid
-vítr	bâd
+vÃ­	midÃ¢nad
+vÃ­ce	biÅ¡tar
+vidÄ›l	did
+vidÄ›l jsem	didam
+vidÄ›l jsi	didi
+vidÄ›li	didand
+vidÄ›li jsme	didim
+vidÄ›li jste	didid
+vidÄ›t	didan
+vidÃ­	mibinad
+vidÃ­ (pl.)	mibinand
+vidÃ­m	mibinam
+vidÃ­me	mibinim
+vidÃ­Å¡	mibini
+vidÃ­te	mibinid
+vidliÄka	cangÃ¢l
+vÃ­kend	pÃ¢yÃ¢n e hafte
+vÃ­la	pari
+vÃ­m	midÃ¢nam
+vÃ­me	midÃ¢nim
+vinice	tÃ¢kestÃ¢n
+vinohrad	tÃ¢kestÃ¢n
+vÃ­ra	gomÃ¢n, imÃ¢n, bÃ¢var
+visaÄka	barcasb
+vÃ­Å¡	midÃ¢ni
+vÃ­te	midÃ¢nid
+vÃ­tejte	xoÅ¡ Ã¢madid
+vÃ­tr	bÃ¢d
 vlajka	parcam
-vlak	qatâr
-vlakové nádraí	istgâh e râh e âhan
-vlakové spojení	qatâr e ettesâli
-vlakovı jízdní øád	barnâme ye harakat e qatârhâ
+vlak	qatÃ¢r
+vlakovÃ© nÃ¡draÅ¾Ã­	istgÃ¢h e rÃ¢h e Ã¢han
+vlakovÃ© spojenÃ­	qatÃ¢r e ettesÃ¢li
+vlakovÃ½ jÃ­zdnÃ­ Å™Ã¡d	barnÃ¢me ye harakat e qatÃ¢rhÃ¢
 vlas	mu
 vlast	vatan
-vlastnictví	mâlekiyat
-vlašskı oøech	gerdu
-vlanı	velarm
+vlastnictvÃ­	mÃ¢lekiyat
+vlaÅ¡skÃ½ oÅ™ech	gerdu
+vlaÅ¾nÃ½	velarm
 vlk	gorg
-vlna	pašm
-vloni	pârsâl
-vnì	birun
-voda	âb
-voda po holení	losiyon e pas az riš tarâši
-vodopád	âbšâr
-vodotrysk	favâre
-voják	sarbâz
-vojsko	arteš, sepâh, lašgar
-volnost	âzâdi
-volnı	xâli, âzâd
-voòavka	atr
+vlna	paÅ¡m
+vloni	pÃ¢rsÃ¢l
+vnÄ›	birun
+voda	Ã¢b
+voda po holenÃ­	losiyon e pas az riÅ¡ tarÃ¢Å¡i
+vodopÃ¡d	Ã¢bÅ¡Ã¢r
+vodotrysk	favÃ¢re
+vojÃ¡k	sarbÃ¢z
+vojsko	arteÅ¡, sepÃ¢h, laÅ¡gar
+volnost	Ã¢zÃ¢di
+volnÃ½	xÃ¢li, Ã¢zÃ¢d
+voÅˆavka	atr
 vosa	zanbur
-vousy	riš
-vpøed	jelow
-vpøedu	darjelow
-vrak	lâše
-vrada	âdamkoši
+vousy	riÅ¡
+vpÅ™ed	jelow
+vpÅ™edu	darjelow
+vrak	lÃ¢Å¡e
+vraÅ¾da	Ã¢damkoÅ¡i
 vrba	bid
-vrtulník	helikopter
-vøed	domal, kurak
-vøed (alud.)	zaxm e šekam
-vøelı	garm
-vstoupit	andarun šodan
+vrtulnÃ­k	helikopter
+vÅ™ed	domal, kurak
+vÅ™ed (Å¾alud.)	zaxm e Å¡ekam
+vÅ™elÃ½	garm
+vstoupit	andarun Å¡odan
 vstup	andarun, dar e vorud
 vstupenka	belit
-vstupenka na nástupištì	belit e saku
-vstupní dveøe	dar e vorud
-vše	tamâm, hame, yeksare
-všechno	hame ciz, hame, hamegi
-vteøina	sâniye
-vùdce	rahbar
-vùle	erâde, erâdat, ârzu
-vùnì	bu
-vuøt	sosis
-vùz	vâgon
-vy	šomâ
-vıbornı	âli
-vyèerpanost	xastegi ye farâvân
-vıdejna jízdenek	bâje ye foruš e belit
-vydírání	bâj
-vydírat	bâj gereftan
-vyhláška	tavajjoh
-vıhoda	sud, estefâde, bahrevari
-vıhodnost	bahrevari
-vyhrát	barande šodan
-vyhrazenı	rezerv šode
-vıchod	xorâsân, xoruj, xâvar
-vıchod (dveøe)	dar e xoruj
-vıchodní	xorâsân
-vychutnávat	lezzat bordan
-vyjádøení akuzativu	râ
-vyjádøení dativu	be
-vyjádøení genitivu	e
-vıjezd	xoruj
-vıjezdní	xoruj
-vıkladní skøíò	vitrin e maqâze
-vıkres	kâqaz e naqqâši
-vylekanı	tarside
-vylekat	tarsândan
-vylézt	birun xazidan
-vıloha	vitrin e maqâze
-vymyšlenı	sâxtegi
-vıòatek	xolâse
-vyndat	dar âvardan
-vyndávat	dar âvardan
-vynikající	âli
-vypálit	âtaš zadan
-vıpary	bexârât
-vypìstovat	kâštan
-vypínat	xâmuš kardan
-vypláchnout	bâ'âb šostan
-vyplòovat	por kardan
-vypnout	xâmuš kardan
+vstupenka na nÃ¡stupiÅ¡tÄ›	belit e saku
+vstupnÃ­ dveÅ™e	dar e vorud
+vÅ¡e	tamÃ¢m, hame, yeksare
+vÅ¡echno	hame ciz, hame, hamegi
+vteÅ™ina	sÃ¢niye
+vÅ¯dce	rahbar
+vÅ¯le	erÃ¢de, erÃ¢dat, Ã¢rzu
+vÅ¯nÄ›	bu
+vuÅ™t	sosis
+vÅ¯z	vÃ¢gon
+vy	Å¡omÃ¢
+vÃ½bornÃ½	Ã¢li
+vyÄerpanost	xastegi ye farÃ¢vÃ¢n
+vÃ½dejna jÃ­zdenek	bÃ¢je ye foruÅ¡ e belit
+vydÃ­rÃ¡nÃ­	bÃ¢j
+vydÃ­rat	bÃ¢j gereftan
+vyhlÃ¡Å¡ka	tavajjoh
+vÃ½hoda	sud, estefÃ¢de, bahrevari
+vÃ½hodnost	bahrevari
+vyhrÃ¡t	barande Å¡odan
+vyhrazenÃ½	rezerv Å¡ode
+vÃ½chod	xorÃ¢sÃ¢n, xoruj, xÃ¢var
+vÃ½chod (dveÅ™e)	dar e xoruj
+vÃ½chodnÃ­	xorÃ¢sÃ¢n
+vychutnÃ¡vat	lezzat bordan
+vyjÃ¡dÅ™enÃ­ akuzativu	rÃ¢
+vyjÃ¡dÅ™enÃ­ dativu	be
+vyjÃ¡dÅ™enÃ­ genitivu	e
+vÃ½jezd	xoruj
+vÃ½jezdnÃ­	xoruj
+vÃ½kladnÃ­ skÅ™Ã­Åˆ	vitrin e maqÃ¢ze
+vÃ½kres	kÃ¢qaz e naqqÃ¢Å¡i
+vylekanÃ½	tarside
+vylekat	tarsÃ¢ndan
+vylÃ©zt	birun xazidan
+vÃ½loha	vitrin e maqÃ¢ze
+vymyÅ¡lenÃ½	sÃ¢xtegi
+vÃ½Åˆatek	xolÃ¢se
+vyndat	dar Ã¢vardan
+vyndÃ¡vat	dar Ã¢vardan
+vynikajÃ­cÃ­	Ã¢li
+vypÃ¡lit	Ã¢taÅ¡ zadan
+vÃ½pary	bexÃ¢rÃ¢t
+vypÄ›stovat	kÃ¢Å¡tan
+vypÃ­nat	xÃ¢muÅ¡ kardan
+vyplÃ¡chnout	bÃ¢'Ã¢b Å¡ostan
+vyplÅˆovat	por kardan
+vypnout	xÃ¢muÅ¡ kardan
 vypravovat	goftan
-vyprodáno	forušrafte
-vırobek	sâxte
-vıroèí	sâlgard
-vırok	azhâr
-vıslovnost	talaffoz
-vyslovovat	adâ kardan
-vysoká škola	dânešgâh
-vysokı	boland
-vysoušeè vlasù	muxoškkon
-vyspìlost	mehtari, bornâyi
-vıstava	namâyešgâh
-vıstraha	extâr
-vystrašenı	tarside
-vıtah	âsânsor
-vytápìní	harârat
-vıvar	âbgušt
-vyvolat	birun kašidan, farâxândan
-vyzkoušet	emtehân kardan
-vyznání	mezhab
-vzadu	dirtar az, pošte sar
-vzduch	havâ
-vzít si	gereftan, bordan
-vdy	hamiše
-WC	tuâlet
-z	xâmuš, jodâ, az, durtar
-z druhé ruky (second hand)	dast e dovom
-za	barâye inke, pošte sar, darpey, pošt, dirtar az
-za (trvání)	hangâm
+vyprodÃ¡no	foruÅ¡rafte
+vÃ½robek	sÃ¢xte
+vÃ½roÄÃ­	sÃ¢lgard
+vÃ½rok	azhÃ¢r
+vÃ½slovnost	talaffoz
+vyslovovat	adÃ¢ kardan
+vysokÃ¡ Å¡kola	dÃ¢neÅ¡gÃ¢h
+vysokÃ½	boland
+vysouÅ¡eÄ vlasÅ¯	muxoÅ¡kkon
+vyspÄ›lost	mehtari, bornÃ¢yi
+vÃ½stava	namÃ¢yeÅ¡gÃ¢h
+vÃ½straha	extÃ¢r
+vystraÅ¡enÃ½	tarside
+vÃ½tah	Ã¢sÃ¢nsor
+vytÃ¡pÄ›nÃ­	harÃ¢rat
+vÃ½var	Ã¢bguÅ¡t
+vyvolat	birun kaÅ¡idan, farÃ¢xÃ¢ndan
+vyzkouÅ¡et	emtehÃ¢n kardan
+vyznÃ¡nÃ­	mezhab
+vzadu	dirtar az, poÅ¡te sar
+vzduch	havÃ¢
+vzÃ­t si	gereftan, bordan
+vÅ¾dy	hamiÅ¡e
+WC	tuÃ¢let
+z	xÃ¢muÅ¡, jodÃ¢, az, durtar
+z druhÃ© ruky (second hand)	dast e dovom
+za	barÃ¢ye inke, poÅ¡te sar, darpey, poÅ¡t, dirtar az
+za (trvÃ¡nÃ­)	hangÃ¢m
 zabalit	picidan
-zábava	sargami
-záblesk	nur e kam
-zaèátek	ebtedâ
-zaèínat	âqâz kardan
-zaèít	âqâz namudan
-záï (místo vzadu)	nešimangâh
-záda	pošt
-zahrada	bâq
-zahrádka	baqce
-zahradní	bâqi
-záchod	tuâlet
-zachovávat	negâh dâštan
-záchrana	nejât
-zajíc	xarguš e sahrâyi
-zákaz	bâzdâri
-zákaz zastavení	tavaqqof mamnu
-zakázanı	mamnu
-zákaznictvo	gomrok
-zákon	qânun
-zákusek	keyk
-záliv	xalij
-zámek	kâx
-zamilovanı	kerešme
-zánìt	eltehâb
-zánìt kloubù	bâd e mafâsel
-západ	bâxtar
-zápach	bu ye bad
-zápal	eltehâb
-zápal plic	sinepahlu
-zapalovaè	fandak
-zapalování	girboks
-zápas	mosâbeqe
-zápìstí	moc
-zápisník	daftarce
-Zarathuštra	Zartošt
-záøí	septâmbr
-zasáhnout	asar kardan
-zásobit palivem	suxtgiri kardan
-zastav	negâh dâr
-zástava	parcam
-zastavení	tavaqqof
-zastávka	ist
-zastavovat	negâh dâštan
-zásyp (kosmetickı)	kerempudr
-zatím	hanuz
-zatmìní slunce	âftâbgereftegi
-zavazadlo	jâmedân, asbâb, bâr e safar
-zavírá	mibandad
-zavírají	mibandand
-zavíral	mibast
-zavíral jsem	minbastam, mibastam
-zavíral jsi	minbasti, mibasti
-zavírali	mibastand
-zavírali jsme	mibastim
-zavírali jste	mibastid
-zavírám	mibandam
-zavíráme	mibandim
-zavíráš	mibandi
-zavírat	bastan
-zavíráte	mibandid
-zavøel	bast
-zavøel jsem	bastam
-zavøel jsi	basti
-zavøeli	bastand
-zavøeli jsme	bastim
-zavøeli jste	bastid
-zavøenı	baste
-záeh	barfak, girboks
-zaívací potíe	badgovâreši
-zbít	zadan
-zboòovat	parastidan
-zbytek	bâqi
-zdát se	xâb didan, namudan, nemudan
-zde	injâ
-zdráhat se	bad dânestan
-zdraví	hâl
-zdravotní støedisko	darmângâh
+zÃ¡bava	sargami
+zÃ¡blesk	nur e kam
+zaÄÃ¡tek	ebtedÃ¢
+zaÄÃ­nat	Ã¢qÃ¢z kardan
+zaÄÃ­t	Ã¢qÃ¢z namudan
+zÃ¡Ä (mÃ­sto vzadu)	neÅ¡imangÃ¢h
+zÃ¡da	poÅ¡t
+zahrada	bÃ¢q
+zahrÃ¡dka	baqce
+zahradnÃ­	bÃ¢qi
+zÃ¡chod	tuÃ¢let
+zachovÃ¡vat	negÃ¢h dÃ¢Å¡tan
+zÃ¡chrana	nejÃ¢t
+zajÃ­c	xarguÅ¡ e sahrÃ¢yi
+zÃ¡kaz	bÃ¢zdÃ¢ri
+zÃ¡kaz zastavenÃ­	tavaqqof mamnu
+zakÃ¡zanÃ½	mamnu
+zÃ¡kaznictvo	gomrok
+zÃ¡kon	qÃ¢nun
+zÃ¡kusek	keyk
+zÃ¡liv	xalij
+zÃ¡mek	kÃ¢x
+zamilovanÃ½	kereÅ¡me
+zÃ¡nÄ›t	eltehÃ¢b
+zÃ¡nÄ›t kloubÅ¯	bÃ¢d e mafÃ¢sel
+zÃ¡pad	bÃ¢xtar
+zÃ¡pach	bu ye bad
+zÃ¡pal	eltehÃ¢b
+zÃ¡pal plic	sinepahlu
+zapalovaÄ	fandak
+zapalovÃ¡nÃ­	girboks
+zÃ¡pas	mosÃ¢beqe
+zÃ¡pÄ›stÃ­	moc
+zÃ¡pisnÃ­k	daftarce
+ZarathuÅ¡tra	ZartoÅ¡t
+zÃ¡Å™Ã­	septÃ¢mbr
+zasÃ¡hnout	asar kardan
+zÃ¡sobit palivem	suxtgiri kardan
+zastav	negÃ¢h dÃ¢r
+zÃ¡stava	parcam
+zastavenÃ­	tavaqqof
+zastÃ¡vka	ist
+zastavovat	negÃ¢h dÃ¢Å¡tan
+zÃ¡syp (kosmetickÃ½)	kerempudr
+zatÃ­m	hanuz
+zatmÄ›nÃ­ slunce	Ã¢ftÃ¢bgereftegi
+zavazadlo	jÃ¢medÃ¢n, asbÃ¢b, bÃ¢r e safar
+zavÃ­rÃ¡	mibandad
+zavÃ­rajÃ­	mibandand
+zavÃ­ral	mibast
+zavÃ­ral jsem	minbastam, mibastam
+zavÃ­ral jsi	minbasti, mibasti
+zavÃ­rali	mibastand
+zavÃ­rali jsme	mibastim
+zavÃ­rali jste	mibastid
+zavÃ­rÃ¡m	mibandam
+zavÃ­rÃ¡me	mibandim
+zavÃ­rÃ¡Å¡	mibandi
+zavÃ­rat	bastan
+zavÃ­rÃ¡te	mibandid
+zavÅ™el	bast
+zavÅ™el jsem	bastam
+zavÅ™el jsi	basti
+zavÅ™eli	bastand
+zavÅ™eli jsme	bastim
+zavÅ™eli jste	bastid
+zavÅ™enÃ½	baste
+zÃ¡Å¾eh	barfak, girboks
+zaÅ¾Ã­vacÃ­ potÃ­Å¾e	badgovÃ¢reÅ¡i
+zbÃ­t	zadan
+zboÅ¾Åˆovat	parastidan
+zbytek	bÃ¢qi
+zdÃ¡t se	xÃ¢b didan, namudan, nemudan
+zde	injÃ¢
+zdrÃ¡hat se	bad dÃ¢nestan
+zdravÃ­	hÃ¢l
+zdravotnÃ­ stÅ™edisko	darmÃ¢ngÃ¢h
 zdrhovadlo	zip
-zdret se	xod dâri kardan
-zdvi	âsânsor
-zelené fazole	lubiyâ ye sabz
+zdrÅ¾et se	xod dÃ¢ri kardan
+zdviÅ¾	Ã¢sÃ¢nsor
+zelenÃ© fazole	lubiyÃ¢ ye sabz
 zelenina	sabzi
-zelenı	sabz
-zelí	kalampic
-zemì	zamin
-zemì‚ stát	kešvar
-zemìpis	joqrâfiyâ
-zemìtøesení	zaminlarze
-zemøel	mord
-zemøel jsem	mordam
-zemøel jsi	mordi
-zemøeli	mordand
-zemøeli jsme	mordim
-zemøeli jste	mordid
-zemøít	mordan
-zesilovaè	bolandgu
-ze	dâmâd
-zima	zemestân
+zelenÃ½	sabz
+zelÃ­	kalampic
+zemÄ›	zamin
+zemÄ›â€š stÃ¡t	keÅ¡var
+zemÄ›pis	joqrÃ¢fiyÃ¢
+zemÄ›tÅ™esenÃ­	zaminlarze
+zemÅ™el	mord
+zemÅ™el jsem	mordam
+zemÅ™el jsi	mordi
+zemÅ™eli	mordand
+zemÅ™eli jsme	mordim
+zemÅ™eli jste	mordid
+zemÅ™Ã­t	mordan
+zesilovaÄ	bolandgu
+zeÅ¥	dÃ¢mÃ¢d
+zima	zemestÃ¢n
 zinek	ruy
 zip	zip
-zisk	fâyede
-zítra	fardâ
-zkouška	âzmâyeš
-zkrachovalı	varšekaste
-zkrotit	sarkubi kardan, forunešândan
-zkusit	âzmudan
-zlatá	zarrin
+zisk	fÃ¢yede
+zÃ­tra	fardÃ¢
+zkouÅ¡ka	Ã¢zmÃ¢yeÅ¡
+zkrachovalÃ½	varÅ¡ekaste
+zkrotit	sarkubi kardan, foruneÅ¡Ã¢ndan
+zkusit	Ã¢zmudan
+zlatÃ¡	zarrin
 zlato	zar
-zlepšit	behtar nemudan
-zlodìj	dozd
-zlomit	šekastan
-zlost	xašm
-zlı	šarir, šum, ziyânâvar, bad
+zlepÅ¡it	behtar nemudan
+zlodÄ›j	dozd
+zlomit	Å¡ekastan
+zlost	xaÅ¡m
+zlÃ½	Å¡arir, Å¡um, ziyÃ¢nÃ¢var, bad
 zmrzlina	bastani
-znak	alâmat
-znalec	kârdân
-znalost	dâneš
-znamení	nešâne
-znaménko	alâmat
-známka	tambr e post
-znát	dânestan, šenâxtan
-znával	midânest
-znával jsem	midânestam
-znával jsi	midânesti
-znávali	midânestand
-znávali jsme	midânestim
-znávali jste	midânestid
-znovu	bâz, dobâre
-zoo	dadânbâq, bâq e vahš
-zoologická zahrada	bâq e vahš, dadânbâq
-zoologie	jânvaršenâsi
-Zoroaster	Zartošt
-zpìv	sorud
-zpívat	sarâyidan, xândan, âvâz xândan
+znak	alÃ¢mat
+znalec	kÃ¢rdÃ¢n
+znalost	dÃ¢neÅ¡
+znamenÃ­	neÅ¡Ã¢ne
+znamÃ©nko	alÃ¢mat
+znÃ¡mka	tambr e post
+znÃ¡t	dÃ¢nestan, Å¡enÃ¢xtan
+znÃ¡val	midÃ¢nest
+znÃ¡val jsem	midÃ¢nestam
+znÃ¡val jsi	midÃ¢nesti
+znÃ¡vali	midÃ¢nestand
+znÃ¡vali jsme	midÃ¢nestim
+znÃ¡vali jste	midÃ¢nestid
+znovu	bÃ¢z, dobÃ¢re
+zoo	dadÃ¢nbÃ¢q, bÃ¢q e vahÅ¡
+zoologickÃ¡ zahrada	bÃ¢q e vahÅ¡, dadÃ¢nbÃ¢q
+zoologie	jÃ¢nvarÅ¡enÃ¢si
+Zoroaster	ZartoÅ¡t
+zpÄ›v	sorud
+zpÃ­vat	sarÃ¢yidan, xÃ¢ndan, Ã¢vÃ¢z xÃ¢ndan
 zpod	azzir, zirin
-zpodìní	taxir
-zranit	âsib rasândan
-zrní	dâne
-zrno	dâne
-ztrácet	gom kardan
-zub	dandân
-zubaø	dandânpezešk
-zubní kartáèek	dandânšuy
-zubní lékaø	dandânpezešk
-zubní pasta	xamir e dandân
-zùstat	mânidan
-zváit	vazn kardan
-zvítìzit	barande šodan
-zvláštní	vie, sâxtegi
+zpoÅ¾dÄ›nÃ­	taxir
+zranit	Ã¢sib rasÃ¢ndan
+zrnÃ­	dÃ¢ne
+zrno	dÃ¢ne
+ztrÃ¡cet	gom kardan
+zub	dandÃ¢n
+zubaÅ™	dandÃ¢npezeÅ¡k
+zubnÃ­ kartÃ¡Äek	dandÃ¢nÅ¡uy
+zubnÃ­ lÃ©kaÅ™	dandÃ¢npezeÅ¡k
+zubnÃ­ pasta	xamir e dandÃ¢n
+zÅ¯stat	mÃ¢nidan
+zvÃ¡Å¾it	vazn kardan
+zvÃ­tÄ›zit	barande Å¡odan
+zvlÃ¡Å¡tnÃ­	viÅ¾e, sÃ¢xtegi
 zvon	zang
 zvonek	zangole
 zvonit	zang zadan
-zvrhlı	fâsad
-zvuènı	sedâdâr
-zvuk	sedâ
-zvukovı	âvâdâr
-zvyk	âdab
- (hláska)	 (horuf)
-ádnı	hic
-ák	dânešâmuz
-ákovskı	dânešâmuzi
-ákynì	šâgard
-aloba	šekâyat
-ár	tâbeš
-árovka	lâmp
-e	ke
-ebro	dande
-ehlièka	otu
-ehnat	barekat dâdan, yaštan, bâlestan
-elatina	elâtin
-elezáøství	âhanforuši
-elezitı	âhani
-eleznièní stanice	istgâh e râh e âhan
-eleznı	âhani
-elezo	âhan
-ena	zan
-enskı	zanâne
-enství	zanânegi
-id	yahudi
-idle	sandali
-íla	siyâhrag
-iletka	xodtarâš, tiq
-ínka	espanj
-irafa	zarrafe
-ít	zistan
-ivot	jân, zendegi, hayât
-ivı	zende
-íznivı	tešne
-láza	qodde
-luè	zahre, zardâb
-lutohnìdá	zard e kamrang
-lutı	zard
-olík	oker
-upan	kot e xânegi
+zvrhlÃ½	fÃ¢sad
+zvuÄnÃ½	sedÃ¢dÃ¢r
+zvuk	sedÃ¢
+zvukovÃ½	Ã¢vÃ¢dÃ¢r
+zvyk	Ã¢dab
+Å¾ (hlÃ¡ska)	Å¾ (horuf)
+Å¾Ã¡dnÃ½	hic
+Å¾Ã¡k	dÃ¢neÅ¡Ã¢muz
+Å¾Ã¡kovskÃ½	dÃ¢neÅ¡Ã¢muzi
+Å¾Ã¡kynÄ›	Å¡Ã¢gard
+Å¾aloba	Å¡ekÃ¢yat
+Å¾Ã¡r	tÃ¢beÅ¡
+Å¾Ã¡rovka	lÃ¢mp
+Å¾e	ke
+Å¾ebro	dande
+Å¾ehliÄka	otu
+Å¾ehnat	barekat dÃ¢dan, yaÅ¡tan, bÃ¢lestan
+Å¾elatina	Å¾elÃ¢tin
+Å¾elezÃ¡Å™stvÃ­	Ã¢hanforuÅ¡i
+Å¾elezitÃ½	Ã¢hani
+Å¾elezniÄnÃ­ stanice	istgÃ¢h e rÃ¢h e Ã¢han
+Å¾eleznÃ½	Ã¢hani
+Å¾elezo	Ã¢han
+Å¾ena	zan
+Å¾enskÃ½	zanÃ¢ne
+Å¾enstvÃ­	zanÃ¢negi
+Å¾id	yahudi
+Å¾idle	sandali
+Å¾Ã­la	siyÃ¢hrag
+Å¾iletka	xodtarÃ¢Å¡, tiq
+Å¾Ã­nka	espanj
+Å¾irafa	zarrafe
+Å¾Ã­t	zistan
+Å¾ivot	jÃ¢n, zendegi, hayÃ¢t
+Å¾ivÃ½	zende
+Å¾Ã­znivÃ½	teÅ¡ne
+Å¾lÃ¡za	qodde
+Å¾luÄ	zahre, zardÃ¢b
+Å¾lutohnÄ›dÃ¡	zard e kamrang
+Å¾lutÃ½	zard
+Å¾olÃ­k	Å¾oker
+Å¾upan	kot e xÃ¢negi
 
-All rights reserved. © 2002 Libor Sztemon, Havíøov
+All rights reserved. Â© 2002 Libor Sztemon, HavÃ­Å™ov
 E-mail: liborsen@quick.cz; http://www.sweb.cz/ls78/libor.htm
