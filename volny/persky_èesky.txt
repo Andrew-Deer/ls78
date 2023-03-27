@@ -1,0 +1,1814 @@
+-am	muj
+-as	jeho
+-at	tvuj
+-eman	nas
+-esan	jejich
+-etan	vas
+-i	neurcity clen (jeden, nejaky, jisty)
+-yi	neurcity clen (jeden, nejaky, jisty) po samohlasce
+ab	voda
+ab e asamidani	pitna voda
+Aban	23. rijen - 21. listopad
+abar	pres
+abi	modry
+abjo	pivo
+abr	mrak
+abrisom	hedvabi
+abru	oboci
+absar	vodopad
+abzar	naradi
+ada kardan	vyslovovat
+adab	zvyk
+adad	cislo
+adam e ahani	robot
+adamkosi	vrazda
+adas	cocka
+adel	spravedlivy
+adi	normalni
+Adine	patek
+adres	adresa
+afaridan	tvorit
+afarin goftan	tleskat, aplaudovat
+afat	pohroma
+Afqanestan	Afghanistan
+afsordegi	deprese
+aftabsuxtegi	opaleni, spaleni (slun.)
+aftabzadagi	uzeh, upal
+agahi	informace
+agar	jestli
+agarce	prestoze
+ah!	ach!
+ahak	vapno
+ahan	zelezo
+ahani	zelezny
+aheste	pomaly, pomalu
+ahriman	cert, dabel
+ajor	cihla
+alak	sito
+alamat	znamenko, znak
+alefba	abeceda
+alerzi	alergie
+ales	buk
+ali	vyborny
+Alman	Nemecko
+almani	nemecky
+alu	svestka
+amadan	prichazet, prijit
+amas	otok
+ambar e asbabha ye mosaferin	uschovna zavazadel
+amma	avsak
+amme	teta z otcovy strany
+amme_ xale	teta
+ammu	stryc, stryc z otcovy strany
+Amordad	23. cervenec - 22. srpen
+amrud	hruska
+amuxtan	ucit se
+amuzgar	ucitel
+an	ono, ten, ta, to, tamten, tamta, tamto
+an su	tenhle
+ananas	ananas
+anar	granatove jablko
+anbar	stodola
+andar	mezi
+andarun	vstup
+andarun sodan	vstoupit, vejit
+andaze	velikost
+andisidan	myslet
+anduh	smutek
+anfluanza	chripka
+angost	prst
+angost e pa	prst u nohy
+angostar	prsten
+angur	hrozen
+angur e farangi	angrest
+anha	oni, ony, ona (pl.)
+anhara	je (akuzativ zajmena)
+anja	tam, tamhle
+anjir	fik
+anra	to / je / ho (akuzativ)
+antibiyotik	antibiotikum, antibioticky
+apandis	apendix
+aqa	pan
+aqayan	pani, panove
+aqiq e soleymani	onyx
+Arab	Arab
+arabi	arabsky
+aram	ticho, klidny
+aranj	loket
+Araq	Irak
+arayesgah	holicstvi
+arayesgah e zanane	kadernictvi
+ard	mouka
+are	ano
+arezu kardan	prat
+ari	ano
+arqavani	ultrafialovy
+arre	pilka
+arsiv	archiv
+artiso	artycok
+artroz	artroza
+arzan	levny, laciny
+arzantar	levnejsi
+arzantarin	nejlevnejsi
+arzes	hodnota
+as	eso
+asab	nerv
+asabani	rozhnevany
+asabi	nervovy
+asal	med
+asansor	vytah, zdviz
+asb	kun
+asbab	zavazadlo
+asbab e baziforusi	hrackarstvi
+asbab e dast	rucni zavazadlo
+asman	nebe
+asmani	nebesky
+asprin	aspirin
+astar	podsivka
+astin	rukav
+as	polevka
+asamidan	pit
+ask	slza
+asnayi	seznameni (se), poznani
+atas	ohen
+atasin	ohnivy, horky
+atiqe	anticky
+atr	vonavka, parfem
+atraf	okolo, kolem
+avardan	prinest, prinaset
+avares	domov
+Avril	duben
+axar	konec
+ayinname	narizeni, predpis
+az	z, od, nez
+azad	svobodny, volny
+azadi	svoboda, volnost
+Azar	22. listopad - 21. prosinec
+azmiyan	skrz, pres
+azole	sval
+azxodbixodsodegi	extaze
+azzir	zpod
+azans e mosaferati	cestovni kancelar
+ba	s
+ba'adaz	po (lokal)
+baba	tata
+bacce	dite, ditko
+bad	spatny, zly
+bad	vitr
+bad danestan	zdrahat se
+bad e fatq	kyla
+bad e mafasel	artritida, zanet kloubu
+badam	mandle
+badamak	mandle (anat.)
+badbadak	drak
+badbaxt	neblahy, nechvalny, neradostny
+badenjan	baklazan, lilek (jedly)
+badgovaresi	zazivaci potize
+badtar	horsi
+badtarin	nejhorsi
+baftan	tkat, spradat
+baha	cena, hodnota
+bahar	jaro
+Bahman	21. leden - 19. unor
+baje ye forus e belit	vydejna jizdenek
+bal	kridlo
+bala	nahoru
+balad budan	ovladat, umet
+balapus	kombineza
+balaye	nad
+bale	ano
+balkon	balkon
+bam	strecha
+banafs	fialovy
+band	pouto
+band e saat	pasek (hod.)
+band e zaxm	obvaz, obinadlo
+bandar	pristav
+bank	banka
+banu	dama
+banuvan	damy
+baq	zahrada
+baq e vahs	zoologicka zahrada, zoo
+bar	na
+bar e safar	zavazadlo
+baradar	bratr
+baradar e sowhar	svagr, svagr (bratr muze)
+baradar e zan	svagr, svagr (bratr zeny)
+baramadegi ye lowze	angina
+baran	dest
+barande sodan	vyhrat, zvitezit
+barani	plastenka
+baraye	pro
+baraye forus	na prodej
+baraye inke	pro, za
+barcasb	cedulka, visacka, etiketa
+barf	snih
+barfpakkon	sterac
+barname	program
+barname nevestan	programovat
+barre	jehne, beranek
+bartar	nad
+bas	dost
+baseda	samohlaska
+bastan	zavirat
+bastani	zmrzlina
+baste	zavreny
+basokuhi	bajecny, uzasny
+batri	baterie
+bavar	vira, duvera
+bavasir	hemoroidy
+baxtar	zapad
+bayad	muset, nutno
+baz	znovu, otevreny
+bazar	trh, bazar
+bazarce	trznice
+bazi	hra
+bazi kardan	hrat
+bazu	paze
+be	vyjadreni dativu, do, k, smerem k
+be anha	jim
+be asani	snadno
+be isan	jim (pro osoby)
+be omid e didar	na videnou, na shledanou
+bean	onomu, tomu
+bebaxsid	prominte
+bedaste	u, pri
+bedun	bez
+behtar	lepsi
+behtarin	nejlepsi
+behtaring	nejlepsi
+beldercin	krepelka
+belit	jizdenka, listek, vstupenka
+belit e saku	vstupenka na nastupiste
+bema	nam
+beman	mne, mi
+benus	napij se
+benzin	benzin
+berke	rybnik
+besuye	k, do, smerem k
+besyar	velmi, velice, dostatek
+besoma	vam
+beto	tobe, ti
+beu	jemu
+beyn	mezi
+beyzi	oval
+bi	bez
+bi-	bez-
+biftek	biftek
+bigudi	natacka
+bimarestan	nemocnice
+bini	nos
+birang	bezbarvy
+birun	vne, ven
+bist	dvacet
+bis az andaze	nesmirne
+bise	les
+bistar	vice
+bluz	mikina
+boland	vysoky, hlasity, halasny
+bolandgu	zesilovac
+bongah e mosaferati	cestovni kancelar
+bord	rezal
+bordan	brat, vzit si
+boridan	rezat
+boske	sud
+botri	lahev
+bozorg	velky, veliky
+bozorgtar	vetsi
+bozorgtarin	nejvetsi
+brij	bridz (hra)
+bros	kartac
+bros e naxon	kartacek na nehty
+budan	byt
+bufe	bufet
+buq	klakson
+buqalamun	krocan, kruta
+c (horuf)	c (hlaska)
+cador	stan
+cahar	ctyri
+cahardah	ctrnact
+cahargus	ctverec
+caharom	ctvrtina, ctvrty
+caharrah	krizovatka
+caharsad	ctyri sta
+Caharsanbe	streda
+cakavak	skrivan
+cal	sachta
+cand	kolik, jak mnoho, nekolik, jaky
+cane	brada
+cangzan	sponka
+cap	levy
+carm	kuze
+carmi	kozeny
+carx	kolo
+casb	lepidlo
+casb e zaxm	naplast, leukoplast
+casbandan	lepit
+cay	caj
+ce	co, jaky, ktery
+cegune	jak
+cehel	ctyricet
+cehre	tvar, oblicej
+cek	sek
+Ceki	cesky
+cenin	takovy
+ceqadr	kolik
+cera	proc
+ceraq	lampa
+ceraq e rahnama	blikac
+cerk	spinavy, necistotny, spina, necisty
+cerkkardegi	nakaza, infekce
+cesm	oko
+cetor	jak
+ci	co, jaky, ktery
+cidan	aranzovat
+cips	bramburky
+cistan	hadanka
+ciz	vec
+cizi	neco
+con	pro(toze)
+conke	protoze, ponevadz
+coqandar	repa
+cowgan	raketa (tenisova)
+dabestan	skola
+dadan	dat, davat
+dadanbaq	zoologicka zahrada, zoo
+daftar e nesani	adresar
+daftar e pisnevis	sesit
+daftarce	zapisnik, notes
+dah	deset
+dahan	usta
+dahansuy	ustni voda
+dahom	desetina
+dahsale	desetileti
+dam	lecka, past
+damad	zet
+daman	sukne
+damaq	nos
+damasanj	teplomer
+dame	u, pri
+dampayi	backora, pantofel
+dandan	zub
+dandanpezesk	zubar, dentista, zubni lekar
+dandansuy	zubni kartacek, kartacek na zuby
+dande	zebro, soukoli
+danestan	vedet, znat, umet
+danes	znalost, veda
+danesgah	univerzita, vysoka skola
+danesju	student
+danesmand	vedec
+daqiqe	minuta
+dar	dvere, v
+dar e vorud	vstup, vchod, vstupni dvere
+dar e xoruj	vychod (dvere)
+dar jostojuye	po (potom)
+dar kenar	vedle, u, pri
+dar peye	po (potom)
+dar rahe	smerem k
+dar zadan	klepat (na dvere)
+Dara	Dara
+daraje ye do	druha trida (ve vlaku)
+daraje ye yek	prvni trida
+darbarabar	proti
+darbare	o
+darbareye	smerem k, o
+dard	bolest
+darham sekastan	porazit, rozprasit, rozdrtit
+darmangah	poliklinika, zdravotni stredisko
+darmiyane	mezi
+darpahlu	u
+darpahluye	pri
+darpey	pro, za
+darre	udoli
+daru ye zedd e abestani	antikoncepce
+daruxane	lekarna
+darya	more
+daryace	jezero
+daryayi	namorni
+darzi	krejci
+das	srp, kosa
+dast	ruka
+dast e dovom	z druhe ruky (second hand), pouzite zbozi
+dastkes	rukavice
+dastmal	kapesnik
+dastmal e bacce	plenky
+dastmal e behdasti	damska vlozka
+dastmal e gardan	vazanka, kravata
+dastmal e kaqazi	papirovy ubrousek
+dastur e zaban	mluvnice, gramatika
+dastan	mit
+davande	bezec
+davazdah	dvanact
+davidan	behat, bezet
+dayi	stryc, stryc z matciny strany
+deh	ves
+dehkade	vesnice
+del	srdce
+del o jegar e qaz	drubky
+deraxt	strom
+deraz	dlouhy
+derazi	delka
+Desambr	prosinec
+deser	dezert
+devist	dve ste
+Dey	22. prosinec - 20. leden
+dez	pevnost, tvrz
+didan	videt
+digar	jiny (dalsi)
+din	nabozenstvi
+dinam	dynamo
+dirtar az	za, vzadu
+diruz	vcera
+disab	vcera vecer
+div	dabel, demon
+do	dva
+do bar	dvakrat
+do hezar	dva tisice
+dobare	opet
+docarxe	bicykl, jizdni kolo
+dojin	tucet
+dokme	knoflik
+dokme ye sardast	manzeta
+dolar	dolar
+domal	nezit, vred
+dombalan	lanyz
+dorud	nazdar, ahoj
+Dosanbe	pondeli
+dosman	nepritel
+dosvari	potiz, obtiz
+dovom	druhy
+doxtar	dcera, divka
+doxtar e amme	sestrenice, dcera tety z otcovy strany
+doxtar e ammu	dcera stryce z otcovy strany
+doxtar e dayi	dcera stryce z matciny strany
+doxtar e xale	sestrenice, dcera tety z matciny strany
+doxtarce	devce
+dram	drama
+dud	dym
+dur	daleky, daleko, pryc
+durtar	z, od, pryc
+dust	pritel, kamarad
+dust bedar	mej rad
+dust dastan	mit rad
+dus	rameno
+dusidan	dojit
+dusize	slecna, divka
+e	vyjadreni genitivu
+e'tebarname	akreditiv
+e isan	jejich
+e ma	nas
+e man	muj
+e soma	vas
+e to	tvuj
+e u	jeho
+edare ye post	posta, postovni urad
+ehtiyat	opatrnost, obezretnost
+ejare kardan	najmout, pronajmout
+eltehab	zanet, zapal
+Emrika	Amerika
+emruz	dnes
+emsab	dnes vecer
+emtehan kardan	vyzkouset
+emza	podpis
+engelisi	anglicky
+enheraf	objizdka
+enqebaz e mahice	krec
+ensan	clovek
+eshal	prujem
+eslam	islam
+eslami	islamsky
+esm	jmeno
+Espand	20. unor - 20. brezen
+espanj	houba, zinka
+estart	startovani
+estaxr	bazen
+estemal e doxaniyat mamnu ast	koureni zakazano
+esteyk	steak [stejk]
+eskaf	skrin, satnik
+esq	laska
+esq budan	milovat
+estebah	chyba
+etebar dastan	mit platnost
+extar	varovani, vystraha, upozorneni
+Eyd e Milad e Masih	Vanoce
+eynak	bryle
+ezafe-qeymat e daraje ye yek	priplatek za prvni tridu
+fahmidan	rozumet
+fak	celist
+fandak	zapalovac
+fandoq	liskovy orisek
+Faransavi	francouzsky
+faravahr	andel, duch
+faravan	dostatek, dostatecny
+faravani	dostatek
+fard	osoba, clovek
+farda	zitra
+fardi	osobity, osobni
+farhang	slovnik
+farman	rizeni
+Farsi	persky
+fars	koberec
+Farvardin	21. brezen - 20. duben
+farzand	syn
+Farzand e Xoda	Syn Bozi
+fekr	uvaha
+fekr kardan	myslet
+felfel	pepr
+fenjan	salek, pohar, hrnek
+fer	trvala ondulace
+ferestadan	posilat
+fereste	andel
+Fevriye	unor
+fil	slon
+film	film
+filter	filtr
+filterdar	filtr (cigar.)
+firuze	tyrkys
+fori	hned
+forudgah	letiste
+forus	prodej
+forusande	prodavacka
+forusgah	prodejna, obchod
+foruxtan	prodavat, prodat
+frank	frank
+futbal	kopana, fotbal
+galu	hrdlo, hrtan
+gam	krok
+gandom	psenice
+ganj	poklad
+ganje	skrin, satnik
+garaz	garaz
+garc	hrib
+gard e pof	labutenka
+gard e surat	pudr
+gardan	krk, sije
+gari	kara
+garm	teply, vrely, horky
+garma	teplo, vedro
+gav	krava
+gavazn	jelen
+gaz	plyn
+gaz e pansoman	gaza, mul
+gazane	kopriva
+gazidan	kousat
+geran	drahy, nakladny
+gerantar	drazsi
+gerantarin	nejdrazsi
+gerd	kulaty, okrouhly
+gerdagerd	kolem, okolo, asi, o
+gerdu	vlassky orech
+gere	uzel
+gereftan	dostavat, vzit si, dostat
+girboks	zapalovani, zazeh
+gisuafsan	lak na vlasy
+giyahasenasi	botanika
+goft	rikal
+goftan	rikat, pravit, povedet, rict
+goftogu	dialog, diskuze, rozhovor
+gol	kvet
+gol-kalam	kvetak
+golabi	hruska
+golf	golf
+golforusi	kvetinarstvi
+goli	ruzova
+gom kardan	ztracet
+gomrok	klientela, zakaznictvo
+gonjayes	kapacita
+gorbe	kocka
+gorg	vlk
+gorosne	hladovy
+gosad	siroky
+govahiname	osvedceni, prukaz
+govahiname ye ranandegi	ridicsky prukaz
+gowhardan	klenotnice, sperkovnice
+gowje	sliva
+gowje ye farangi	rajce, rajske jablko
+gozar	prujezd
+gozarname	cestovni pas
+gozastan	travit (cas)
+gram	gram
+gram	gramofon
+gud	hluboky
+gune	tvar, lice
+gurestan	hrbitov
+gusale	tele
+gusfand	ovce
+gus	ucho
+gus dadan	poslechnout
+gus kardan	poslouchat
+gust	maso
+gust e gav	hovezi (maso)
+gust e gusale	teleci (maso)
+gust e xuk	veprove (maso)
+gustforusi	reznictvi, masna
+gusvare	nausnice
+ha!	o!
+haft	sedm
+haftad	sedmdesat
+hafte	tyden
+haftom	sedmina, sedmy
+haftsad	sedm set
+hal	kondice, zdravi
+hala	ted, nyni
+halqe	prsten
+halqe ye namzedi	snubni prsten
+ham	i, take, rovnez
+hamberger	hamburger [hamburgr]
+hame	vse, vsechno
+hame ciz	vsechno
+hamise	vzdy
+hammam	koupelna, lazen
+hamrah	po (podel)
+hamsar	manzelka
+hamzan	mixer
+hang	pluk
+hangam	za (trvani), v prubehu
+hanuz	zatim, jeste, prozatim
+haqq	pravo
+har	kazdy
+harakat	odjezd
+harcand	presto
+harf	grafem, pismeno
+harf e biseda	souhlaska
+harf zadan	mluvit, hovorit
+hargez	nikdy
+hast	osm
+hastad	osmdesat
+hastom	osmina, osmy
+hastsad	osm set
+hatdag	parek v rohliku (housce), hot dog
+hati	ani
+hava	vzduch
+havakas	chlazeni, chladici system
+havapeyma	letadlo
+havij	mrkev
+hayat	zivot
+hazine	sazba, poplatek, taxa, sarze
+hefdah	sedmnact
+hejdah	osmnact
+helikopter	vrtulnik, helikoptera
+Hend	Indie
+hendavane	meloun
+Hendustan	Indie
+hes	cit
+hesab	ucet
+hezar	tisic
+hezb	politicka strana
+hic	nic, zadny, ani
+holu	broskev
+honar	umeni
+horuf	hlaska
+hotel	hotel
+howle ye hammam	koupaci plast
+iman	vira, presvedceni
+in	tento, tato, toto, tenhle, tahle, tohle
+inja	zde, tady
+Iran	Iran
+Irani	iransky
+Isa	Jezis
+Isa Masih	Jezis Kristus
+islam	islam
+islami	islamsky
+Island	Island
+Islandi	islandsky
+ist	stop, zastavka
+istgah	nadrazi, stanice
+istgah e rah e ahan	zeleznicni stanice, vlakove nadrazi
+isan	oni (pro osoby)
+isanra	je (akuzativ zajmena "oni" pro osoby)
+Italiya	Italie
+izad	buh
+j (horuf)	dz (hlaska)
+ja	misto
+ja'be	krabice
+ja'be dande	prevodovka
+ja'be ye abzarha ye arayes	toaletni taska / kabelka, neceser
+ja'be ye komakha ye naxostin	lekarnicka
+jadde	silnice
+jadu	kouzlo
+jahan	svet
+jahani	svetovy
+jame	kostym
+jamedan	kufr, zavazadlo
+jan	duse, zivot, duch
+jang	valka
+jangal	les
+jangali	lesni
+jangidan	valcit
+janvarsenasi	zoologie
+jarub	koste, smetak
+jasigari	popelnik
+javab dadan	odpovidat
+javan	mlady
+jaz	dzez, jazz [dzez]
+jegar	jatra
+jeld	svazek
+jelow	pred (s akuzativem), vpred, po (podel)
+jen	demon, dzin
+jib	kapsa
+jir	semis
+joda	z, od, pryc
+joft	par
+joft dampayi	backory, pantofle
+joft jurab	ponozky
+joft kafs	boty
+joft sandal	sandaly
+Jom'e	patek
+Jomhuri ye Ceki	Ceska republika
+Jomhuri ye Eslami ye Iran	Iranska islamska republika
+jonub	jih
+joqrafiya	zemepis, geografie
+jostoju kardan	hledat
+jowhar	inkoust
+juje	kure(ci)
+jurab	ponozka
+jurab e zanane (joft~)	puncochy
+juy	potok
+juybar	potok
+kabk	koroptev
+kabl	kabel
+kabud	modr
+kabutar	holub
+kadu	cuketa, cukyne
+kadu ye halvayi	pomerancova stava
+kadu ye mosammayi	tykev, dyne
+kaf	dno
+kafi	dost, dostatecny
+kafs	bota
+kafs e katani (joft~)	tenisky
+kafs e tenis	tenisky
+kahes	snizeni, redukce
+kahroba	jantar
+kahu	hlavkovy salat
+kak	blecha
+kalam e qermez	cervene zeli
+kalampic	zeli
+kalbas	salam
+kaleme	slovo
+kam	malo
+kamarband	pasek
+kami	trochu
+kamiyon	kamion
+kamtar	mene
+kan	dul
+Kanada	Kanada
+kandu	ul
+kanise	synagoga
+kaqaz	papir
+kaqaz e kado	balici papir
+kaqaz e naqqasi	kreslici papir, vykres
+kaqaz e pisnevis	nacrtnik, skicak
+kaqaz e yaddast	dopisni papir
+kar	prace
+kar e dast	rucni prace
+kar kardan	pracovat, konat praci
+karafs	celer
+karamel	karamel
+karbon	uhlik
+karburator	karburator
+kardan	delat, konat, cinit
+kardan	znalec
+karde	delany
+kardinal	kardinal
+kare	maslo
+karevan	karavan
+karkas	sup
+kart e e'tebar	kreditni karta, uverova karta
+karton	karton
+kartpostal	pohlednice
+kase	miska
+kaset	kazeta
+kasane	bouda
+kaskak	ceska
+kasti	lod, parnik
+katan	cupanina, bavlna
+kax	zamek
+kazdom	stir
+ke	ze
+kelid	klic
+kelisa	kostel
+kemping	kempink
+kenar	pryc, daleko, od
+kenar e darya	pobrezi, breh (more)
+kerem	krem
+kerem e aftab	krem na opalovani, opalovaci krem / mleko
+kerem e dast	krem na ruce
+kerem e zir	podkladovy krem
+kerempudr	telovy pudr, zasyp (kosmeticky)
+keresme	milostny, zamilovany
+kes	plasticka guma
+kestzar	pole, plantaz
+kestzar e zorrat	obilne pole
+kesvar	zeme_ stat
+ketab	kniha
+ketab e fehrest	katalog
+ketab e rahnama ye rah-ahan	jizdni rad
+ketabforusi	knihkupectvi
+key	kdy
+keyk	zakusek, moucnik, kolac
+ki	kdo
+kibord	klavesnice
+kif	taska
+kilo	kilogram, kilo
+kilometr	kilometr
+kilometr-somar	tachometr
+klac	spojka
+kodam	ktery, jaky
+kohne ye bacce	plenka
+koja	kde
+kolah	cepice, klobouk, cepec
+kolah e sostosu	koupaci cepice
+kolbe	chata
+koluce	kolac
+kolye	ledvina
+komak	pomoc
+komak kardan	pomahat
+komedi	komedie
+kon	delej
+konsulgari	konzulat
+Kordestan	Kurdistan
+Kore	Korea
+kot	sako
+kot e xanegi	zupan
+kot e xaz	kozich
+kot o salvar (dast~)	oblek
+kotlet	kotleta
+kravat	kravata, vazanka
+krom	chrom
+kubidan	pomlit
+kucak	maly
+kucaktar	mensi
+kucaktarin	nejmensi
+kuceh	ulicka, alej
+kucek	maly
+kudak	dite
+kufte ye rize	karbanatek
+kuh	hora
+kupe	kupe
+kupe ye dotaxti	dvouluzkove kupe
+kupe ye yektaxti	jednoluzkove kupe
+kurak	vred, nezit
+kutah	kratky
+kutahtar	kratsi
+kutahtarin	nejkratsi
+kuze	dzban
+lab	ret
+lak e naxon	lak na nehty
+lakalkol	lak
+lakpakkon	odlakovac
+lamp	lampa
+laqat	slovo
+las e sena	plavky
+lastik	guma
+lastiki	gumovy
+latin	latinsky
+laziz	chutny
+lebas	sat, saty
+lebas e sab	vecerni saty
+lebasha	saty
+lezzat bordan	tesit se, vychutnavat
+limu	citron
+limunad	limonada
+litr	litr
+livan	sklenice, sklenka
+losiyon e pas az ris tarasi	voda po holeni
+lotfan	prosim
+lowze	mandle (anat.)
+lubiya ye sabz	zelene fazole
+lule	potrubi, roura, tuba
+ma	my
+madar	matka
+madar e sowhar	tchyne (matka muze)
+madar e zan	tchyne (matka zeny)
+madar e zan_ madar e sowhar	tchyne
+madar-madarbozorg	prababicka
+madarbozorg	babicka
+madrese	skola
+mafsal	kloub
+mah	mesic
+mahi ye azad	losos
+mahi ye dudi	uzenac, uzeny sled
+mahi ye kuli	sardel, ancovicka
+mahi ye pahn	platys
+mahi ye qezelala	pstruh
+mahi ye sim	kambala velka
+mahi ye xaldar	makrela
+mahi ye xardar	okoun
+mahiforusi	rybarna
+mahigiri	rybareni
+majalle	casopis
+mal	majetek
+malekiyat	vlastnictvi
+mama	mama
+mamnu	zakazany
+man	ja
+manande	jako
+manidan	zustat
+manikur	manikura
+manra	mne, me
+manzel	sowhar
+maqaze	obchod, prodejna
+maqz	mozek
+mar	had
+mara	nas
+marcube	chrest
+mard	muz
+mardane	muzny
+marg	smrt
+marjan	koral
+mark	marka
+markaz e sahr	stred mesta
+marmahi	sled
+Mars	brezen
+Maryam	Marie
+marz	hranice
+masihi	krestan
+masjed	mesita
+masmumiyat e qazayi	otrava
+mashur	svetoznamy, prosluly
+masin	auto
+mat	mat, sachmat
+matik	rtenka, ruz
+maxmal	mansestr
+maxmali	samet, aksamit
+mayo	plavky
+Me	kveten
+me'de	bricho
+medad	tuzka
+medad pakkon	guma
+medadpakkon	guma
+mehalud	mlhavy
+mehman	host
+mehmani	vecirek
+mehmanxane	hostinec
+mehr	laska
+mehrban	laskavy
+mehvar	osa
+melli	narodni
+meqdar karbon	pruklepovy papir, karbonovy papir
+meqyas	meritko
+mes	med
+mesl	jako
+mesl in	tentyz
+meski	cern, cerny
+metr	metr
+metro	metro
+meydan	namesti
+meygu	garnat
+mezhab	denominace, vyznani, nabozenska obec
+mi-	slovesny prefix pro pritomny cas
+milelang	klikovy hridel
+miliyard	miliarda
+miliyon	milion
+minakari	smalt
+minibus	mikrobus
+mive	ovoce, plod
+miyane	stred, centrum
+miz	stul, lavice, katedra
+mobaser e qatar	strojvudce, strojvedouci
+moc	zapesti
+moce pa	kotnik
+moddat	dlouho
+modir	reditel, spravce, vedouci
+Mohammad	Mohamed
+mohandes	inzenyr
+mohre	matka (u sroubu), matice
+momken	mozny, mozno
+monsi	sekretarka
+morabba	marmelada
+Moraviya	Morava
+mord	zemrel
+mordab	bazina
+mordan	zemrit, skonat
+morq	kure
+morvarid	perla
+mosabeqe	utkani, zapas
+mosaferat kardan	cestovat
+mosaferati	cestovani
+mosaferxane	hostinec
+mosakken	sedativum
+mosalman	muslim
+moshel	projimadlo
+mostaqim	rovny
+mostatil	obdelnik
+mostaz'afin	ponizeni (adj.)
+motasakker	vdecny
+motasakkeram	dekuji
+moteassefane	bohuzel
+motmaen	bezpecny
+motorsiklet	motocykl
+motun	text
+mowjsekan	surfovaci [serfovaci] prkno
+mowz	banan
+mu	vlas
+mucin	pinzeta
+musiqi	hudba
+musiqi ye klasik	vazna hudba
+musiqi ye mardomi	folkova hudba, folk
+musiqi ye pap	popularni hudba
+muxoskkon	fen, vysousec vlasu
+muze	muzeum
+na	ne
+na-	ne-
+nabat	rostlina
+Nader	Nader
+nafar	jednotlivy
+nah	ne
+nahar	obed
+nam	nazev, jmeno
+namad	plst
+namak	sul
+namayes	hra (drama)
+namayesgah	vystava
+namayesname	hra
+namaz	modlitba
+namaz kardan	modlit se
+name	dopis
+namzed	snoubenec
+nan	chleb
+nanvayi	pekarna, pekarstvi
+napak	necistotny
+naqse	mapa, plan
+naqse ba meqyas e bozorg	mapa velkeho meritka
+naqse ye rahha	automapa
+naqse ye sahr	plan mesta
+narangi	mandarinka
+naranj	pomeranc
+naranji	oranzova
+nargil	kokos
+navad	devadesat
+navar	stuha, stuzka
+nax	nit
+nax e pasm	cesana prize
+naxod	hrach
+naxost	prvni
+naylon	nylon
+nazbales	poduska
+nazdik	blizko, vedle, u, pri
+nazdiktar	blizsi
+nazdiktarin	nejblizsi
+ne-	ne-
+negah dar	zastav
+negah dastan	drzet, dodrzovat, zachovavat, udrzet, zastavovat
+negaristan	spatrovat
+nejat	zachrana
+nejat e melli	narodni osvobozeni
+nesane	znameni
+nesani	adresa
+nesastan	sedet
+nevestafzarforusi	papirnictvi
+nevestan	psat
+neyrang zadan	manevrovat
+nezad	plemeno, rod
+nezad e ensan	lidsky rod
+nim	polovina, pul
+nime	polovicni
+nimkat	lavice
+niru ye daryayi	valecne namornictvo
+nirumand	statny, robustni
+nistam	nejsem
+niyayes	modlitba
+niyayes kardan	modlit se
+niz	take
+noh	devet
+nohom	devitina
+nohsad	devet set
+nok	kormidlo
+noqre	stribro
+norvezi	norsky
+nosxe	lekarsky predpis, recept
+Novambr	listopad
+now	novy
+Nowruz	Prvni jarni den
+noxod e sabz	hrach (zeleny)
+nur	svetlo
+nur e kam	zablesk
+nusane	napoj
+nusidan	napit se
+nusidani	piti
+nuzdah	devatenact
+o	a, i
+oftadan	padat
+Oktobr	rijen
+omid	nadeje
+omidaram ke	kez bych
+omlet	omeleta
+ordak	kachna
+ordakmahi	stika
+Ordibehest	21. duben - 21. kveten
+Orupa	Evropa
+Orupayi	evropsky
+ostovar	ozvuceni
+ostoxan	kost
+ostoxan e tarqove	klicni kost
+otaq	pokoj, mistnost
+otaq e entezar	cekarna
+otobus	autobus
+otokar	autokar
+otomobil	automobil
+otu	zehlicka
+pa	noha, stopa
+padow	hotelovy zrizenec, poslicek
+padsah	kral, cisar
+padsahi	kralovstvi
+padyar	proti
+paeyn	dolu, pod
+pahlavan	bohatyr, rek, sampion
+pahlu	bok, vedle
+pakat	obalka
+pakize	cistotny
+palto	kabat
+pamplimus	grep, grapefruit
+panbe	bavlna
+panbeyi	lnena tkanina, platno
+pand	rceni
+pand dadan	kazat, hlasat
+panir	syr
+panj	pet
+panjah	padesat
+panjare	okno
+panjom	petina, paty
+Panjsanbe	ctvrtek
+pansad	pet set
+panzdah	patnact
+par	pero
+parandesenasi	ornitologie
+parastes kardan	uctivat
+parastesgah e yahudiyan	synagoga
+parastidan	zboznovat
+parcam	vlajka, zastava
+parce	latka, material
+parce ye abrisam e masnui	saten
+parce ye harir e nazok	sifon
+parce ye katani	lnena tkanina, platno
+parce ye pasmi (sad dar sad)	flanel
+parce ye turi	krajka
+parcin	plot
+parde	membrana
+pareyi	nektery, nejaky
+parhiz	dieta
+parhizkar	svetec
+pari	vila
+park	park
+park kardan	parkovat
+parking	parkoviste
+parsal	loni, vloni
+partgah	utes
+parti	vecirek
+partow	paprsek
+parvane	motyl
+parvardegar	buh
+pas	po, za, potom, pozdeji
+pas az	po (potom)
+pasban	policista
+pasfarda	pozitri
+pasgah e polis	policejni stanice
+pasox	odpoved
+pasox dadan	odpovedet
+pase	komar
+pasidan	strikat
+pasm	vlna, chlup
+pasmi	cesana prize
+pasne	pata
+pate	pastika
+payambar	prorok
+payan	konec
+payan e hafte	vikend
+payin	dole, pod
+payine	dole, dolu, nize, pod
+pedal e gaz	pedal plynu
+pedar	otec
+pedar e sowhar	tchan (otec muze)
+pedar e zan	tchan (otec zeny)
+pedar e zan_ pedar e sowhar	tchan
+pedar-pedarbozorg	pradedecek
+pedarbozorg	dedecek
+pelle ye goriz	nouzovy vychod
+penhan sodan	skryvat
+pesar	chlapec, hoch, syn
+pesar e amme	bratranec, syn tety z otcovy strany
+pesar e ammu	syn stryce z otcovy strany
+pesar e dayi	syn stryce z matciny strany
+pesar e xale	bratranec, syn tety z matciny strany
+pestan	prsa, hrud
+pey	nerv
+peyda kardan	nachazet, nalezat
+peyda kon	najdi
+peyk	posel
+pezesk	lekar
+pezeski	lekarstvi
+pic	sroub
+picidan	zabalit, obalit
+pilmorq	krocan, kruta
+pir	stary
+pirahan	kosile
+piramun	okolo, kolem
+piston	pist
+pis	pred, po (podel)
+pis az	pred
+pisani	celo
+pisband e bacce	bryndacek
+pisnahad kardan	doporucit, navrhnout
+pisxedmat	komornik, osobni sluha
+pit	kanystr
+pitza	pizza [pica]
+piyade	pesky
+piyaderow	chodnik
+piyaz	cibule
+pizame	pyzamo
+platin	platina
+poker	poker [pokr]
+pol	most
+polis	policie
+pomp e benzin	benzinova cerpaci stanice, benzinova pumpa
+pond	libra
+por kardan	vyplnovat
+porsidan	ptat se
+portaqal	pomeranc
+postxane	posta
+post	zada, za
+poste sar	za, vzadu
+pudr	pudr
+pulad e bizang	nerez ocel
+pust	kuze
+puse	slozka
+puzes mixaham	prominte
+q (horuf)	gh (hlaska)_ tj. velarni "r" / uvularni "k"
+qafase	police, policka
+qahve	kava
+qahve i	hnedy
+qahvexane	kavarna, cajovna
+qal'	cin
+qalam	pastelka, barevna tuzka
+qalam e naqqasi	pastelka, barevna tuzka
+qalb	srdce
+qali	koberec
+qarc	hrib, houba
+qarqavol	bazant
+qarz	dluh
+qassabi	reznictvi
+qasang	hezky, krasny
+qatar	vlak
+qatar e tondrow	rychlik
+qatre ye cesm	ocni kapky, kapky do oci
+qatre ye gus	usni kapky, kapky do usi
+qayeq	clun
+qayeq e badi	plachetnice
+qayeq e motori	motorovy clun
+qayeq e paru zani	veslarsky clun
+qaz	husa
+qaza	jidlo, potrava, strava, pokrm
+qermez	cervena
+qeyci ye naxon	nuzky na nehty
+qeymat	cena
+qodde	zlaza
+qodrat	moc
+qolve	ledvina, ledvinka
+Qoran	Koran
+qors e sorfe	pastilky proti kasli
+qors e xabavar	prasek na spani
+qoti	krabice
+quti	konzerva, plechovka
+ra	vyjadreni akuzativu
+radiator	radiator, chladic
+radiyator	radiator, chladic
+radiyo	radio
+raftan	jit
+rah	cesta
+rah boro	chod
+rah raftan	chodit
+rahbar	vudce
+raje'be	o
+raket	raketa
+ran	stehno
+ranande	ridic
+ranandegi kardan	ridit (auto)
+randan	jet
+rang	barva
+rang e raqiq	odstin
+rangbar	barevny preliv
+rangi	barevny
+rangin	barevny
+ranj	bolest
+rasidan	dozravat
+rast	pravy
+rastegari	spasa
+rasti	pravda
+rasturan	restaurace
+ravan	duch, duse
+raxtsuyxane	pradelna
+razak	chmel
+rekab	pedal (u bicyklu)
+reservasiyon	rezervace, reserve
+rezerv kardan	rezervovat
+rezerv sode	rezervovany, vyhrazeny
+ris	vousy
+ris tarasidan	holit se
+risekan kardan	rozdrtit, rozprasit, porazit
+ristaras	holici strojek (elektr.)
+rivas	reven, rebarbora
+riyal	rijal
+robh	ctvrt
+romatism	revmatismus
+rowqan	olej
+rowqan e karcak	ricinovy olej
+rowqan e motor	motorovy olej
+rowqan e zeytun	olivovy olej
+rowqani	olejovy
+rowsan	svetla
+rowsani	svetly
+ruban	stuha
+ruberu	protejsi
+ruberuye	naproti
+rude	strevo
+rudxane	reka
+ruh	duch
+ruhaniyat	cirkev
+rusari	satek
+Rusiyye	Rusko
+ruy	zinek
+ruye	nad
+ruyi	pres
+ruz	den
+ruz e kar	pracovni den
+ruz e tatil	den pracovniho klidu
+ruzane	denni
+ruzname	noviny
+ruznameforusi	novinovy stanek
+ruz	ruz, rtenka
+saat	hodina, hodinky
+saat e divari	hodiny
+saat e elektriki	elektricke hodiny
+saat e jibi	kapesni hodinky
+saat e moci	naramkove hodinky
+saat zangdar	budik
+saatsazi	hodinarstvi
+sabad	kos
+sabok	lehky
+sabr kardan	cekat (na)
+sabun	mydlo
+sabz	zeleny
+sabzi	zelenina
+sad	sto
+sade	snadny, jednoduchy, prosty, lehky
+sadom	setina
+safi	kavovar
+sag	pes
+sagak e kamarband	prezka, spona
+sahel	breh, plaz, pobrezi
+sahra	poust
+saku	nastupiste
+sal	rok
+Sal e Now	Novy rok
+salad	salat
+salam	ahoj
+salib	kriz
+saliyane	rocne
+salname	rocenka, sbornik, almanach
+salon	salon, sal
+salon e zibayi	salon krasy, kosmeticky salon
+sam	jed
+sandal	sandal
+sandali	zidle
+sandali ye asayes	lehatko
+sandoq	bedna
+sandvic	sendvic
+sangin	tezky
+sangsar kardan	kamenovat
+saniye	vterina, sekunda
+sanjaq	spendlik
+saq	noha
+sar	hlava
+Sara	Sara
+saratan	rakovina
+sarbaz	vojak, kluk (karty)
+sard	chladny, studeny
+sardin	sardinka
+sargami	zabava, kratochvile
+sarih	rychly
+sarmaxordegi	nachlazeni
+sarrafi	smenarna
+sarsane	svrchnik
+sartasar	pres, skrz, napric
+sarv	cypris
+satan	saten
+saxtan	budovat
+saye	stin
+saye ye cesm	ocni stiny
+sayeban	slunecnik
+se	tri
+se bar	trikrat
+sebil	knir
+seda	zvuk
+sedr	cedr
+sefares dadan	objednat, objednavat
+sefid	bily
+sefr	nula
+senn	vek
+sepas	dik
+sepas gozaram	dekuji
+sepas gozardan	dekovat
+sepaye	stativ
+Septambr	zari
+seramik	keramika
+seramiki	keramicky
+serke	ocet
+servis	servis, sluzba
+Sesanbe	utery
+setare	hvezda
+setaresenas	hvezdar
+sevom	treti
+sez	nebezpeci
+si	tricet
+sib	jablko
+sib zamini	brambor
+sigar	cigareta
+silandr	valec (aut.)
+sim	drat
+siman	cement
+sine	hrud, hrudnik, prsa
+sinema	kino
+sinema	kino
+sinepahlu	zapal plic
+sir	cesnek
+sirabi	drstky
+sisad	tri sta
+siyah	cerny
+siyahrag	zila
+siyahsorfe	cerny kasel
+sizdah	trinact
+sobh	rano
+sobhane	snidane
+soltan	sultan, kral
+som	tretina
+sombade ye naxon	pilnicek na nehty
+sorb	cin
+sorud	zpev, hymna
+sorx	rudy
+sorxak	spalnicky
+sos	omacka
+sosis	klobasa, salam, uzenka, vurt
+sotun e faqarat	pater, hrbet
+supermarket	samoobsluha, supermarket
+surat	tvar, oblicej
+surati	ruzova
+suye	do, k
+suzan	jehla
+suzan e keravat	jehlice do kravaty
+s (horuf)	s (hlaska)
+sab	noc, vecer
+sab be xeyr	dobrou noc
+saffaf	prusvitny, pruhledny
+sagerd	hotelovy zrizenec, poslicek
+sah	kral, cisar
+sahansah	kral kralu
+sahansahi	kralovsky
+sahbalut	kastan
+sahmahi	sled
+sahr	mesto, velkomesto
+sahrag	tepna, arterie
+sahrak	mesto
+sahrbani	mestska policie
+sahrdari	radnice
+Sahrivar	23. srpen - 22. zari
+sahrund	obcan
+sahtut	ostruzina
+sahzade	princ
+sal	sal, sala
+sal e gardan	sala
+salvar	kalhoty
+salvar e jin	dziny
+sam	vecere
+sam'	svicka, svice
+samele	vcetne
+sampu	sampon
+samsir	mec
+Sanbe	sobota
+sane	hreben, rameno
+sanzdah	sestnact
+sarir	zly
+sast	sedesat, palec
+satranj	sachy
+saxs	osoba
+saxsi	osobni, osobity
+sayad	snad, mozna, asi
+sekam	bricho
+sekamdard	boleni bricha
+sekastan	lamat
+sekkar	cukr
+sekl	podoba, tvar
+senasname	obcansky prukaz
+senel	prehoz, pelerina
+senidan	slyset
+serkat	podnik, spolecnost (obchodni)
+ses	sest
+sesom	sestina, sesty
+sessad	sest set
+setab	spech
+seytan	satan
+siling	silink
+sir	mleko, lev
+sir kakao	horka cokolada
+sirini	sladkost, sladke
+siriniforusi	cukrarna
+sise	sklo
+siyar	brazda
+sodan	stat se, stavat se
+sokolat	cokolada
+sokolati	cokoladovy
+soluq	rusny
+soma	vy
+somal	sever
+somara	vas
+somare	cislo
+somare ye xane	cislo domu
+somordan	pocitat
+sort	sortky
+sostan	umyvat
+sos	plice
+sotor	velbloud
+sowhar	manzel
+sur	slany
+ta	az (do)
+tab	horecka
+tab e nowbe	senna ryma
+tab e sadid	senna ryma
+tabaqe	poschodi, patro
+tabar	sekera
+tabe	panev
+tabestan	leto
+taft	lak na vlasy
+taj	koruna
+takestan	vinice, vinohrad
+taksi	taxi
+takxal	eso
+talaffoz	vyslovnost
+talx	horky
+tamam	cely, vse
+tambakuforusi	trafika, tabak (prodejna)
+tambr e post	znamka
+tamir	oprava
+tamirgah	opravna (dilna)
+tandissazi	socharstvi
+tang	uzky
+tanha	jen, pouze, jenom
+tappe	kopec
+taqdim dastan	predkladat
+tarasidan	holit
+tarazu	vaha
+tare (ye farangi)	porek, por
+tarik	temny, tmavy
+tarix	dejepis, historie, dejiny
+tarjih dadan	uprednostnovat, preferovat
+tarjome	preklad
+tars	strach
+tarsidan	bat se
+tarsu	bojacny
+tassof	litost
+tasakor kardan	dekovat
+tasannoj	krec
+tavajjoh	vyhlaska, upozorneni, oznameni
+tavaqqof	zastaveni
+tavaqqof mamnu	zakaz zastaveni
+tavaqqofgah	stanoviste
+tavvalod	narozeniny
+taxir	zpozdeni
+taxt	trun
+te	dno
+teatr	divadlo
+Tehran	Teheran
+teknoloziki	technologicky
+telefon	telefon
+telefon kardan	telefonovat
+telefonci	operator
+televiziyon	televize, televizor
+temesk	malina
+tenis	tenis
+teramva	tramvaj
+teras	terasa
+terlin	terylen
+termostat	termostat
+tesaker kardan	dekovat
+tesne	ziznivy
+tiq	ziletka
+tir	sip
+tire	tmavy
+tirerang	tmava
+tise	sekera
+tix	britva
+tiz	ostry
+to	ty
+tolombe	hustilka
+ton	tunak
+tond	prudky, ostry, rychly
+tong	karafa
+tora	tebe, te
+tormoz	brzda
+torob	redkev
+torobce	redkvicka
+tors	kysely
+torsak	stovik
+torsi	calamada
+tostkon	toastovac [toustovac]
+tosak	matrace
+toxm	vejce
+toxm e mahi	jikry
+transformator	transformator, menic
+tualet	zachod, WC, toaleta
+tuid	tvid
+tup	mic
+tur	sit
+tut	moruse
+tut e farangi	jahoda
+tuti	papousek
+u	on, ona
+ud	loutna
+ura	ho, jej
+ure	moc
+Ut	srpen
+va	a, i
+va'de	slib
+vagon	vagon, vuz
+vagon e bari	postovni vuz
+vagon e qazaxori	jidelni vuz
+vali	ale
+vaqf kardan	odkazovat
+vaqt	hodina, cas
+varaq	list, arch
+varaq e bazi	hraci karta
+varzes	sport
+varzesgah	stadion
+vatan	vlast
+vazeline	vazelina
+vazir	kralovna
+vazn	vaha
+vaz	naproti
+vaze	slovo
+velarm	vlazny
+velayat	mistodrzitelstvi
+ventil	ventil
+voltaz	napeti
+vorud	prichod, prijezd
+x (horuf)	ch (hlaska)
+xabidan	spat
+xahar	sestra
+xahar e sowhar	svagrova (sestra muze), svagrova
+xahar e zan	svagrova (sestra zeny), svagrova
+xahes mikonam	prosim, neni zac, rado se stalo
+xakestari	sedy
+xale	teta z matciny strany
+xali	prazdny, volny
+xalij	zaliv
+xame	smetana
+xame ye zade	slehacka
+xamir e dandan	zubni pasta
+xamus	z, od, pryc
+xandan	cist
+xandidan	smat se
+xane	dum
+xanevade	rodina
+xanom	pani
+xardal	horcice
+xargus	kralik
+xargus e sahrayi	zajic
+xarid	nakup
+xaridan	koupit
+xarmus	potkan
+xarobarforusi	smisene zbozi (prodejna)
+xastan	chtit
+xastegi ye faravan	unava, vycerpanost
+xasm	zlost
+xasmgin	rozzlobeny
+xatar	nebezpeci
+xatar e marg	nebezpeci smrti
+xatarnak	nebezpecny
+xatt	cara, linka, pismo, skript
+xatt e cesm	ocni linky
+xatt e latin	latinka
+xavar	vychod
+xaviyar	kaviar
+xedmatkar	pokojska
+xers	medved
+xeyli	velmi, mnoho, velice, hodne
+xeyr	ne
+xis	mokro
+xiyar	okurka
+xiyar e sur	okurka (mala, nakladana)
+Xoda	Buh
+Xoda negahdar	sbohem, na shledanou, Buh te provazej
+Xodavand	Pan, Hospodin, Panovnik
+xodkar	pero
+xodnevis	pero
+xodrow	auto
+xodtaras	ziletka, cepelka (holici)
+xodtaras e barqi	elektricky holici strojek
+xolase	vynatek
+xorak	pokrm
+Xordad	22. kveten - 21. cerven
+xordan	jist
+xorde	maly
+xordtar	mensi
+xordtarin	nejmensi
+xores	dusene maso se zeleninou, ragu
+xorma	datle
+xorsid	slunce
+xorus	kohout
+xorus e jangali	sluka lesni
+xos	potesitelny, prijemny, mily
+xos amadid	vitejte
+xosg	suchy
+xosksuyi	cistirna
+xub	dobry, dobro
+xubi	dobro, laskavost, dobrota
+xun	krev
+xyaban	ulice
+y (horuf)	j (hlaska)
+ya	nebo
+yad	pamet
+yahudi	zid
+yal	hriva
+yaqe	limec
+yaqut	rubin
+yaqut e kabud	safir
+yaqut e romani	ametyst
+yaqut e zard	topas, topaz
+yari	pomoc
+yas	serik
+yasm	nefrit
+yavas	pomalu, pomaly
+yax	led
+yazdah	jedenact
+ye	vyjadreni genitivu po samohlasce
+yek	jeden
+yek bar	jednou, jedenkrat
+Yeksanbe	nedele
+yod	jod
+yon	ion
+yuq	jho
+zaban	jazyk
+zabar	nad
+zabt e sowt	magnetofon (kazet.)
+zadan	zbit
+zahmat	drina
+zahmat dadan	obtezovat
+zahr	jed
+zaman	cas, doba
+zamin	zeme
+zan	zena
+zan	buk
+zanane	zensky
+zanbur	vosa
+zang	zvon
+zang zadan	zvonit
+zanjir	retez
+zanjiri	retezovy
+zanu	koleno
+zaqi	kos
+zar	zlato
+zard	zluty
+zard e kamrang	zlutohneda, plava
+zardak	karotka
+zardalu	merunka
+zarf	nadobi
+Zari	Zari
+zarif	jemny
+zarrin	zlata
+Zartost	Zarathustra, Zoroaster
+zaxm e sekam	vred (zalud.)
+zayes	narozeni
+zayesgah	porodnice
+zedd e bu	deodorant, dezodorant
+zedd e ofuni	antisepticky
+zedde	proti
+zegil	bradavice
+zeh	struna
+zemestan	zima
+zendegi	zivot
+zest	skaredy
+zeytun	oliva
+ziba	krasny, hezky, nadherny, elegantni
+zin	sedlo
+zip	zip, zdrhovadlo
+zir	pod
+zira	protoze, nebot
+zire	dole, dolu, nize, pod
+zirin	zpod
+ziyad	hodne, mnoho
+ziyan	skoda
+zomorrod	smaragd
+zomorrodin	smaragd
+zoraq	lod
+zorrat	kukurice
+zud	brzy
+zudtar	drive
+zudtarin	nejdrive
+z (horuf)	z (hlaska)
+zambon	sunka
+Zanviye	leden
+zarf	hluboky
+zarfa	hloubka
+zelatin	zelatina
+zile	vesta, natelnik, tilko
+zoker	zolik
+Zuan	cerven
+Zuye	cervenec
